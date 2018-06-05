@@ -1,0 +1,7 @@
+body {
+  font-family: 'Lato', serif;
+}
+
+iframe#typeform-full{ position: absolute; left:0; right:0; bottom:0; top:0; border:0; }
+
+footer a {padding: 5px; margin-right: 5px}
