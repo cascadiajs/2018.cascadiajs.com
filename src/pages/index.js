@@ -46,9 +46,6 @@ class MailChimpForm extends React.Component {
 
   render () {
     const { status, msg, email } = this.state;
-    if (status === 'success') {
-      return <strong>Thank you for signing up!</strong>;
-    }
 
     return (
       <div>
@@ -65,7 +62,7 @@ class MailChimpForm extends React.Component {
             <div id="mc_embed_signup_scroll">
               <label htmlFor="mce-EMAIL">
                 <p>Subscribe to get updates on the upcoming CascadiaJS 2018 conference</p>
-                {status === 'error' && <p><strong style={{ color: '#cc0000' }} dangerouslySetInnerHTML={{ __html: msg }} /></p>}
+                {status && <p><strong style={{ color: '#cc0000' }} dangerouslySetInnerHTML={{ __html: msg }} /></p>}
               </label>
               <input
                 type="email"
