@@ -1,0 +1,6 @@
+@media only screen and (min-width: 768px) { 
+    .markdown-container {
+        width: 60vw;
+        margin: 0 auto;
+    }
+  }

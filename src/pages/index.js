@@ -47,13 +47,13 @@ class MailChimpForm extends React.Component {
   render () {
     const { status, msg, email } = this.state;
     if (status === 'success') {
-      return <h2>Thank you for signing up!</h2>;
+      return <strong>Thank you for signing up!</strong>;
     }
 
     return (
       <div>
         <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css"/>
-        <div id="mc_embed_signup" style={{clear: 'left', width: '100%', fontFamily: 'sans-serif'}}>
+        <div id="mc_embed_signup" style={{clear: 'left', width: '100%'}}>
           <form
             onSubmit={this.handleSubmit}
             id="mc-embedded-subscribe-form"
@@ -64,8 +64,8 @@ class MailChimpForm extends React.Component {
           >
             <div id="mc_embed_signup_scroll">
               <label htmlFor="mce-EMAIL">
-                Subscribe to get updates on the upcoming CascadiaJS 2018 conference
-                {status === 'error' && <h2 style={{ color: '#cc0000' }} dangerouslySetInnerHTML={{ __html: msg }} />}
+                <p>Subscribe to get updates on the upcoming CascadiaJS 2018 conference</p>
+                {status === 'error' && <p><strong style={{ color: '#cc0000' }} dangerouslySetInnerHTML={{ __html: msg }} /></p>}
               </label>
               <input
                 type="email"

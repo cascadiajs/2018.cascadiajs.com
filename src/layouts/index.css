@@ -1,7 +1,21 @@
+html {
+  height: 100%;
+}
+
 body {
-  font-family: 'Lato', serif;
+  font-family: 'Lato', sans-serif;
+  color: #565354;
+  background-color: #fff;
+  min-height: 100%;
+  line-height: 1.4;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
 }
 
 iframe#typeform-full{ position: absolute; left:0; right:0; bottom:0; top:0; border:0; }
 
 footer a {padding: 5px; margin-right: 5px}
+
