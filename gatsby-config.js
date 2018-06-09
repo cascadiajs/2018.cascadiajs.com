@@ -45,5 +45,11 @@ module.exports = {
       }
     },
     "gatsby-plugin-offline",
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+        endpoint: 'https://cascadiajs.us1.list-manage.com/subscribe/post?u=ffa37cf28eebc9e75b8558f3b&id=d1b100650c'
+      },
+    },
   ]
 }
