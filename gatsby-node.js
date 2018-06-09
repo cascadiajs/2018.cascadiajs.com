@@ -4,11 +4,9 @@
  * See: https://www.gatsbyjs.org/docs/node-apis/
  */
 
- // You can delete this file if you're not using it
+// You can delete this file if you're not using it
 
-
-
-const path = require("path");
+const path = require('path');
 
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
@@ -35,13 +33,12 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     }
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      console.log(node)
+      console.log(node);
       createPage({
         path: node.frontmatter.path,
         component: markdownTemplate,
-        context: {}, // additional data can be passed via context
+        context: {} // additional data can be passed via context
       });
     });
   });
 };
-
