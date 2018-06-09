@@ -13,6 +13,26 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-favicon`,
+      options: {
+        logo: "./src/images/logo.jpg",
+        injectHTML: true,
+        icons: {
+          android: false,
+          appleIcon: true,
+          appleStartup: true,
+          coast: true,
+          favicons: true,
+          // doesn't do anything yet
+          firefox: true,
+          // doesn't do anything yet, but open graph headers should be managed in a different way i think
+          twitter: false,
+          yandex: true,
+          windows: true
+        }
+      }
+    },
+    {
       resolve: "gatsby-plugin-manifest",
       options: {
         name: 'CascadiaJS 2018',
