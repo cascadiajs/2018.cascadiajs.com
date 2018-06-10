@@ -1,8 +1,9 @@
-import React from "react";
+import React from 'react';
+import PropTypes from 'prop-types';
 import './markdown.css'
 
-export default function Template({
-  data, // this prop will be injected by the GraphQL query below.
+export default function Template ({
+  data // this prop will be injected by the GraphQL query below.
 }) {
   const { markdownRemark } = data; // data.markdownRemark holds our post data
   const { frontmatter, html } = markdownRemark;
@@ -12,12 +13,16 @@ export default function Template({
         <h1>{frontmatter.title}</h1>
         <div
           className="markdown-content"
-          dangerouslySetInnerHTML={{ __html: html }}
+          dangerouslySetInnerHTML={{ __html: html }} // eslint-disable-line react/no-danger
         />
       </div>
     </div>
   );
 }
+
+Template.propTypes = {
+  data: PropTypes.object
+};
 
 export const pageQuery = graphql`
   query MarkdownByPath($path: String!) {
@@ -30,4 +35,3 @@ export const pageQuery = graphql`
     }
   }
 `;
-
