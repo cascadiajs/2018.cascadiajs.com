@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "cascadiajs2018-web",
+  "description": "Website for CascadiaJS 2018, powered by GatsbyJS",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Carter Rabasa <carter@cascadiajs.com>",
   "dependencies": {
     "autobind-decorator": "^2.1.0",
     "gatsby": "^1.9.247",
@@ -24,7 +24,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write 'src/**/*.js'",
-    "lint": "eslint --ext .js,.jsx .",
+    "lint": "eslint --ignore-path .gitignore --ext js,jsx .",
     "test": "npm run lint"
   },
   "devDependencies": {
