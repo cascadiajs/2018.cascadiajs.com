@@ -31,8 +31,7 @@ module.exports = {
       'error',
       { components: ['Link'], specialLink: ['to'] }
     ],
-    'react/no-children-prop': 'error',
-    'react/no-danger': 'error'
+    'react/no-children-prop': 'error'
   },
   env: {
     es6: true
