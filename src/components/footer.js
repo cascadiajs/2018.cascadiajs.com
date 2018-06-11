@@ -4,6 +4,7 @@ import Link from 'gatsby-link';
 const Footer = () => (
   <footer style={{ textAlign: 'center', marginTop: '25px' }}>
     <Link to="/">Home</Link> |
+    <Link to="/call-for-presenters">Speak</Link> |
     <Link to="/code-of-conduct">Code of Conduct</Link> |
     <a title="CascadiaJS 2012" href="http://2012.cascadiajs.com">
       2012
