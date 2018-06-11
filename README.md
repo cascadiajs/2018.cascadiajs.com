@@ -1,5 +1,7 @@
 # The CascadiaJS 2018 website
 
+[![Build Status](https://travis-ci.org/cascadiajs/2018.cascadiajs.com.svg?branch=master)](https://travis-ci.org/cascadiajs/2018.cascadiajs.com)
+
 ## Key Details
 
 * Dates: November 15-16, 2018
