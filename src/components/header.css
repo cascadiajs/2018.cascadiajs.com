@@ -1,15 +1,18 @@
 nav {
-    padding-top: 10px;
+    padding: 10px;
+    background-color: rgb(55, 107, 251);
+}
+
+nav #logo {
+    height: 3.5vmin;
+    width: 3.5vmin;
 }
 
 nav a {
-    font-size: 16px;
-    border: 1px solid rgb(55, 107, 251);
-    color: rgb(55, 107, 251);
-    padding: 10px;
-    border-radius: 3px;
+    font-size: 4vmin;
+    color: #fff;
     text-decoration: none;
-    margin-right:10px;
+    margin-right:3vmax;
 }
 
 nav a:hover {

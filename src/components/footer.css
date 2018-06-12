@@ -1,0 +1,9 @@
+footer {
+    margin-top:30px;
+    text-align:center;
+}
+
+footer a {
+    font-size: 2.5vmin;
+    margin-right:2vmax;
+}

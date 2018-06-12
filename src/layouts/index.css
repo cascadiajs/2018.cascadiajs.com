@@ -8,11 +8,12 @@ body {
   background-color: #fff;
   min-height: 100%;
   line-height: 1.4;
+  margin: 0;
 }
 
 #container {
   display: grid;
-  grid-template-rows: 50px auto 50px;
+  grid-template-rows: 8vmax auto 8vmax;
 }
 
 img {

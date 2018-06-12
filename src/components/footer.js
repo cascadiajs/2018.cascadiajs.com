@@ -1,11 +1,12 @@
 import React from 'react';
 import Link from 'gatsby-link';
+import './footer.css';
 
 const Footer = () => (
-  <footer style={{ textAlign: 'center', marginTop: '25px' }}>
-    <Link to="/">Home</Link> |
-    <Link to="/call-for-presenters">Speak</Link> |
-    <Link to="/code-of-conduct">Code of Conduct</Link> |
+  <footer>
+    <Link to="/">Home</Link>
+    <Link to="/call-for-presenters">Speak</Link>
+    <Link to="/code-of-conduct">Code of Conduct</Link>
     <a title="CascadiaJS 2012" href="https://2012.cascadiajs.com">
       2012
     </a>
