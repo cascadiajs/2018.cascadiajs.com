@@ -2,9 +2,10 @@
 path: "/call-for-presenters"
 title: "Call for Presenters"
 ---
-CascadiaJS 2018 is a conference for web developers, taking place November 15-16 in Seattle, WA. As part of providing a platform for new voices in our industry, we are running a public Call for Presenters. The CFP will augment a roster of speakers we invite to speak at the event. The highlights for the CFP are:
+CascadiaJS 2018 is a conference for web developers, taking place November 15-16 in Seattle, WA. As part of providing a platform for new voices in our industry, we are running a public Call for Presenters. The final lineup for the conference will consist of speakers we invite and CFP submissions. The highlights are:
 
-* The CFP closes at 11:59 PM Pacific US time on July 20, 2018.
+* Talks are 25 minutes long with no Q&A following the talk.
+* CFP closes at 11:59 PM Pacific US time on July 20, 2018.
 * We cover all expenses (conference ticket, travel, lodging expenses, incidentals).
 * You commit to work with us on the talk and practice it several times.
 * We'll support and mentor you in whatever way you need!
@@ -15,7 +16,7 @@ Please review the information below before you submit to the CFP.
 
 ## Requirements
 
-Anyone who hasn't given a conference talk is eligible. Meetup talks, work talks, school talks are all OK, but we are focusing the CFP on providing a platform for new voices, especially those from the Pacific Northwest and from underrepresented groups (URMs) in our industry.
+Anyone who hasn't given a big conference talk is eligible. Meetups, smaller events, school talks are all OK, but we are focusing the CFP on providing a platform for new voices, especially those from the Pacific Northwest and from underrepresented groups (URMs) in our industry. If you're not sure if you're eligible, just ask!
 
 Please review our [Code of Conduct](https://github.com/cascadiajs/2018.cascadiajs.com/blob/master/code-of-conduct.md). Everyone who participates in our conference agrees to the enforcement of our CoC, and includes our friends, speakers, staff, sponsors, and attendees.
 
