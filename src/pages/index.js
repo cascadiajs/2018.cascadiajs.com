@@ -14,7 +14,11 @@ function IndexPage () {
       <br />
       <div id="tagline">
         <h2>CascadiaJS 2018 is a conference for web developers by web developers.</h2>
-        <br/>
+        <p>
+          <a className="cta" href="/submit-talk-proposal">Be a Speaker</a>
+          <a className="cta" href="/submit-organize-proposal">Be an Organizer</a>
+          <a className="cta soon" href="#soon" title="Tickets On Sale Soon!">Buy Tickets</a>
+        </p>
         <MailChimpForm />
       </div>
     </div>

@@ -3,20 +3,7 @@
     width: 90vw;
 }
 
-a.cta {
-    font-size: 16px;
-    border: 1px solid rgb(55, 107, 251);
-    color: rgb(55, 107, 251);
-    padding: 10px;
-    border-radius: 3px;
-    text-decoration: none;
-    margin-right:10px;
-}
 
-a.cta:hover {
-    background-color: rgb(55, 107, 251);
-    color: #fff;
-}
 
 @media only screen and (min-width: 768px) { 
     .markdown-container {
