@@ -15,9 +15,9 @@ function IndexPage () {
       <div id="tagline">
         <h2>CascadiaJS 2018 is a conference for web developers by web developers.</h2>
         <p>
-          <a className="cta" href="/submit-talk-proposal">Be a Speaker</a>
-          <a className="cta" href="/submit-organize-proposal">Be an Organizer</a>
-          <a className="cta soon" href="#soon" title="Tickets On Sale Soon!">Buy Tickets</a>
+          <a className="cta" href="/call-for-presenters">Be a Speaker</a>
+          <a className="cta" href="/call-for-organizers">Be an Organizer</a>
+          <a className="cta" href="https://ti.to/event-loop/cascadiajs-2018" title="Tickets On Sale Soon!">Buy Tickets</a>
         </p>
         <MailChimpForm />
       </div>
