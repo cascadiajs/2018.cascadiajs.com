@@ -2,7 +2,9 @@
 path: "/call-for-presenters"
 title: "Call for Presenters"
 ---
-CascadiaJS 2018 is a conference for web developers, taking place November 15-16 in Seattle, WA. As part of providing a platform for new voices in our industry, we are running a public Call for Presenters. The final lineup for the conference will consist of speakers we invite and CFP submissions. The highlights are:
+![photo of speaker](/cjs2012-speak.jpg)
+
+As part of providing a platform for new voices in our industry, we are running a public Call for Presenters. The final lineup for the conference will consist of speakers we invite and CFP submissions. The highlights are:
 
 * Talks are 25 minutes long with no Q&A following the talk.
 * CFP closes at 11:59 PM Pacific US time on July 20, 2018.
@@ -86,8 +88,9 @@ Once your talk has been accepted, we will commit to working with you to give an 
 
 ## The Selection Process
 
-Submissions close on July 20th at 11:59PM PST. We will get back to all speakers by Monday, August 6th. 
-You’ll Do Great!
+Submissions close on July 20th at 11:59PM PDT. We will get back to all speakers by Monday, August 6th. 
+
+## You’ll Do Great!
 
 If you have any questions about this process, need more information or need assistance with travel and/or lodging, don't hesitate to reach out to us at carter@cascadiajs.com.
 

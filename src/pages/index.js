@@ -12,7 +12,11 @@ function IndexPage () {
         src={hero}
       />
       <br />
-      <MailChimpForm />
+      <div id="tagline">
+        <h2>CascadiaJS 2018 is a conference for web developers by web developers.</h2>
+        <br/>
+        <MailChimpForm />
+      </div>
     </div>
   );
 }

@@ -1,15 +1,15 @@
-nav {
+header {
     padding: 10px;
     background-color: rgb(55, 107, 251);
 }
 
 nav #logo {
-    height: 3.5vmin;
-    width: 3.5vmin;
+    height: 1em;
+    width: 1em;
 }
 
 nav a {
-    font-size: 4vmin;
+    font-size: 2.5vmax;
     color: #fff;
     text-decoration: none;
     margin-right:3vmax;
@@ -19,3 +19,9 @@ nav a:hover {
     background-color: rgb(55, 107, 251);
     color: #fff;
 }
+
+@media only screen and (min-width: 768px) { 
+    nav a {
+        font-size: 2em;
+    }
+  }

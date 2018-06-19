@@ -2,3 +2,11 @@ img#hero {
     max-width: 100%;
     max-height: 100%;
 }
+
+@media only screen and (min-width: 768px) { 
+    #tagline {
+        width: 70vw;
+        margin: 0 auto;
+        text-align: center;
+    }
+  }

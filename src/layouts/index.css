@@ -13,7 +13,7 @@ body {
 
 #container {
   display: grid;
-  grid-template-rows: 8vmax auto 8vmax;
+  grid-template-rows: 4.5em auto 8vmax;
 }
 
 img {
@@ -22,7 +22,7 @@ img {
 }
 
 /* Typeform */
-iframe#typeform-full{ position: absolute; left:0; right:0; bottom:0; top:0; border:0; }
+iframe#typeform-full{ position: absolute; left:0; right:0; bottom:0; top:4.5em; border:0; }
 
 footer a {padding: 5px;}
 
