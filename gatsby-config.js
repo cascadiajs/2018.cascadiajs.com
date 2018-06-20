@@ -44,7 +44,7 @@ module.exports = {
         icon: 'src/images/logo.jpg'
       }
     },
-    'gatsby-plugin-offline',
+    // 'gatsby-plugin-offline',
     {
       resolve: 'gatsby-plugin-mailchimp',
       options: {
