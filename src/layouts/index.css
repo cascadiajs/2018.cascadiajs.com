@@ -13,7 +13,7 @@ body {
 
 #container {
   display: grid;
-  grid-template-rows: 4.5em auto 8vmax;
+  grid-template-rows: auto auto 8vmax;
 }
 
 img {

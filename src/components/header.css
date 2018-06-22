@@ -9,7 +9,7 @@ nav #logo {
 }
 
 nav a {
-    font-size: 2.5vmax;
+    font-size: 2vmax;
     color: #fff;
     text-decoration: none;
     margin-right:3vmax;
@@ -22,6 +22,6 @@ nav a:hover {
 
 @media only screen and (min-width: 768px) { 
     nav a {
-        font-size: 2em;
+        font-size: 1.6em;
     }
   }
