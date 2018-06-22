@@ -2,6 +2,8 @@
 path: "/call-for-presenters"
 title: "Call for Presenters"
 ---
+#### 📅 CLOSES JULY 20
+
 ![photo of speaker](/cjs2012-speak.jpg)
 
 As part of providing a platform for new voices in our industry, we are running a public Call for Presenters. The final lineup for the conference will consist of speakers we invite and CFP submissions. The highlights are:

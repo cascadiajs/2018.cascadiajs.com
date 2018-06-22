@@ -13,6 +13,7 @@
     "gatsby-plugin-manifest": "^1.0.25",
     "gatsby-plugin-offline": "^1.0.18",
     "gatsby-plugin-react-helmet": "^2.0.10",
+    "gatsby-plugin-twitter": "^1.0.20",
     "gatsby-source-filesystem": "^1.5.38",
     "gatsby-transformer-remark": "^1.7.41",
     "react-helmet": "^5.2.0"

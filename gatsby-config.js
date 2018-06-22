@@ -1,10 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: 'CascadiaJS 2018 - a JSConf for the PacNW'
+    title: 'CascadiaJS 2018 / Nov 15-16 / Seattle, WA'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     `gatsby-transformer-remark`,
+    `gatsby-plugin-twitter`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {

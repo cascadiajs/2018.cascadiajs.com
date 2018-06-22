@@ -17,6 +17,7 @@ const Header = ({ siteTitle }) => (
       <Link to="/call-for-presenters">Speak</Link>
       <Link to="/call-for-organizers">Organize</Link>
       <Link to="/call-for-sponsors">Sponsor</Link>
+      <Link to="/about-us">About</Link>
     </nav>
   </header>
 );
