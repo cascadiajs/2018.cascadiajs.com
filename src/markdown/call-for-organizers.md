@@ -39,4 +39,4 @@ All organizers and volunteers are provided with a free ticket to the conference.
 
 If you have any questions, [join our Slack](https://join.slack.com/t/cascadiajs/shared_invite/enQtMzcyMjkzMDk0NjQwLTc3YmJiMTk0NTZjNDBjMzg2YTMxNDA4Njk3YTgyZWY0MGM4NjVhZTI0YTUzYTRmYzRlNThhNTIxOGNkMDU1ZGU) and head over to the #call-for-organizers channel. You can also reach out to carter@cascadiajs.com.
 
-<p><br/><a class="cta" href="/submit-organizer-proposal">SIGNUP TO ORGANIZE</a></p>
+<p id="cta"><br/><a href="/submit-organizer-proposal">SIGNUP TO ORGANIZE</a></p>

@@ -24,7 +24,7 @@ img {
 /* Typeform */
 iframe#typeform-full{ position: absolute; left:0; right:0; bottom:0; top:4.5em; border:0; }
 
-a.cta {
+#cta a {
   font-size: 16px;
   border: 1px solid rgb(55, 107, 251);
   color: rgb(55, 107, 251);
@@ -34,7 +34,7 @@ a.cta {
   margin-right:10px;
 }
 
-a.cta:hover {
+#cta a:hover {
   background-color: rgb(55, 107, 251);
   color: #fff;
 }
@@ -50,5 +50,5 @@ a.soon:hover {
   color: #333;
 }
 
-footer a {padding: 5px;}
+
 

@@ -3,10 +3,27 @@ img#hero {
     max-height: 100%;
 }
 
+#tagline {
+    padding: 10px;
+}
+
+#cta {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#cta div {
+    height: 45px;
+}
+
 @media only screen and (min-width: 768px) { 
     #tagline {
         width: 70vw;
         margin: 0 auto;
         text-align: center;
+    }
+
+    #cta div {
+        display: inline;
     }
   }

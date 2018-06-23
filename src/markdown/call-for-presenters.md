@@ -97,4 +97,4 @@ Submissions close on July 20th at 11:59PM PDT. We will get back to all speakers 
 If you have any questions about this process, need more information or need assistance with travel and/or lodging, don't hesitate to reach out to us at carter@cascadiajs.com.
 
 
-<p><br/><a class="cta" href="/submit-talk-proposal">SUBMIT A PROPOSAL</a></p>
+<p id="cta"><br/><a href="/submit-talk-proposal">SUBMIT A PROPOSAL</a></p>

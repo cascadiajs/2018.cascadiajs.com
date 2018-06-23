@@ -20,7 +20,7 @@ const Layout = ({ children, data }) => (
       ]}
       link={[
         {
-          href: 'https://fonts.googleapis.com/css?family=Lato:300|Patrick+Hand',
+          href: 'https://fonts.googleapis.com/css?family=Lato:300|Viga',
           rel: 'stylesheet'
         }
       ]}
