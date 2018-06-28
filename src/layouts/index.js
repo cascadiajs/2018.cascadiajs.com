@@ -27,7 +27,7 @@ const Layout = ({ children, data }) => (
         },
         {
           property: 'og:image',
-          content: '/cjs-hero.png'
+          content: 'https://2018.cascadiajs.com/cjs-hero.png'
         }
       ]}
       link={[
