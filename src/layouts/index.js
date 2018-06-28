@@ -16,6 +16,18 @@ const Layout = ({ children, data }) => (
           name: 'description',
           content:
             'CascadiaJS 2018 is a conference for web developers, by web developers in the Pacific Northwest. Taking place November 15-16 in Seattle, WA.'
+        },
+        {
+          property: 'og:type',
+          content: 'website'
+        },
+        {
+          property: 'og:title',
+          content: data.site.siteMetadata.title
+        },
+        {
+          property: 'og:image',
+          content: '/cjs-hero.png'
         }
       ]}
       link={[
