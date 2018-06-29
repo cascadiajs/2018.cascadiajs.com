@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'gatsby-link';
 import hero from '../images/cascadiajs-background.png';
 import MailChimpForm from '../components/mailChimpForm';
 import './index.css';
@@ -15,9 +16,9 @@ function IndexPage () {
       <div id="tagline">
         <h2>CascadiaJS 2018 is a conference for web developers by web developers.</h2>
         <div id="cta">
-          <div><a href="/call-for-presenters">Be a Speaker</a></div>
-          <div><a href="/call-for-organizers">Be an Organizer</a></div>
-          <div><a href="https://ti.to/event-loop/cascadiajs-2018" title="Tickets On Sale Soon!">Buy Tickets</a></div>
+          <div><Link to="/call-for-presenters">Be a Speaker</Link></div>
+          <div><Link to="/call-for-organizers">Be an Organizer</Link></div>
+          <div><Link to="https://ti.to/event-loop/cascadiajs-2018" title="Tickets On Sale Soon!">Buy Tickets</Link></div>
         </div>
         <MailChimpForm />
       </div>
