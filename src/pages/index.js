@@ -18,7 +18,7 @@ function IndexPage () {
         <div id="cta">
           <div><Link to="/call-for-presenters">Be a Speaker</Link></div>
           <div><Link to="/call-for-organizers">Be an Organizer</Link></div>
-          <div><Link to="https://ti.to/event-loop/cascadiajs-2018" title="Tickets On Sale Soon!">Buy Tickets</Link></div>
+          <div><a href="https://ti.to/event-loop/cascadiajs-2018" title="Tickets On Sale Soon!">Buy Tickets</a></div>
         </div>
         <MailChimpForm />
       </div>
