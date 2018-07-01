@@ -1,27 +1,34 @@
-import React from 'react';
+import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Link from 'gatsby-link';
-import logo from '../images/logo.jpg';
 import './header.css';
 
-const Header = ({ siteTitle }) => (
-  <header>
-    <nav>
-      <Link to="/">
-        <img
-          id="logo"
-          alt="CascadiaJS 2018 logo"
-          src={logo}
-        /> Home
-      </Link>
-      <Link to="/call-for-presenters">Speak</Link>
-      <Link to="/call-for-organizers">Organize</Link>
-      <Link to="/call-for-sponsors">Sponsor</Link>
-      <Link to="/scholarships">Scholarships</Link>
-      <Link to="/about-us">About</Link>
-    </nav>
-  </header>
-);
+class Header extends Component {
+  constructor (props) {
+    super(props);
+    this.state = {toggled: false};
+  }
+
+  toggle = () => {
+    this.setState({toggled: !this.state.toggled});
+  };
+
+  render () {
+    return (
+      <header>
+        <nav id="menu" className={'show-' + this.state.toggled}>
+          <button onClick={this.toggle}>{this.state.toggled ? 'Hide' : 'Show'} Menu</button>
+          <Link to="/">Home</Link>
+          <Link to="/call-for-presenters">Speak</Link>
+          <Link to="/call-for-organizers">Organize</Link>
+          <Link to="/call-for-sponsors">Sponsor</Link>
+          <Link to="/scholarships">Scholarships</Link>
+          <Link to="/about-us">About</Link>
+        </nav>
+      </header>
+    );
+  }
+};
 
 Header.propTypes = {
   siteTitle: PropTypes.string

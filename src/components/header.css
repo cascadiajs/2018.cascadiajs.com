@@ -3,17 +3,11 @@ header {
     background-color: rgb(55, 107, 251);
 }
 
-nav #logo {
-    height: 1em;
-    width: 1em;
-}
-
 nav a {
     font-size: 2vmax;
     font-family: 'Viga', sans-serif;
     color: #fff;
     text-decoration: none;
-    margin-right:3vmax;
 }
 
 nav a:hover {
@@ -21,8 +15,35 @@ nav a:hover {
     color: #fff;
 }
 
+#menu {
+    display: grid;
+    justify-items: center;
+}
+
+
+nav.show-true a {
+    display:block;
+}
+
+nav.show-false a {
+    display:none;
+}
+
 @media only screen and (min-width: 768px) { 
+    #menu {
+        display: block;
+    }
+
     nav a {
+        margin-right:3vmax;
         font-size: 1.6em;
+    }
+
+    nav button {
+        display:none;
+    }
+
+    nav.show-true a, nav.show-false a {
+        display:inline;
     }
   }
