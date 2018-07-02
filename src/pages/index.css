@@ -5,6 +5,7 @@ img#hero {
 
 #tagline {
     padding: 10px;
+    text-align: center;
 }
 
 #cta {
@@ -22,7 +23,6 @@ img#hero {
     #tagline {
         width: 70vw;
         margin: 0 auto;
-        text-align: center;
     }
 
     #cta div {
