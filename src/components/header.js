@@ -20,7 +20,6 @@ class Header extends Component {
           <button onClick={this.toggle}>{this.state.toggled ? 'Hide' : 'Show'} Menu</button>
           <Link to="/">Home</Link>
           <Link to="/call-for-presenters">Speak</Link>
-          <Link to="/call-for-organizers">Organize</Link>
           <Link to="/call-for-sponsors">Sponsor</Link>
           <Link to="/scholarships">Scholarships</Link>
           <Link to="/about-us">About</Link>

@@ -1,7 +1,11 @@
 ---
 path: "/call-for-organizers"
-title: "Call for Organizers"
+title: "Call for Organizers (CLOSED)"
 ---
+<a name="closed"></a>
+
+*Thank you for your interest in the CascadiaJS 2018 Call for Organizers. It is now CLOSED.*
+
 ![photo of volunteer](/cjs2012-reg.jpg)
 
 One of the goals for CascadiaJS this year is to behave more like a platform, and provide resources that enable the community to build the best possible conference and do good in our community. In the past, we've run things like the Diversity Scholarship, Coding Workshops and Morning Runs. Over the last year we've thought about creating a program to connect junior devs to mentors and better promote local meetups and their speakers.
@@ -39,4 +43,4 @@ All organizers and volunteers are provided with a free ticket to the conference.
 
 If you have any questions, [join our Slack](https://join.slack.com/t/cascadiajs/shared_invite/enQtMzcyMjkzMDk0NjQwLTc3YmJiMTk0NTZjNDBjMzg2YTMxNDA4Njk3YTgyZWY0MGM4NjVhZTI0YTUzYTRmYzRlNThhNTIxOGNkMDU1ZGU) and head over to the #call-for-organizers channel. You can also reach out to carter@cascadiajs.com.
 
-<p id="cta"><br/><a href="/submit-organizer-proposal">SIGNUP TO ORGANIZE</a></p>
+<p id="cta"><br/><a href="#closed">CLOSED</a></p>
