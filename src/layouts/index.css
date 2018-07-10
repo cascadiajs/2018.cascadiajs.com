@@ -11,6 +11,11 @@ body {
   margin: 0;
 }
 
+h1, h2, h3, h4 {
+  font-family: 'Viga', sans-serif;
+  text-transform: uppercase;
+}
+
 #container {
   display: grid;
   grid-template-rows: auto auto 8vmax;
@@ -24,7 +29,7 @@ img {
 /* Typeform */
 iframe#typeform-full{ position: absolute; left:0; right:0; bottom:0; top:4.5em; border:0; }
 
-#cta a {
+a.cta {
   font-size: 16px;
   border: 1px solid rgb(55, 107, 251);
   color: rgb(55, 107, 251);
@@ -34,7 +39,7 @@ iframe#typeform-full{ position: absolute; left:0; right:0; bottom:0; top:4.5em; 
   margin-right:10px;
 }
 
-#cta a:hover {
+a.cta:hover {
   background-color: rgb(55, 107, 251);
   color: #fff;
 }

@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Carter Rabasa",
+        "role": "Lead Organizer",
+        "avatar": "rabasa.jpg",
+        "twitter": "crtr0"
+    }, {
+        "name": "Carrie Rabasa",
+        "role": "Co-organizer",
+        "avatar": "carrie.jpg",
+        "twitter": "carrie_k"
+    }, {
+        "name": "Greg Bulmash",
+        "role": "Co-organizer",
+        "avatar": "bulmash.jpg",
+        "twitter": "YiddishNinja"
+    }, {
+        "name": "Heidi Laursen",
+        "role": "Social Fun Times",
+        "avatar": "heidi.jpg",
+        "twitter": "pnwlady"
+    }, {
+        "name": "Chris Castle",
+        "role": "Speaker Wrangler",
+        "avatar": "castle.jpg",
+        "twitter": "crc"
+    }, {
+        "name": "Kelsey Bresserman",
+        "role": "Workshops",
+        "avatar": "kelsey.jpg",
+        "twitter": "ifoundtheme"
+    }
+]

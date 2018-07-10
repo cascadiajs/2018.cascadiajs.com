@@ -1,0 +1,16 @@
+#calendar article {
+    padding: 10px;
+    text-align: center;
+    background-color: #efefef;
+}
+
+@media only screen and (min-width: 768px) { 
+    #calendar {
+        width: 80vw;
+        padding-top:10px;
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+        grid-column-gap: 10px;
+    }
+}

@@ -1,26 +1,29 @@
+section {
+    text-align: center;
+}
+
+section h2 {
+    font-size: 6vh;
+    margin-bottom: 0px;
+}
+
 img#hero {
     max-width: 100%;
     max-height: 100%;
 }
 
 #tagline {
-    padding: 10px;
-    text-align: center;
+    font-size: 1.6em;
 }
 
-#cta {
-    text-align: center;
-    margin-bottom: 20px;
-}
-
-#cta div a {
+a.cta {
     display: inline-block;
     width: 150px;
     margin-bottom: 10px;
 }
 
 @media only screen and (min-width: 768px) { 
-    #tagline {
+    #content {
         width: 70vw;
         margin: 0 auto;
     }

@@ -1,0 +1,27 @@
+#organizers div {
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+#organizers img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    transition: 0.30s;
+    border: 2px solid rgb(55, 107, 251);
+}
+
+#organizers img:hover {
+    transition: 0.10s;
+    transform: translateY(-10px);
+}
+
+@media only screen and (min-width: 768px) { 
+    #organizers {
+        width: 70vw;
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
