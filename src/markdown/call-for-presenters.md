@@ -4,7 +4,7 @@ title: "Call for Presenters"
 ---
 #### 📅 CLOSES JULY 20
 
-![photo of speaker](/cjs2012-speak.jpg)
+![photo of speaker](https://pbs.twimg.com/media/DfcFcvDV4AE7FIK.jpg:large)
 
 As part of providing a platform for new voices in our industry, we are running a public Call for Presenters. The final lineup for the conference will consist of speakers we invite and CFP submissions. The highlights are:
 
@@ -97,4 +97,4 @@ Submissions close on July 20th at 11:59PM PDT. We will get back to all speakers 
 If you have any questions about this process, need more information or need assistance with travel and/or lodging, don't hesitate to reach out to us at carter@cascadiajs.com.
 
 
-<p id="cta"><br/><a href="/submit-talk-proposal">SUBMIT A PROPOSAL</a></p>
+<p><br/><a class="cta" href="/submit-talk-proposal">SUBMIT A PROPOSAL</a></p>

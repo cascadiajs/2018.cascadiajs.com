@@ -1,0 +1,45 @@
+.glitch-hover {overflow: hidden;position: relative;}
+.glitch-hover:hover {cursor: pointer;}
+
+@keyframes example-three-anim-1 {
+  0% {clip: rect(9px, 200px, 186px, 0);}
+  4% {clip: rect(147px, 200px, 126px, 0);}
+  8% {clip: rect(192px, 200px, 173px, 0);}
+  12% {clip: rect(109px, 200px, 131px, 0);}
+  16% {clip: rect(166px, 200px, 25px, 0);}
+  20% {clip: rect(114px, 200px, 179px, 0);}
+  24% {clip: rect(114px, 200px, 163px, 0);}
+  28% {clip: rect(2px, 200px, 161px, 0);}
+  32% {clip: rect(198px, 200px, 1px, 0);}
+  36% {clip: rect(103px, 200px, 95px, 0);}
+  40% {clip: rect(241px, 200px, 67px, 0);}
+  44% {clip: rect(82px, 200px, 2px, 0);}
+  48% {clip: rect(166px, 200px, 110px, 0);}
+  52% {clip: rect(114px, 200px, 176px, 0);}
+  56% {clip: rect(104px, 200px, 36px, 0);}
+  60% {clip: rect(127px, 200px, 4px, 0);}
+  64% {clip: rect(105px, 200px, 102px, 0);}
+  68% {clip: rect(118px, 200px, 157px, 0);}
+  72% {clip: rect(154px, 200px, 17px, 0);}
+  76% {clip: rect(131px, 200px, 310px, 0);}
+  80% {clip: rect(99px, 200px, 152px, 0);}
+  84% {clip: rect(195px, 200px, 5px, 0);}
+  88% {clip: rect(31px, 200px, 172px, 0);}
+  92% {clip: rect(200px, 200px, 74px, 0);}
+  96% {clip: rect(128px, 200px, 136px, 0);}
+  100% {clip: rect(111px, 200px, 114px, 0);}
+}
+
+.glitch-hover > img:nth-child(2), .glitch-hover > img:nth-child(3){position: absolute;top: 0px;left: 0px;}
+.glitch-hover:hover > img:nth-child(2), .glitch-hover:hover > img:nth-child(3) {clip: rect(0, 0, 0, 0);}
+.glitch-hover:hover > img:nth-child(2) {left: 2px;
+          animation: example-three-anim-1 2s infinite linear alternate-reverse;}
+.glitch-hover:hover > img:nth-child(3) {left: -2px;
+          animation: example-three-anim-2 3s infinite linear alternate-reverse;}
+
+span.glitch-hover {
+  display: block;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}

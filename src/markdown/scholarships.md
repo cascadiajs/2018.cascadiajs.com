@@ -22,4 +22,4 @@ We'd love to be able to provide as many scholarships as possible, and we need yo
 ## Spread the Word
 Finally, please help us in our outreach efforts. Take a moment to share this post with relevant people or organizations. We hope this Scholarship Program can enable you to join us and contribute to our community!
 
-<p id="cta"><br/><a href="/submit-scholarship">APPLY</a></p>
+<p><br/><a class="cta" href="/submit-scholarship">APPLY</a></p>

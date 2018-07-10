@@ -1,14 +1,14 @@
 #organizers div {
     padding: 10px;
     margin: 10px;
-    text-align: center;
+    text-align:center;
 }
 
 #organizers img {
     width: 200px;
     height: 200px;
     border-radius: 100px;
-    transition: 0.30s;
+    transition: 0.10s;
     border: 2px solid rgb(55, 107, 251);
 }
 
