@@ -27,9 +27,6 @@ function IndexPage ({data}) {
           </p>
         </section>
         <section id="speakers">
-          <h2>CFP is OPEN</h2>
-          <p>Want to speak at Cascadia? Now is your chance!</p>
-          <p><Link className="cta" to="/call-for-presenters">Check out the CFP</Link></p>
         </section>
         <section id="venue">
         </section>

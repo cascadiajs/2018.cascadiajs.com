@@ -19,7 +19,7 @@ class Header extends Component {
         <nav id="menu" className={'show-' + this.state.toggled}>
           <button onClick={this.toggle}>{this.state.toggled ? 'Hide' : 'Show'} Menu</button>
           <Link to="/">Home</Link>
-          <Link to="/call-for-presenters">Speak</Link>
+          <Link to="/#tickets">Tickets</Link>
           <Link to="/call-for-sponsors">Sponsor</Link>
           <Link to="/scholarships">Scholarships</Link>
           <Link to="/about-us">About</Link>
