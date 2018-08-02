@@ -19,6 +19,11 @@ function IndexPage ({data}) {
         <section id="tagline">
           <p>CascadiaJS 2018 is a conference for web developers by web developers.</p>
         </section>
+        <section id="venue">
+          <h2>Venue</h2>
+          <p>Amazon Meeting Center - 2031 7th Ave, Seattle, WA 98121</p>
+          <img src="/seattle-map.jpg" alt="map of Seattle and location of Amazon Meeting Center"/>
+        </section>
         <section id="tickets">
           <h2>Tickets are on SALE</h2>
           <p>
@@ -28,13 +33,16 @@ function IndexPage ({data}) {
         </section>
         <section id="speakers">
         </section>
-        <section id="venue">
-        </section>
-        <section id="sponsors">
-        </section>
         <section id="organizers">
           <h2>Organizers</h2>
           <Organizers data={data}/>
+        </section>
+        <section id="sponsors">
+          <h2>We <span role="img" aria-label="heart">❤️</span> Our Sponsors</h2>
+          <p><a href="https://developer.amazon.com/"><img src="/amazon-logo.jpg" alt="Amazon logo"/></a></p>
+          <p>
+            <Link className="cta" to="/call-for-sponsors">Be a Sponsor <span role="img" aria-label="high five!">🙌</span></Link>
+          </p>
         </section>
         <section id="contact">
           <h2>Keep in Touch</h2>
