@@ -10,7 +10,7 @@ function Organizers ({ data }) {
   data.site.siteMetadata.organizers.forEach(o => {
     organizers.push(
       <div>
-        <p><b>{o.name}</b></p>
+        <h3>{o.name}</h3>
         <p><img src={o.avatar} alt={o.name}/></p>
         <p>{o.role}</p>
       </div>
