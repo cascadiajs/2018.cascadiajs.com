@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from 'gatsby-link';
-import Carousel from 'nuka-carousel';
+import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
+import 'pure-react-carousel/dist/react-carousel.es.css';
 import hero from '../images/cascadiajs-background.png';
 import MailChimpForm from '../components/mailChimpForm';
 import PropTypes from 'prop-types';
@@ -37,12 +38,16 @@ function IndexPage ({data}) {
           <div id="hotels">
             <div>
               <h3>Moxy Seattle</h3>
-              <Carousel slidesToShow={1} width="500px" slideWidth="500px">
-                <img src="/moxy-exterior.jpg" alt="exterior of The Moxy hotel"/>
-                <img src="/moxy-guestroom.jpg" alt="guest room at The Moxy hotel"/>
-                <img src="/moxy-lobby.jpg" alt="lobby of The Moxy hotel"/>
-                <img src="/moxy-bar.jpg" alt="lobby of The Moxy hotel"/>
-              </Carousel>
+              <CarouselProvider naturalSlideWidth={100} naturalSlideHeight={50} totalSlides={4}>
+                <Slider>
+                  <Slide><img src="/moxy-exterior.jpg" alt="exterior of Moxy Seattle hotel"/></Slide>
+                  <Slide><img src="/moxy-guestroom.jpg" alt="guest room of Moxy Seattle hotel"/></Slide>
+                  <Slide><img src="/moxy-lobby.jpg" alt="lobby of Moxy Seattle hotel"/></Slide>
+                  <Slide><img src="/moxy-bar.jpg" alt="bar of Moxy Seattle hotel"/></Slide>
+                </Slider>
+                <ButtonBack>Back</ButtonBack>
+                <ButtonNext>Next</ButtonNext>
+              </CarouselProvider>
               <p>Moxy is a boutique hotel with the social heart of a hostel. The WiFi is speedy and the cushy beds are freshly made, but more importantly, the bar is always open and the crew is always on. Just up Westlake Ave from the Amazon Meeting Center (0.6 miles).</p>
               <ul>
                 <li>$159 / night</li>
@@ -51,12 +56,16 @@ function IndexPage ({data}) {
             </div>
             <div >
               <h3>The Thompson</h3>
-              <Carousel slidesToShow={1} width="500px" slideWidth="500px">
-                <img src="/thompson-exterior.jpg" alt="exterior of The Thompson hotel"/>
-                <img src="/thompson-room.jpg" alt="exterior of The Thompson hotel"/>
-                <img src="/thompson-roof.jpg" alt="exterior of The Thompson hotel"/>
-                <img src="/thompson-bar.jpg" alt="exterior of The Thompson hotel"/>
-              </Carousel>
+              <CarouselProvider naturalSlideWidth={100} naturalSlideHeight={50} totalSlides={4}>
+                <Slider>
+                  <Slide><img src="/thompson-exterior.jpg" alt="exterior of The Thompson hotel"/></Slide>
+                  <Slide><img src="/thompson-room.jpg" alt="guest room of The Thompson hotel"/></Slide>
+                  <Slide><img src="/thompson-roof.jpg" alt="roof top of The Thompson hotel"/></Slide>
+                  <Slide><img src="/thompson-bar.jpg" alt="bar of The Thompson hotel"/></Slide>
+                </Slider>
+                <ButtonBack>Back</ButtonBack>
+                <ButtonNext>Next</ButtonNext>
+              </CarouselProvider>
               <p>The Thompson is a boutique hotel located next to the waterfront and reflects the intrinsic beauty of Seattle. Highlights include their signature restaurant, Scout PNW, and rooftop bar, The Nest. Just southwest of the Amazon Meeting Center (0.5 miles).</p>
               <ul>
                 <li>$199 / night</li>

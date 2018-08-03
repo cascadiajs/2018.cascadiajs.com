@@ -17,7 +17,7 @@
     "gatsby-plugin-twitter": "^1.0.20",
     "gatsby-source-filesystem": "^1.5.38",
     "gatsby-transformer-remark": "^1.7.41",
-    "nuka-carousel": "^4.3.5",
+    "pure-react-carousel": "^1.13.2",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
