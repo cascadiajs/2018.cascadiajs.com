@@ -21,6 +21,19 @@ function IndexPage ({data}) {
         <section id="tagline">
           <p>CascadiaJS 2018 is a conference for web developers by web developers.</p>
         </section>
+        <section id="speakers">
+          <p>
+           Our speakers will explore the Latest
+            developments in the web platform including: <span>PWAs</span>, <span>Accessibility</span>, <span>Security</span>, <span>Decentralization</span> and <span>AR/VR/XR</span>.
+          </p>
+          <p>We will also explore adjacent topics that are important to our community such as: <span>Healthy and Inclusive Teams</span>, <span>Hardware Hacking</span>, <span>Developer Ethics</span>, <span>Tooling</span>, <span>Serverless</span>.
+          </p>
+        </section>
+        <section id="code-of-conduct">
+          <h2>Code of Conduct</h2>
+          <p>In order to provide a safe and inclusive environment we expect, and require, all organizers, sponsors, speakers, volunteers, and attendees of all levels to adhere to our <Link to="/code-of-conduct">Code of Conduct</Link>.
+          </p>
+        </section>
         <section id="venue">
           <h2>Venue</h2>
           <p>Amazon Meeting Center - 2031 7th Ave, Seattle, WA 98121</p>
@@ -74,8 +87,6 @@ function IndexPage ({data}) {
             </div>
           </div>
           <p>Discounted rates only available to folks who have purchased tickets.</p>
-        </section>
-        <section id="speakers">
         </section>
         <section id="organizers">
           <h2>Organizers</h2>

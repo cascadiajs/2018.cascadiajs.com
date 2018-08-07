@@ -4,6 +4,8 @@ html {
 
 body {
   font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-size: 2.5vh;
   color: #565354;
   background-color: #fff;
   min-height: 100%;

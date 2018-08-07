@@ -2,7 +2,7 @@
 path: "/call-for-presenters"
 title: "Call for Presenters"
 ---
-#### 📅 CLOSES JULY 20
+#### 📅 CLOSED (July 20)
 
 ![photo of speaker](https://pbs.twimg.com/media/DfcFcvDV4AE7FIK.jpg:large)
 
@@ -90,11 +90,9 @@ Once your talk has been accepted, we will commit to working with you to give an 
 
 ## The Selection Process
 
-Submissions close on July 20th at 11:59PM PDT. We will get back to all speakers by Monday, August 6th. 
+Submissions close on July 20th at 11:59PM PDT. We will get back to all speakers by Monday, August 13th. 
 
 ## You’ll Do Great!
 
 If you have any questions about this process, need more information or need assistance with travel and/or lodging, don't hesitate to reach out to us at carter@cascadiajs.com.
 
-
-<p><br/><a class="cta" href="/submit-talk-proposal">SUBMIT A PROPOSAL</a></p>
