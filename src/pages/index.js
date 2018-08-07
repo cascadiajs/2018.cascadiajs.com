@@ -86,7 +86,7 @@ function IndexPage ({data}) {
               </ul>
             </div>
           </div>
-          <p>Discounted rates only available to folks who have purchased tickets.</p>
+          <p>The deadline to book is <strong>September 13, 2018</strong>.</p>
         </section>
         <section id="organizers">
           <h2>Organizers</h2>
