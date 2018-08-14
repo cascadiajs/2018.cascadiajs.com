@@ -40,5 +40,17 @@
         "role": "Scholarships",
         "avatar": "jimcal.jpg",
         "twitter": "jimcalliu"
+    },
+    {
+        "name": "Jessica West",
+        "role": "CFP Review",
+        "avatar": "jess.jpg",
+        "twitter": "jessicaewest"
+    },
+    {
+        "name": "Amanda Sopkin",
+        "role": "CFP Review",
+        "avatar": "amanda.jpg",
+        "twitter": "amandasopkin"
     }
 ]
