@@ -1,7 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: 'CascadiaJS 2018 / Nov 15-16 / Seattle, WA',
-    organizers: require('./data/organizers.json')
+    organizers: require('./data/organizers.json'),
+    speakers: require('./data/speakers.json')
   },
   plugins: [
     'gatsby-plugin-react-helmet',

@@ -6,6 +6,7 @@ import hero from '../images/cascadiajs-background.png';
 import MailChimpForm from '../components/mailChimpForm';
 import PropTypes from 'prop-types';
 import Organizers from '../components/organizers';
+import Speakers from '../components/speakers';
 import './index.css';
 
 function IndexPage ({data}) {
@@ -20,14 +21,6 @@ function IndexPage ({data}) {
       <div id="content">
         <section id="tagline">
           <p>CascadiaJS 2018 is a conference for web developers by web developers.</p>
-        </section>
-        <section id="speakers">
-          <p>
-           Our speakers will explore the Latest
-            developments in the web platform including: <span>PWAs</span>, <span>Accessibility</span>, <span>Security</span>, <span>Decentralization</span> and <span>AR/VR/XR</span>.
-          </p>
-          <p>We will also explore adjacent topics that are important to our community such as: <span>Healthy and Inclusive Teams</span>, <span>Hardware Hacking</span>, <span>Developer Ethics</span>, <span>Tooling</span>, <span>Serverless</span>.
-          </p>
         </section>
         <section id="code-of-conduct">
           <h2>Code of Conduct</h2>
@@ -88,6 +81,10 @@ function IndexPage ({data}) {
           </div>
           <p>The deadline to book is <strong>September 13, 2018</strong>.</p>
         </section>
+        <section id="speakers">
+          <h2>Speakers</h2>
+          <Speakers data={data}/>
+        </section>
         <section id="organizers">
           <h2>Organizers</h2>
           <Organizers data={data}/>
@@ -122,6 +119,12 @@ export const query = graphql`
           name
           avatar
           role
+          twitter
+        },
+        speakers {
+          name
+          avatar
+          talk
           twitter
         }
       }
