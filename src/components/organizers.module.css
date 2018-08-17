@@ -5,16 +5,10 @@
 }
 
 #organizers img {
-    width: 200px;
-    height: 200px;
-    border-radius: 100px;
-    transition: 0.10s;
-    border: 2px solid rgb(55, 107, 251);
-}
-
-#organizers img:hover {
-    transition: 0.10s;
-    transform: translateY(-10px);
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 50%;
+    border: 2px solid #666;
 }
 
 @media only screen and (min-width: 768px) { 

@@ -10,7 +10,6 @@ function Speakers ({ data }) {
   data.site.siteMetadata.speakers.forEach(o => {
     speakers.push(
       <div>
-        <h3>{o.name.split(' ')[0]}<br/>{o.name.split(' ')[1]}</h3>
         <p><img src={o.avatar} alt={o.name}/></p>
         <p>{o.talk}</p>
       </div>
