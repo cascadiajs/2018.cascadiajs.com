@@ -1,9 +1,9 @@
 [
     {
-        "name": "",
+        "name": "Mikeal Rogers",
         "talk": "The Future of the Web",
-        "avatar": "https://avatars.dicebear.com/v2/identicon/1.svg",
-        "twitter": ""
+        "avatar": "/mikeal.png",
+        "twitter": "mikeal"
     },
     {
         "name": "",
@@ -19,7 +19,7 @@
     },
     {
         "name": "",
-        "talk": "Deep Learning in Javascript",
+        "talk": "Creative Coding & Opening Up Open Source",
         "avatar": "https://avatars.dicebear.com/v2/identicon/4.svg",
         "twitter": ""
     },

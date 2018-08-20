@@ -8,10 +8,16 @@ function Speakers ({ data }) {
   let speakers = [];
   console.log(data);
   data.site.siteMetadata.speakers.forEach(o => {
+    let x = <h3>&nbsp;</h3>;
+    if (o.name) {
+      x = <h3>{o.name} <a href={'https://twitter.com/' + o.twitter}><img height="20" width="20" alt="twitter icon" src="/twitter.png"/></a></h3>;
+    }
     speakers.push(
       <div>
-        <p><img src={o.avatar} alt={o.name}/></p>
+        {x}
+        <p><img className={styles.avatar} src={o.avatar} alt={o.name}/></p>
         <p>{o.talk}</p>
+        <p></p>
       </div>
     );
   });
