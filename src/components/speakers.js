@@ -8,9 +8,9 @@ function Speakers ({ data }) {
   let speakers = [];
   console.log(data);
   data.site.siteMetadata.speakers.forEach(o => {
-    let x = <h3>&nbsp;</h3>;
+    let x = <h3>&nbsp;<br/>&nbsp;</h3>;
     if (o.name) {
-      x = <h3>{o.name} <a href={'https://twitter.com/' + o.twitter}><img height="20" width="20" alt="twitter icon" src="/twitter.png"/></a></h3>;
+      x = <h3>{o.name.split(' ')[0]}<br/>{o.name.split(' ')[1]} <a href={'https://twitter.com/' + o.twitter}><img height="20" width="20" alt="twitter icon" src="/twitter.png"/></a></h3>;
     }
     speakers.push(
       <div>
