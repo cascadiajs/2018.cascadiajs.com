@@ -1,5 +1,4 @@
 ---
-path: "/call-for-organizers"
 title: "Call for Organizers (CLOSED)"
 ---
 <a name="closed"></a>

@@ -25,11 +25,10 @@ Template.propTypes = {
 };
 
 export const pageQuery = graphql`
-  query MarkdownByPath($path: String!) {
-    markdownRemark(frontmatter: { path: { eq: $path } }) {
+  query MarkdownByPath($fileAbsolutePath: String!) {
+    markdownRemark(fileAbsolutePath: { eq: $fileAbsolutePath }) {
       html
       frontmatter {
-        path
         title
       }
     }

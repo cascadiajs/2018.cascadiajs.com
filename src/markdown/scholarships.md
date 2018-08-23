@@ -1,5 +1,4 @@
 ---
-path: "/scholarships"
 title: "Scholarships"
 ---
 ![emcee from 2016](https://cdn-images-1.medium.com/max/1600/1*aJrwpWdgyL6-nrSr-HOmXQ.jpeg)

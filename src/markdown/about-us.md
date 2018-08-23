@@ -1,5 +1,4 @@
 ---
-path: "/about-us"
 title: "About Us"
 ---
 ![family photo from 2016](https://pbs.twimg.com/media/CpdnX_lUEAAAQJ3.jpg:large)

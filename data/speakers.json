@@ -2,50 +2,58 @@
     {
         "name": "Mikeal Rogers",
         "talk": "The Future of the Web",
+        "blurb": "The original vision of the Internet was for a fully decentralized system that empowered its users at the edges. In the many years since the birth of The Web we’ve moved more towards centralized structures to solve the issues of scale and data and it has not come without consequence. In order to move past these issues we need new primitives for a new vision of The Web that can be decentralized.",
         "avatar": "/mikeal.png",
         "twitter": "mikeal"
     },
     {
         "name": "Lauren Lee",
         "talk": "Why I chose to modularize the ducks in my React App ",
+        "blurb": "React and Redux are awesome but the state management can be overwhelming for beginners. This talk is all about how to keep your code DRY, scalable, and maintainable- the dream trifecta!- regardless of its size and scope. Creating “ducks”, or modularized components, allows you to keep all of your state in one place and avoid creating a new file for every single action and reducer. This talk will cover how to create those ducks!",
         "avatar": "/laurenlee.jpg",
         "twitter": "LoLoCoding"
     },
     {
         "name": "Michael Lange",
         "talk": "Open Source and the Volunteer Workforce",
+        "blurb": "How did a band of merry volunteers build an open data platform to promote civic discourse in Portland? The answer involves open source tools, trial and error, cognizant community building, and JavaScript!",
         "avatar": "/michael-lange.jpg",
         "twitter": "DingoEatingFuzz"
     },
     {
         "name": "Elgin-Skye McLaren",
         "talk": "Creative Coding & Opening Up Open Source",
+        "blurb": "This presentation is about coding interactive art in the browser. I will talk about p5js — what it is, and what we as developers can learn from its intentionally inclusive community.",
         "avatar": "/elgin-mcLaren.jpg",
         "twitter": "elginskye"
     },
     {
         "name": "Faddah Wolf",
         "talk": "Teaching the Sighted to Touch & Feel a Bit More",
+        "blurb": "Braille is becoming more and more ubiquitous in many common spaces — airports, malls,libraries, etc. A college in Oregon needed a web app built to help teach the friends &amp; family of those who are sight impaired how to read Braille. Faddah Wolf will go over what accessibility options there are in common Mobile OSes and how he created a React Native six-key-input keyboard for Braille and how you can contribute to this Open Source project.",
         "avatar": "/faddah.jpg",
         "twitter": "yuetsu"
     },
     {
         "name": "Megan Slater",
         "talk": "Lessons in WebAssembly: Client Side Video Editing",
+        "blurb": "WebAssembly elicits hopes about everything from importing new functionalities into browser based applications, to the potential (and in some circles hoped for) death of JavaScript. This talk is for folks who are curious about the real world applications and limitations of WebAssembly as it exists today. We'll follow along the journey of some intrepid developers as they integrate the popular FFmpeg multimedia framework into a React application for the purposes of editing video client side.",
         "avatar": "/slater.jpg",
         "twitter": "meslater1030"
     },   
     {
         "name": "Brian Leroux",
         "talk": "Even Faster: now with Functions!",
+        "blurb": "The secret weapon of serverless architectures is extremely fast deployments with zero downtime. Surgical deploys allow for updating a single function in place within 1 second. All this adds up to faster iterations, which means quicker turnaround and that equals: super stoked devs!",
         "avatar": "/leroux.jpg",
         "twitter": "brianleroux"
     },
     {
-        "name": "",
+        "name": "Tre Ammatuna",
         "talk": "Building a culture of learning and growth",
-        "avatar": "https://avatars.dicebear.com/v2/identicon/7.svg",
-        "twitter": ""
+        "blurb": "From junior dev to C-level executive, continued education and growth are keys to success in today rapidly advancing tech industry. Everyone benefits from a culture built around these ideas that help you and your team not only keep up with the changes, but also share knowledge already gained.",
+        "avatar": "/tre.jpg",
+        "twitter": "tretuna"
     },
     {
         "name": "",

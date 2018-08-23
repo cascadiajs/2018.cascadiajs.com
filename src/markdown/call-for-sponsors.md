@@ -1,5 +1,4 @@
 ---
-path: "/call-for-sponsors"
 title: "Call for Sponsors"
 ---
 ![photo of sponsor](/cjs2016-sponsor.jpg)

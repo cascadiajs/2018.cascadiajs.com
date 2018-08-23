@@ -1,5 +1,4 @@
 ---
-path: "/code-of-conduct"
 title: "Code of Conduct"
 ---
 ## Need Help?

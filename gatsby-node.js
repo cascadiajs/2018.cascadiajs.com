@@ -11,6 +11,25 @@ const path = require('path');
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
 
+  // create the speaker pages
+
+  const speakerTemplate = path.resolve(`src/templates/speaker.js`);
+
+  const speakers = require('./data/speakers.json');
+  speakers.forEach((speaker) => {
+    if (speaker.twitter) {
+      let path = '/speakers/' + speaker.name.replace(' ', '-').toLowerCase();
+      console.log(`creating page: ${path}`);
+      createPage({
+        path: path,
+        component: speakerTemplate,
+        context: speaker
+      });
+    }
+  });
+
+  // create the markdown pages
+
   const markdownTemplate = path.resolve(`src/templates/markdown.js`);
 
   return graphql(`
@@ -20,9 +39,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       ) {
         edges {
           node {
-            frontmatter {
-              path
-            }
+            fileAbsolutePath
           }
         }
       }
@@ -32,12 +49,13 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       return Promise.reject(result.errors);
     }
 
-    result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      console.log(node);
+    result.data.allMarkdownRemark.edges.forEach(({node}) => {
+      let path = '/' + node.fileAbsolutePath.split('/').pop().slice(0, -3);
+      console.log(`creating page: ${path}`);
       createPage({
-        path: node.frontmatter.path,
+        path: path,
         component: markdownTemplate,
-        context: {} // additional data can be passed via context
+        context: {fileAbsolutePath: node.fileAbsolutePath}
       });
     });
   });

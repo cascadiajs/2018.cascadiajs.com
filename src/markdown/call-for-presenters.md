@@ -1,5 +1,4 @@
 ---
-path: "/call-for-presenters"
 title: "Call for Presenters"
 ---
 #### 📅 CLOSED (July 20)
