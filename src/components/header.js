@@ -21,6 +21,7 @@ class Header extends Component {
           <Link to="/">Home</Link>
           <Link to="/#tickets">Tickets</Link>
           <Link to="/#speakers">Speakers</Link>
+          <Link to="/react-training">Training</Link>
           <Link to="/call-for-sponsors">Sponsor</Link>
           <Link to="/scholarships">Scholarships</Link>
           <Link to="/about-us">About</Link>

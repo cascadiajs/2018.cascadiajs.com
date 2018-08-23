@@ -87,3 +87,9 @@ a.soon:hover {
   color: #333;
 }
 
+img.avatar {
+  max-width: 80%;
+  max-height: 80%;
+  border-radius: 50%;
+  border: 2px solid #666;
+}

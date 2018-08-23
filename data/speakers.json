@@ -34,6 +34,12 @@
         "talk": "Lessons in WebAssembly: Client Side Video Editing",
         "avatar": "/slater.jpg",
         "twitter": "meslater1030"
+    },   
+    {
+        "name": "",
+        "talk": "Even Faster: now with Functions!",
+        "avatar": "https://avatars.dicebear.com/v2/identicon/13.svg",
+        "twitter": ""
     },
     {
         "name": "",
@@ -69,12 +75,6 @@
         "name": "",
         "talk": "Creative Collaboration: Building a Universal Design System",
         "avatar": "https://avatars.dicebear.com/v2/identicon/12.svg",
-        "twitter": ""
-    },
-    {
-        "name": "",
-        "talk": "Even Faster: now with Functions!",
-        "avatar": "https://avatars.dicebear.com/v2/identicon/13.svg",
         "twitter": ""
     },
     {
