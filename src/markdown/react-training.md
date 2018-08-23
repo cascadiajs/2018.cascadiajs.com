@@ -1,8 +1,7 @@
 ---
-path: "/react-training"
 title: "Advanced Topics and Patterns for React-based Web Apps"
 ---
-Formidable will hold a full-day workshop on how to work with animations, forms, routing, and more with your React-based web apps.
+Formidable will hold a full-day React training workshop on **Saturday, November 17th** following the conference. The workshop with cover how to work with animations, forms, routing, and more with your React-based web apps. More info on the workshop and how to register below!
 
 ### Prerequisites
 
