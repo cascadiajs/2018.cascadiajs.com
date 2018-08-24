@@ -4,13 +4,6 @@
     text-align:center;
 }
 
-#organizers img {
-    max-width: 80%;
-    max-height: 80%;
-    border-radius: 50%;
-    border: 2px solid #666;
-}
-
 @media only screen and (min-width: 768px) { 
     #organizers {
         width: 70vw;
