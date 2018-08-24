@@ -57,6 +57,13 @@
     },
     {
         "name": "",
+        "talk": "Conversational Semantics for the Web",
+        "blurb": "",
+        "avatar": "https://avatars.dicebear.com/v2/identicon/18.svg",
+        "twitter": ""
+    },
+    {
+        "name": "",
         "talk": "Accessibility for Open Source Front End Frameworks",
         "avatar": "https://avatars.dicebear.com/v2/identicon/8.svg",
         "twitter": ""

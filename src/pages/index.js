@@ -54,10 +54,9 @@ function IndexPage ({data}) {
                 <ButtonBack>Back</ButtonBack>
                 <ButtonNext>Next</ButtonNext>
               </CarouselProvider>
-              <p>Moxy is a boutique hotel with the social heart of a hostel. The WiFi is speedy and the cushy beds are freshly made, but more importantly, the bar is always open and the crew is always on. Just up Westlake Ave from the Amazon Meeting Center (0.6 miles).</p>
+              <p><a href="http://moxyseattle.com/">Moxy</a> is a boutique hotel with the social heart of a hostel. The WiFi is speedy and the cushy beds are freshly made, but more importantly, the bar is always open and the crew is always on. Just up Westlake Ave from the Amazon Meeting Center (0.6 miles).</p>
               <ul>
-                <li>$159 / night</li>
-                <li><a href="http://moxyseattle.com/">More Information</a></li>
+                <li><a className="cta" href="http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Cascadia%20JS%20Conference%20%5Eseaox%60CSCCSCB%7CCSCCSCC%60159.00%60USD%60false%602%6011/14/18%6011/17/18%6010/24/18&app=resvlink&stop_mobi=yes">Book for $159 / night</a></li>
               </ul>
             </div>
             <div >
@@ -72,10 +71,9 @@ function IndexPage ({data}) {
                 <ButtonBack>Back</ButtonBack>
                 <ButtonNext>Next</ButtonNext>
               </CarouselProvider>
-              <p>The Thompson is a boutique hotel located next to the waterfront and reflects the intrinsic beauty of Seattle. Highlights include their signature restaurant, Scout PNW, and rooftop bar, The Nest. Just southwest of the Amazon Meeting Center (0.5 miles).</p>
+              <p><a href="https://www.thompsonhotels.com/hotels/washington/seattle/thompson-seattle">The Thompson</a> is a boutique hotel located next to the waterfront and reflects the intrinsic beauty of Seattle. Highlights include their signature restaurant, Scout PNW, and rooftop bar, The Nest. Southwest of the Amazon Meeting Center (0.5 miles).</p>
               <ul>
-                <li>$199 / night</li>
-                <li><a href="https://www.thompsonhotels.com/hotels/washington/seattle/thompson-seattle">More Information</a></li>
+                <li><a className="cta" href="https://gc.synxis.com/rez.aspx?Hotel=67516&Chain=15564&Dest=TM&template=TH_RBE&shell=TH_RBE&locale=en-US&arrive=11/14/2018&depart=11/17/2018&adult=1&child=0&group=1811CASJS">Book for $199 / night</a></li>
               </ul>
             </div>
           </div>
