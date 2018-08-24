@@ -124,6 +124,7 @@ export const query = graphql`
           avatar
           talk
           twitter
+          github
         }
       }
     }

@@ -63,21 +63,16 @@
         "twitter": "aarongustafson"
     },
     {
-        "name": "",
-        "talk": "Accessibility for Open Source Front End Frameworks",
-        "avatar": "https://avatars.dicebear.com/v2/identicon/8.svg",
-        "twitter": ""
+        "name": "Shannon Capper",
+        "talk": "Augmenting the Internet with Browser Extensions",
+        "blurb": "A browser extension can give you the power to add a whole new user experience to any page on the Internet, but it also introduces some unique problems. In this talk, we’ll discuss some of the challenges my team at Textio faced when we built an extension to augment the writing experience on pages across the web, as well as the solutions we discovered for making our plugin low-profile and extensible.",
+        "avatar": "/shannon-capper.jpg",
+        "github": "shannonlcapper"
     },
     {
         "name": "",
         "talk": "Canaries and Acceptance Testing Using Docker",
         "avatar": "https://avatars.dicebear.com/v2/identicon/9.svg",
-        "twitter": ""
-    },
-    {
-        "name": "",
-        "talk": "Augmenting the Internet with Browser Extensions",
-        "avatar": "https://avatars.dicebear.com/v2/identicon/10.svg",
         "twitter": ""
     },
     {

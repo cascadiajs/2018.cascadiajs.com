@@ -17,7 +17,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 
   const speakers = require('./data/speakers.json');
   speakers.forEach((speaker) => {
-    if (speaker.twitter) {
+    if (speaker.name) {
       let path = '/speakers/' + speaker.name.replace(' ', '-').toLowerCase();
       console.log(`creating page: ${path}`);
       createPage({
