@@ -5,7 +5,8 @@
 
 #speaker {
     display:grid;
-    grid-template-columns: 200px auto
+    grid-template-columns: 1fr 4fr;
+    grid-gap: 20px;
 }
 
 h1.talk {
