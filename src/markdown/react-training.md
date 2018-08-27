@@ -1,7 +1,12 @@
 ---
 title: "Advanced Topics and Patterns for React-based Web Apps"
 ---
-Formidable will hold a full-day React training workshop on **Saturday, November 17th** following the conference. The workshop with cover how to work with animations, forms, routing, and more with your React-based web apps. More info on the workshop and how to register below!
+![formidable logo](/formidable.png)
+
+[Formidable](https://formidable.com/) will hold a full-day React training workshop on **Saturday, November 17th** following the conference. The workshop with cover how to work with animations, forms, routing, and more with your React-based web apps. More info on the workshop below!
+
+<p><br/><a class="cta" href="https://ti.to/event-loop/cascadiajs-2018">REGISTER</a></p>
+
 
 ### Prerequisites
 
