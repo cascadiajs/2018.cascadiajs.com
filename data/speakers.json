@@ -70,10 +70,11 @@
         "github": "shannonlcapper"
     },
     {
-        "name": "",
+        "name": "Yash Kulshrestha",
         "talk": "Canaries and Acceptance Testing Using Docker",
-        "avatar": "https://avatars.dicebear.com/v2/identicon/9.svg",
-        "twitter": ""
+        "blurb": "In this talk, we'll go over how to write canaries and integration tests using Puppeteer, an automation framework and Jest, a BDD testing framework. Then we'll add the special sauce to the mix - Docker. This helps us run tests on the developer's machine, as part of the code release workflow and also as a deep health check Canary for the service; in house or in the cloud!",
+        "avatar": "/yash.jpg",
+        "twitter": "YashdalfTheGray"
     },
     {
         "name": "",
