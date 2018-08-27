@@ -77,10 +77,11 @@
         "twitter": "YashdalfTheGray"
     },
     {
-        "name": "",
+        "name": "Dominic Farolino",
         "talk": "Hitchhiker's Guide to Web Standards",
-        "avatar": "https://avatars.dicebear.com/v2/identicon/11.svg",
-        "twitter": ""
+        "blurb": "Web standards and their corresponding organizations can be your best friend, and extremely daunting at the same time. As a web developer, you are in the unique position of being able to influence the platform you develop on every day - so come and learn how the world of web standards works, how to contribute to the web standards community, and about some of the latest platform trends.",
+        "avatar": "/dominic.png",
+        "twitter": "domfarolino"
     },
     {
         "name": "",
