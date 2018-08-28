@@ -89,7 +89,16 @@ function IndexPage ({data}) {
         </section>
         <section id="sponsors">
           <h2>We <span role="img" aria-label="heart">❤️</span> Our Sponsors</h2>
-          <p><a href="https://developer.amazon.com/"><img src="/amazon-logo.jpg" alt="Amazon logo"/></a></p>
+          <section id="platinum">
+            <div><a href="https://developer.amazon.com/"><img src="/amazon-logo.jpg" alt="Amazon logo"/></a></div>
+          </section>
+          <section id="gold">
+          </section>
+          <section id="silver">
+            <div><a href="https://egghead.io/"><img src="/egghead-logo.png" alt="Egghead logo"/></a></div>
+            <div><a href="https://mozilla.com/"><img src="/mozilla-logo.png" alt="Mozilla logo"/></a></div>
+            <div></div>
+          </section>
           <p>
             <Link className="cta" to="/call-for-sponsors">Be a Sponsor <span role="img" aria-label="high five!">🙌</span></Link>
           </p>
@@ -125,6 +134,7 @@ export const query = graphql`
           talk
           twitter
           github
+          linkedin
         }
       }
     }

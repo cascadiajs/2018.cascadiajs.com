@@ -17,6 +17,8 @@ function Speakers ({ data }) {
         link = <a href={'https://twitter.com/' + o.twitter}><img height="20" width="20" alt="twitter icon" src="/twitter.png"/></a>;
       } else if (o.github) {
         link = <a href={'https://github.com/' + o.github}><img height="20" width="20" alt="github icon" src="/github-logo.png"/></a>;
+      } else if (o.linkedin) {
+        link = <a href={'https://linkedin.com/in/' + o.linkedin}><img height="20" width="20" alt="linkedin icon" src="/linkedin-logo.png"/></a>;
       }
       name = <h3>{o.name.split(' ')[0]}<br/>{o.name.split(' ')[1]} {link}</h3>;
       talk = <Link to={'/speakers/' + o.name.replace(' ', '-').toLowerCase()}>{o.talk}</Link>;

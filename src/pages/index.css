@@ -40,4 +40,20 @@ img#hero {
         grid-template-columns: 1fr 1fr;
         grid-gap: 10px;
     }
+
+    #platinum {
+
+    }
+
+    #gold {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    #silver {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 20px;
+        grid-template-rows: 100px;
+    }
   }
