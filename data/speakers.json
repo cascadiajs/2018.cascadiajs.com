@@ -91,15 +91,16 @@
         "linkedin": "julie-busch"
     },
     {
-        "name": "",
-        "talk": "Reclaiming the Web with peer-to-peer protocols",
-        "avatar": "https://avatars.dicebear.com/v2/identicon/14.svg",
-        "twitter": ""
+        "name": "Pranshu Bajpai",
+        "talk": "Raiders of the Javascript-based Malware",
+        "blurb": "Some modern malware are designed entirely in Javascript and executed using the default Windows Script Host or within the user's browser. In this talk, we discuss the design, operation, and implementation intricacies of Javascript-based ransomware and cryptojacking malware.",
+        "avatar": "/pranshu.jpg",
+        "twitter": "amirootyet"
     },
     {
         "name": "",
-        "talk": "Raiders of the Javascript-based Malware",
-        "avatar": "https://avatars.dicebear.com/v2/identicon/15.svg",
+        "talk": "Reclaiming the Web with peer-to-peer protocols",
+        "avatar": "https://avatars.dicebear.com/v2/identicon/14.svg",
         "twitter": ""
     },
     {

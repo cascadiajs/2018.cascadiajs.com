@@ -93,6 +93,8 @@ function IndexPage ({data}) {
             <div><a href="https://developer.amazon.com/"><img src="/amazon-logo.jpg" alt="Amazon logo"/></a></div>
           </section>
           <section id="gold">
+            <div><a href="https://formidable.com/"><img src="/formidable.png" alt="Formidable logo"/></a></div>
+            <div></div>
           </section>
           <section id="silver">
             <div><a href="https://egghead.io/"><img src="/egghead-logo.png" alt="Egghead logo"/></a></div>

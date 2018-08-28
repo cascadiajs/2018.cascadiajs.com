@@ -42,12 +42,17 @@ img#hero {
     }
 
     #platinum {
-
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-gap: 20px;
+        grid-template-rows: 300px;
     }
 
     #gold {
         display: grid;
         grid-template-columns: 1fr 1fr;
+        grid-gap: 20px;
+        grid-template-rows: 150px;
     }
 
     #silver {
