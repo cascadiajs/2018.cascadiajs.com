@@ -105,10 +105,11 @@
         "twitter": "taravancil"
     },
     {
-        "name": "",
+        "name": "Atishay Jain",
         "talk": "N-API - The new native in node.js",
-        "avatar": "https://avatars.dicebear.com/v2/identicon/2.svg",
-        "twitter": ""
+        "blurb": "Ever tried calling C++ from Node or Electron. Hate native modules because of the compilation and maintenance issues. This talk is all about the solution to this problem - N-API that is stable with node 10. C++ to Node.js interop is a lot of fun.",
+        "avatar": "/atishay.jpg",
+        "github": "atishay"
     },
     {
         "name": "",
