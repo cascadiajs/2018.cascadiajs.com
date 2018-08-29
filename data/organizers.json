@@ -46,5 +46,11 @@
         "role": "Speakers",
         "avatar": "amanda.jpg",
         "twitter": "amandasopkin"
+    },
+    {
+        "name": "Marcy Sutton",
+        "role": "Emcee",
+        "avatar": "marcy.jpg",
+        "twitter": "marcysutton"
     }
 ]
