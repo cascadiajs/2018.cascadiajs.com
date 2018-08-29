@@ -98,21 +98,40 @@
         "twitter": "amirootyet"
     },
     {
-        "name": "",
+        "name": "Tara Vancil",
         "talk": "Reclaiming the Web with peer-to-peer protocols",
-        "avatar": "https://avatars.dicebear.com/v2/identicon/14.svg",
-        "twitter": ""
+        "blurb": "Tara is the co-creator of the Beaker Browser, a browser for exploring and building the peer-to-peer Web. She's part of Blue Link Labs, a team of Web enthusiasts behind the Beaker Browser, the Dat protocol, and hashbase.io. She's dedicated to building the Web of tomorrow as a Web for all.",
+        "avatar": "/taravancil.jpg",
+        "twitter": "taravancil"
     },
     {
         "name": "",
         "talk": "N-API - The new native in node.js",
-        "avatar": "https://avatars.dicebear.com/v2/identicon/16.svg",
+        "avatar": "https://avatars.dicebear.com/v2/identicon/2.svg",
         "twitter": ""
     },
     {
         "name": "",
         "talk": "How Linters, Compilers & Other Cool Things Work",
-        "avatar": "https://avatars.dicebear.com/v2/identicon/17.svg",
+        "avatar": "https://avatars.dicebear.com/v2/identicon/3.svg",
+        "twitter": ""
+    },
+    {
+        "name": "",
+        "talk": "Mystery Speaker",
+        "avatar": "https://avatars.dicebear.com/v2/identicon/4.svg",
+        "twitter": ""
+    },
+    {
+        "name": "",
+        "talk": "Mystery Speaker",
+        "avatar": "https://avatars.dicebear.com/v2/identicon/5.svg",
+        "twitter": ""
+    },
+    {
+        "name": "",
+        "talk": "Mystery Speaker",
+        "avatar": "https://avatars.dicebear.com/v2/identicon/6.svg",
         "twitter": ""
     }
 ]
