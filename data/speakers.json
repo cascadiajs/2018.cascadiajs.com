@@ -112,10 +112,11 @@
         "github": "atishay"
     },
     {
-        "name": "",
+        "name": "Will Klein",
         "talk": "How Linters, Compilers & Other Cool Things Work",
-        "avatar": "https://avatars.dicebear.com/v2/identicon/3.svg",
-        "twitter": ""
+        "blurb": "Step inside your everyday JavaScript tools, and you’ll find the abstract syntax tree. With the AST, let’s discover how our tools work, how we can extend them, and build a better understanding of computer language along the way.",
+        "avatar": "/will.jpg",
+        "twitter": "WillsLab"
     },
     {
         "name": "",
