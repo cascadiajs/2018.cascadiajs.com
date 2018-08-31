@@ -5,19 +5,71 @@ title: "Call for Sponsors"
 
 The most important thing we do as a conference is bring developers together to meet, build relationships and learn from one another. Many of the attendees who come to CascadiaJS do so because they are trying to learn new skills, become better engineers, build their professional network or find a new job. For companies that are hiring or building products for developers, sponsoring CascadiaJS is a great way to connect with these folks.
 
-## Available Sponsorships
+If you'd like to support our event or have any questions, please email carter@cascadiajs.com. 
 
-<table cellspacing="20">
-    <tr><td><b>Scholarships</b></td><td>Help us fund 50 scholarships to CascadiaJS this year!</td><td><span class="price">$1500</span></td></tr>
-    <tr><td><b>Hacker Train</b></td><td>We are buying-out train cars on the Amtrak Cascades to bring developers to Seattle down from Vancouver, BC and up from Portland, OR.</td><td><span class="price">$2000</span></td></tr>
-    <tr><td><b>Captioning</b></td><td>We will be live captioning all 24 talks for the hearing impaired.</td><td><span class="price">$3000</span></td></tr>
-    <tr><td><b>Opening Party</b></td><td>Venue TBD. This will be the evening social event following Day One.</td><td><span class="price">$10k</span></td></tr>
-    <tr><td><b>Closing Party</b></td><td>Venue TBD. This will be the evening social event following Day Two.</td><td><span class="price">$15k</span></td></tr>
-</table>
+## Platinum Sponsor
 
-If you'd like to purchase a sponsorship or have some questions, please email carter@cascadiajs.com. 
+* Logo on website
+* Logo on conference banners
+* Email copy
+* Social media mentions
+* On stage mentions
+* Booth
+* 5 complimentary tickets
+* 3 job postings
 
-## Code of Conduct 
+### Conference Venue (SOLD)
 
-Please review our [Code of Conduct](https://github.com/cascadiajs/2018.cascadiajs.com/blob/master/code-of-conduct.md). Everyone who participates in our conference agrees to the enforcement of our CoC, and includes our friends, speakers, staff, sponsors, and attendees.
+## Gold Tier
+
+* Logo on website
+* Logo on conference banners
+* Logo on break slides
+* On stage mention
+* Booth
+* Email copy
+* Social media mentions
+* 3 complimentary tickets
+* 2 job postings
+
+### Opening Party on Thursday (SOLD)
+
+Venue TBD. This will be the evening social event following Day One.
+
+### Closing Party on Friday ($15k)
+
+<img src="/livingcomputers.jpg" alt="Living Computer Museum entrance" height="305px" width="500px"/>
+
+Our Closing Party will be held at the [Living Computer Museum](https://livingcomputers.org). Following the final day of talks, we will shuttle our attendees from the Amazon Meeting Center to the Living Computer Museum where we will celebrate the conclusion the conference with food, drinks and hands-on interactive technology!
+
+## Silver Tier
+
+* Logo on website
+* Logo on conference banners
+* Booth
+* 1 complimentary ticket
+* 1 job posting
+
+### Mentor Mixer (SOLD)
+
+The evening before the conference we will organize a mixer that pairs our scholarship recipients with mentors who are also attending CascadiaJS. 
+
+### Hacker Train ($4k / each train)
+
+We are buying-out train cars on the Amtrak Cascades to bring developers to Seattle down from Vancouver, BC and up from Portland, OR.
+
+### Captioning ($4k)
+
+We will be live captioning all 24 talks for the hearing impaired.
+
+## Community Tier
+
+* Logo on website
+* Logo on conference banners
+* 1 complimentary ticket
+
+### Scholarships ($1500 / each)
+
+Help us fund 50 scholarships to CascadiaJS this year! Each Scholarship puchased comes with 1 complimentary ticket to the conference for the sponsor.
+
 
