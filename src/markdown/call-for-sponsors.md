@@ -56,11 +56,15 @@ The evening before the conference we will organize a mixer that pairs our schola
 
 ### Hacker Train ($4k / each train)
 
-We are buying-out train cars on the Amtrak Cascades to bring developers to Seattle down from Vancouver, BC and up from Portland, OR.
+We are buying-out train cars on the Amtrak Cascades to bring developers to Seattle down from Vancouver, BC and up from Portland, OR! Help folks travel to Seattle in style, make some new friends and enjoy the in-train Wi-Fi. 
 
 ### Captioning ($4k)
 
-We will be live captioning all 24 talks for the hearing impaired.
+We will be live captioning all 24 talks for the hearing impaired. 
+
+### Meet the Team ($4k)
+
+This is perfect if you're bring your team to the event and have an open job that you're hiring for. Comes with the benefits of Silver sponsorship, a block of 5 tickets and 20% any additional tickets.
 
 ## Community Tier
 
@@ -71,5 +75,6 @@ We will be live captioning all 24 talks for the hearing impaired.
 ### Scholarships ($1500 / each)
 
 Help us fund 50 scholarships to CascadiaJS this year! Each Scholarship puchased comes with 1 complimentary ticket to the conference for the sponsor.
+
 
 
