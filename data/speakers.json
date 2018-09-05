@@ -30,7 +30,7 @@
     {
         "name": "Faddah Wolf",
         "talk": "Teaching the Sighted to Touch & Feel a Bit More",
-        "blurb": "Braille is becoming more and more ubiquitous in many common spaces — airports, malls,libraries, etc. A college in Oregon needed a web app built to help teach the friends &amp; family of those who are sight impaired how to read Braille. Faddah Wolf will go over what accessibility options there are in common Mobile OSes and how he created a React Native six-key-input keyboard for Braille and how you can contribute to this Open Source project.",
+        "blurb": "Braille is becoming more and more ubiquitous in many common spaces — airports, malls, libraries, etc. A college in Oregon needed an App built to help teach the friends \u0026 family of those who are sight impaired how to read Braille. Faddah Wolf will go over what accessibility options there are in common Mobile OS's, how he created a React Native six-key-input keyboard for Braille and how you can contribute to this Open Source project.",
         "avatar": "/faddah.jpg",
         "twitter": "yuetsu"
     },
