@@ -60,7 +60,7 @@ We are buying-out train cars on the Amtrak Cascades to bring developers to Seatt
 
 ### Captioning ($4k)
 
-We will be live captioning all 24 talks for the hearing impaired. 
+We will be live captioning all 24 talks for the hearing impaired. Your logo will be included on the site we use to display the captioning as well as the videos that we product and upload to YouTube. 
 
 ### Meet the Team ($4k)
 
