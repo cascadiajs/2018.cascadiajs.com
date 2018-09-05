@@ -8,7 +8,7 @@ console.log(styles);
 function Speakers ({ data }) {
   let speakers = [];
   console.log(data);
-  data.site.siteMetadata.speakers.forEach(o => {
+  data.site.siteMetadata.speakers.forEach((o, k) => {
     let name = <h3>&nbsp;<br/>&nbsp;</h3>;
     let talk = o.talk;
     let link = '';
@@ -24,7 +24,7 @@ function Speakers ({ data }) {
       talk = <Link to={'/speakers/' + o.name.replace(' ', '-').toLowerCase()}>{o.talk}</Link>;
     }
     speakers.push(
-      <div>
+      <div key={k}>
         {name}
         <p><img className={styles.avatar} src={o.avatar} alt={o.name}/></p>
         <p>{talk}</p>

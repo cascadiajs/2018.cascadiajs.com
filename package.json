@@ -18,7 +18,8 @@
     "gatsby-source-filesystem": "^1.5.38",
     "gatsby-transformer-remark": "^1.7.41",
     "pure-react-carousel": "^1.13.2",
-    "react-helmet": "^5.2.0"
+    "react-helmet": "^5.2.0",
+    "react-twitter-conversion-tracker": "^1.0.0"
   },
   "keywords": [
     "gatsby"
