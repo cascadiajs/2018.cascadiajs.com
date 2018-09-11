@@ -26,7 +26,6 @@ If you'd like to support our event or have any questions, please email carter@ca
 * Logo on conference banners
 * Logo on break slides
 * On stage mention
-* Booth
 * Email copy
 * Social media mentions
 * 3 complimentary tickets
@@ -46,7 +45,6 @@ Our Closing Party will be held at the [Living Computer Museum](https://livingcom
 
 * Logo on website
 * Logo on conference banners
-* Booth
 * 1 complimentary ticket
 * 1 job posting
 

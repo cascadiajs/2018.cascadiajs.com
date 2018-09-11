@@ -99,7 +99,7 @@ function IndexPage ({data}) {
           <section id="silver">
             <div><a href="https://egghead.io/"><img src="/egghead-logo.png" alt="Egghead logo"/></a></div>
             <div><a href="https://mozilla.com/"><img src="/mozilla-logo.png" alt="Mozilla logo"/></a></div>
-            <div></div>
+            <div><a href="https://developer.microsoft.com/en-us/advocates/index.html"><img src="/raccoon-azure.svg" alt="Azure logo"/></a></div>
           </section>
           <p>
             <Link className="cta" to="/call-for-sponsors">Be a Sponsor <span role="img" aria-label="high five!">🙌</span></Link>
