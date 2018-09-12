@@ -119,10 +119,11 @@
         "twitter": "WillsLab"
     },
     {
-        "name": "",
-        "talk": "Mystery Speaker",
-        "avatar": "https://avatars.dicebear.com/v2/identicon/4.svg",
-        "twitter": ""
+        "name": "James Snell",
+        "talk": "Observing Node.js",
+        "blurb": "Understanding what is really happening within your Node.js processes can be... Difficult. I'll pull back the curtain and demonstrate tools and techniques for observing Node.js.",
+        "avatar": "/snell.jpg",
+        "twitter": "jasnell"
     },
     {
         "name": "",
