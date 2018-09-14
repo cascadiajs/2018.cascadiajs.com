@@ -9,8 +9,8 @@ If you'd like to support our event or have any questions, please email carter@ca
 
 ## Platinum Sponsor
 
-* Logo on website
-* Logo on conference banners
+* Primary logo on website
+* Primary logo on conference banners
 * Email copy
 * Social media mentions
 * On stage mentions
@@ -31,9 +31,23 @@ If you'd like to support our event or have any questions, please email carter@ca
 * 3 complimentary tickets
 * 2 job postings
 
-### Opening Party on Thursday (SOLD)
+### Day One Track ($10k)
+
+* Highest level of visibility for Day One
+* Booth/Pod/Lounge set-up at conference venue
+* Signage spots at break and lunch areas
+* Logo included talks when published online
+
+### Opening Party on Thursday (ON HOLD)
 
 Venue TBD. This will be the evening social event following Day One.
+
+### Day Two Track ($10k)
+
+* Highest level of visibility for Day Two
+* Booth/Pod/Lounge set-up at conference venue
+* Signage spots at break and lunch areas
+* Logo included talks when published online
 
 ### Closing Party on Friday ($15k)
 
@@ -59,6 +73,10 @@ We are buying-out train cars on the Amtrak Cascades to bring developers to Seatt
 ### Captioning ($4k)
 
 We will be live captioning all 24 talks for the hearing impaired. Your logo will be included on the site we use to display the captioning as well as the videos that we product and upload to YouTube. 
+
+### Child Care ($4k)
+
+We want CascadiaJS to be as accessible as possible and for many parents that means offering on-site child care services. Help us make this happen! 
 
 ### Meet the Team ($4k)
 
