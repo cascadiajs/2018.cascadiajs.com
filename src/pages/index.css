@@ -45,20 +45,38 @@ img#hero {
         display: grid;
         grid-template-columns: 1fr;
         grid-gap: 20px;
-        grid-template-rows: 300px;
+        grid-template-rows: 250px;
     }
 
     #gold {
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-gap: 20px;
-        grid-template-rows: 150px;
+        grid-template-rows: 175px;
     }
 
     #silver {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
-        grid-gap: 20px;
+        grid-gap: 15px;
+        grid-template-rows: 150px;
+    }
+
+    #community {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+        grid-gap: 10px;
         grid-template-rows: 100px;
     }
+
+    #platinum div, #gold div, #silver div, #community div {
+        align-self: center;
+        justify-self: center;
+    }
+
+    .placeholder {
+        padding: 20px;
+        border: 1px #000 dotted;
+    }
+
   }
