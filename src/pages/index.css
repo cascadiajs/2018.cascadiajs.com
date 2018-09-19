@@ -44,29 +44,29 @@ img#hero {
     #platinum {
         display: grid;
         grid-template-columns: 1fr;
-        grid-gap: 20px;
-        grid-template-rows: 250px;
+        grid-gap: 0px;
+        grid-template-rows: 25vw;
     }
 
     #gold {
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-gap: 20px;
-        grid-template-rows: 175px;
+        grid-template-rows: 10vw;
     }
 
     #silver {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
         grid-gap: 15px;
-        grid-template-rows: 150px;
+        grid-template-rows: 9vw;
     }
 
     #community {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr;
         grid-gap: 10px;
-        grid-template-rows: 100px;
+        grid-template-rows: 8vw;
     }
 
     #platinum div, #gold div, #silver div, #community div {
