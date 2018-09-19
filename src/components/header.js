@@ -6,11 +6,11 @@ import './header.css';
 class Header extends Component {
   constructor (props) {
     super(props);
-    this.state = {toggled: false};
+    this.state = { toggled: false };
   }
 
   toggle = () => {
-    this.setState({toggled: !this.state.toggled});
+    this.setState({ toggled: !this.state.toggled });
   };
 
   render () {

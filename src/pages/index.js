@@ -1,5 +1,7 @@
 import React from 'react';
 import Link from 'gatsby-link';
+import { graphql } from 'gatsby';
+import Layout from '../layouts';
 import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
 import 'pure-react-carousel/dist/react-carousel.es.css';
 import hero from '../images/cascadiajs-background.png';
@@ -9,9 +11,9 @@ import Organizers from '../components/organizers';
 import Speakers from '../components/speakers';
 import './index.css';
 
-function IndexPage ({data}) {
+function IndexPage ({ data }) {
   return (
-    <div>
+    <Layout>
       <img
         id="hero"
         alt="CascadiaJS 2018, November 15 & 16, Seattle, Washington"
@@ -110,7 +112,7 @@ function IndexPage ({data}) {
           <MailChimpForm />
         </section>
       </div>
-    </div>
+    </Layout>
   );
 }
 
