@@ -37,6 +37,8 @@ All aboard the Hacker Train! If you live in Portland, OR or Vancouver, BC there 
 
 ## Hotels
 
+<span class="exclaim">👉 Discounted group rate expires <strong>OCT 8</strong></div>
+
 ### Moxy Seattle
 
 ![Moxy Seattle hotel](/moxy-exterior.jpg)

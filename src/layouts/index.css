@@ -98,3 +98,10 @@ img.avatar {
   font-family: 'Viga', sans-serif;
   text-transform: uppercase;
 }
+
+.exclaim {
+  border: 1px solid #333;
+  background-color: yellow;
+  padding:10px;
+  box-shadow: 3px 3px 0 0 #000;
+}

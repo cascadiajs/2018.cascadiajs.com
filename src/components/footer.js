@@ -22,7 +22,7 @@ const Footer = () => (
         <li><Link to="/about-us">About</Link></li>
       </ul>
     </div>
-    <div> 
+    <div>
       <ul>
         <li><a title="CascadiaJS 2012" href="https://2012.cascadiajs.com">2012</a></li>
         <li><a title="CascadiaJS 2013" href="https://2013.cascadiajs.com">2013</a></li>
