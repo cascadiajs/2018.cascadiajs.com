@@ -3,7 +3,15 @@ footer {
     text-align:center;
 }
 
+footer ul {
+    display: inline;
+}
+footer li {
+    list-style: none;
+    display: inline-block;
+    margin-right:2vmax;
+}
+
 footer a {
     font-size: 1em;
-    margin-right:2vmax;
 }

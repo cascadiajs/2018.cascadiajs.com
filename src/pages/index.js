@@ -94,7 +94,7 @@ function IndexPage ({data}) {
           </section>
           <section id="gold">
             <div><a href="https://formidable.com/"><img src="/formidable.png" alt="Formidable logo"/></a></div>
-            <div><Link className="cta" to="/call-for-sponsors">Be a Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
+            <div><Link className="cta" to="/call-for-sponsors">Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
           </section>
           <section id="silver">
             <div><a href="https://egghead.io/"><img src="/egghead-logo.png" alt="Egghead logo"/></a></div>
@@ -103,10 +103,9 @@ function IndexPage ({data}) {
           </section>
           <section id="community">
             <div><a href="https://www.slalom.com/"><img src="/slalom-logo.png" alt="Slalom logo"/></a></div>
-            <div><Link className="cta" to="/call-for-sponsors">Be a Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
-            <div><Link className="cta" to="/call-for-sponsors">Be a Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
-            <div><Link className="cta" to="/call-for-sponsors">Be a Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
-            <div><Link className="cta" to="/call-for-sponsors">Be a Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
+            <div><Link className="cta" to="/call-for-sponsors">Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
+            <div><Link className="cta" to="/call-for-sponsors">Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
+            <div><Link className="cta" to="/call-for-sponsors">Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
           </section>
         </section>
         <section id="contact">
