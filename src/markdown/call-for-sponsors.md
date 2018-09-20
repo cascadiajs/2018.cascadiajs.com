@@ -31,29 +31,29 @@ If you'd like to support our event or have any questions, please email carter@ca
 * 3 complimentary tickets
 * 2 job postings
 
-### Day One Track ($10k)
+### Day One Track ($10k, 1 available)
 
 * Highest level of visibility for Day One
 * Booth/Pod/Lounge set-up at conference venue
 * Signage spots at break and lunch areas
 * Logo included talks when published online
 
-### Opening Party on Thursday (ON HOLD)
+### Opening Party on Thursday ($8k, 4 available)
 
 Venue TBD. This will be the evening social event following Day One.
 
-### Day Two Track ($10k)
+### Day Two Track ($10k, 1 available)
 
 * Highest level of visibility for Day Two
 * Booth/Pod/Lounge set-up at conference venue
 * Signage spots at break and lunch areas
 * Logo included talks when published online
 
-### Closing Party on Friday ($15k)
+### Closing Party on Friday ($8k, 4 available)
 
 <img src="/livingcomputers.jpg" alt="Living Computer Museum entrance" height="305px" width="500px"/>
 
-Our Closing Party will be held at the [Living Computer Museum](https://livingcomputers.org). Following the final day of talks, we will shuttle our attendees from the Amazon Meeting Center to the Living Computer Museum where we will celebrate the conclusion the conference with food, drinks and hands-on interactive technology!
+Our Closing Party will be held at the [Living Computer Museum](https://livingcomputers.org). Following the final day of talks, head from the Amazon Meeting Center to the Living Computer Museum where we will celebrate the conclusion the conference with food, drinks and hands-on interactive technology! We've hand-selected the 5 coolest exhibits for sponsors to set-up next to.
 
 ## Silver Tier
 
@@ -66,15 +66,15 @@ Our Closing Party will be held at the [Living Computer Museum](https://livingcom
 
 The evening before the conference we will organize a mixer that pairs our scholarship recipients with mentors who are also attending CascadiaJS. 
 
-### Hacker Train ($4k / each train)
+### Hacker Train ($4k, 1 SOLD, 1 available)
 
 We are buying-out train cars on the Amtrak Cascades to bring developers to Seattle down from Vancouver, BC and up from Portland, OR! Help folks travel to Seattle in style, make some new friends and enjoy the in-train Wi-Fi. 
 
-### Captioning ($4k)
+### Captioning ($4k, 1 available)
 
 We will be live captioning all 24 talks for the hearing impaired. Your logo will be included on the site we use to display the captioning as well as the videos that we product and upload to YouTube. 
 
-### Child Care ($4k)
+### Child Care ($4k, 1 available)
 
 We want CascadiaJS to be as accessible as possible and for many parents that means offering on-site child care services. Help us make this happen! 
 
@@ -88,7 +88,7 @@ This is perfect if you're bring your team to the event and have an open job that
 * Logo on conference banners
 * 1 complimentary ticket
 
-### Scholarships ($1500 / each)
+### Scholarships ($1500)
 
 Help us fund 50 scholarships to CascadiaJS this year! Each Scholarship puchased comes with 1 complimentary ticket to the conference for the sponsor.
 
