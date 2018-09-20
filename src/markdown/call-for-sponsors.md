@@ -52,11 +52,11 @@ If you'd like to support our event or have any questions, please email carter@ca
 * 1 complimentary ticket
 * 1 job posting
 
-### Opening Party on Thursday ($8k, 4 available)
+### Opening Party on Thursday ($5k, 4 available)
 
 Venue TBD. This will be the evening social event following Day One.
 
-### Closing Party on Friday ($8k, 4 available)
+### Closing Party on Friday ($5k, 4 available)
 
 <img src="/livingcomputers.jpg" alt="Living Computer Museum entrance" height="305px" width="500px"/>
 
