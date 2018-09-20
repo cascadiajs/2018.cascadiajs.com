@@ -36,24 +36,14 @@ If you'd like to support our event or have any questions, please email carter@ca
 * Highest level of visibility for Day One
 * Booth/Pod/Lounge set-up at conference venue
 * Signage spots at break and lunch areas
-* Logo included talks when published online
-
-### Opening Party on Thursday ($8k, 4 available)
-
-Venue TBD. This will be the evening social event following Day One.
+* Logo included on talk videos when published online
 
 ### Day Two Track ($10k, 1 available)
 
 * Highest level of visibility for Day Two
 * Booth/Pod/Lounge set-up at conference venue
 * Signage spots at break and lunch areas
-* Logo included talks when published online
-
-### Closing Party on Friday ($8k, 4 available)
-
-<img src="/livingcomputers.jpg" alt="Living Computer Museum entrance" height="305px" width="500px"/>
-
-Our Closing Party will be held at the [Living Computer Museum](https://livingcomputers.org). Following the final day of talks, head from the Amazon Meeting Center to the Living Computer Museum where we will celebrate the conclusion the conference with food, drinks and hands-on interactive technology! We've hand-selected the 5 coolest exhibits for sponsors to set-up next to.
+* Logo included on talk videos when published online
 
 ## Silver Tier
 
@@ -61,6 +51,16 @@ Our Closing Party will be held at the [Living Computer Museum](https://livingcom
 * Logo on conference banners
 * 1 complimentary ticket
 * 1 job posting
+
+### Opening Party on Thursday ($8k, 4 available)
+
+Venue TBD. This will be the evening social event following Day One.
+
+### Closing Party on Friday ($8k, 4 available)
+
+<img src="/livingcomputers.jpg" alt="Living Computer Museum entrance" height="305px" width="500px"/>
+
+Our Closing Party will be held at the [Living Computer Museum](https://livingcomputers.org). Following the final day of talks, head from the Amazon Meeting Center to the Living Computer Museum where we will celebrate the conclusion the conference with food, drinks and hands-on interactive technology! We've hand-selected the 5 coolest exhibits for sponsors to set-up next to.
 
 ### Mentor Mixer (SOLD)
 
@@ -72,7 +72,7 @@ We are buying-out train cars on the Amtrak Cascades to bring developers to Seatt
 
 ### Captioning ($4k, 1 available)
 
-We will be live captioning all 24 talks for the hearing impaired. Your logo will be included on the site we use to display the captioning as well as the videos that we product and upload to YouTube. 
+We will be live captioning all 24 talks for the hearing impaired. Your logo will be included on the site we use to display the captioning as well as the videos that we produce and upload to YouTube. 
 
 ### Child Care ($4k, 1 available)
 
