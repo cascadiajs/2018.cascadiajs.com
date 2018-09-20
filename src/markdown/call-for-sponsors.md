@@ -5,7 +5,7 @@ title: "Call for Sponsors"
 
 The most important thing we do as a conference is bring developers together to meet, build relationships and learn from one another. Many of the attendees who come to CascadiaJS do so because they are trying to learn new skills, become better engineers, build their professional network or find a new job. For companies that are hiring or building products for developers, sponsoring CascadiaJS is a great way to connect with these folks.
 
-If you'd like to support our event or have any questions, please email carter@cascadiajs.com. 
+If you'd like to support our event or have any questions, please email carter@cascadiajs.com.
 
 ## Platinum Sponsor
 
@@ -64,19 +64,19 @@ Our Closing Party will be held at the [Living Computer Museum](https://livingcom
 
 ### Mentor Mixer (SOLD)
 
-The evening before the conference we will organize a mixer that pairs our scholarship recipients with mentors who are also attending CascadiaJS. 
+The evening before the conference we will organize a mixer that pairs our scholarship recipients with mentors who are also attending CascadiaJS.
 
 ### Hacker Train ($4k / each train)
 
-We are buying-out train cars on the Amtrak Cascades to bring developers to Seattle down from Vancouver, BC and up from Portland, OR! Help folks travel to Seattle in style, make some new friends and enjoy the in-train Wi-Fi. 
+We are buying-out train cars on the Amtrak Cascades to bring developers to Seattle down from Vancouver, BC and up from Portland, OR! Help folks travel to Seattle in style, make some new friends and enjoy the in-train Wi-Fi.
 
 ### Captioning ($4k)
 
-We will be live captioning all 24 talks for the hearing impaired. Your logo will be included on the site we use to display the captioning as well as the videos that we product and upload to YouTube. 
+We will be live captioning all 24 talks for the hearing impaired. Your logo will be included on the site we use to display the captioning as well as the videos that we product and upload to YouTube.
 
 ### Child Care ($4k)
 
-We want CascadiaJS to be as accessible as possible and for many parents that means offering on-site child care services. Help us make this happen! 
+We want CascadiaJS to be as accessible as possible and for many parents that means offering on-site child care services. Help us make this happen!
 
 ### Meet the Team ($4k)
 
@@ -90,7 +90,7 @@ This is perfect if you're bring your team to the event and have an open job that
 
 ### Scholarships ($1500 / each)
 
-Help us fund 50 scholarships to CascadiaJS this year! Each Scholarship puchased comes with 1 complimentary ticket to the conference for the sponsor.
+Help us fund 50 scholarships to CascadiaJS this year! Each Scholarship purchased comes with 1 complimentary ticket to the conference for the sponsor.
 
 
 
