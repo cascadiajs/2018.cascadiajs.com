@@ -41,7 +41,7 @@ function IndexPage ({data}) {
           <div id="talks">
             <div>
               <h2>Two Days of Talks</h2>
-              <p>CascadiaJS features a single track of 24 amazing speakers discussing the cutting-edge of JavaScript, web development and engineering culture over the course of 2 days.</p>
+              <p>CascadiaJS features a single track of 24 amazing speakers discussing the cutting-edge of JavaScript, web development and engineering culture over the course of 2 days. Topics include: Serverless, Distributed Web, React, Web Assembly, Accessiblity, Voice Interfaces and more!</p>
               <img src="/coffee.svg" alt="tree sticker"/>
             </div>
           </div>
@@ -58,7 +58,7 @@ function IndexPage ({data}) {
               </div>
               <div>
                 <h2>Code of Conduct</h2>
-                <p>In order to provide a safe and inclusive environment we expect, and require, all organizers, sponsors, speakers, volunteers, and attendees of all levels to adhere to our <Link to="/code-of-conduct">Code of Conduct</Link></p>
+                <p>We work hard to provide a safe and inclusive environment for everyone! We expect, and require, all organizers, sponsors, speakers, volunteers, and attendees of all levels to adhere to our <Link to="/code-of-conduct">Code of Conduct</Link></p>
                 <p><img src="/mushroom.svg" alt="Seattle sticker"/></p>
               </div>
             </div>
