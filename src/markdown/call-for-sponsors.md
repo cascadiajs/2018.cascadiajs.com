@@ -7,7 +7,9 @@ The most important thing we do as a conference is bring developers together to m
 
 If you'd like to support our event or have any questions, please email carter@cascadiajs.com. 
 
-## Platinum Sponsor
+<div style="background-color:#eee;padding:5px;">
+
+## Platinum Tier
 
 * Primary logo on website
 * Primary logo on conference banners
@@ -19,6 +21,8 @@ If you'd like to support our event or have any questions, please email carter@ca
 * 3 job postings
 
 ### Conference Venue (SOLD)
+</div>
+<div style="padding:5px;">
 
 ## Gold Tier
 
@@ -44,6 +48,9 @@ If you'd like to support our event or have any questions, please email carter@ca
 * Booth/Pod/Lounge set-up at conference venue
 * Signage spots at break and lunch areas
 * Logo included on talk videos when published online
+</div>
+
+<div style="background-color:#eee;padding:5px;">
 
 ## Silver Tier
 
@@ -82,6 +89,10 @@ We want CascadiaJS to be as accessible as possible and for many parents that mea
 
 This is perfect if you're bring your team to the event and have an open job that you're hiring for. Comes with the benefits of Silver sponsorship, a block of 5 tickets and 20% any additional tickets.
 
+</div>
+
+<div style="padding:5px;">
+
 ## Community Tier
 
 * Logo on website
@@ -92,5 +103,4 @@ This is perfect if you're bring your team to the event and have an open job that
 
 Help us fund 50 scholarships to CascadiaJS this year! Each Scholarship puchased comes with 1 complimentary ticket to the conference for the sponsor.
 
-
-
+</div>
