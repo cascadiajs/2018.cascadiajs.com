@@ -19,13 +19,13 @@ function IndexPage ({data}) {
           <div><img className="tree" src="/tree.svg" alt="tree sticker"/></div>
         </section>
         <section id="graphql">
-          <div className="dates">Nov 12-13</div>
+          <div><span className="dates">Nov 12-13</span></div>
           <div id="graphql-title"><h2>GraphQL Training</h2></div>
-          <div id="graphql-desc">Eve Porcello and Alex Banks are organizing a 2-day GraphQL workshop in downtown Seattle. We have teamed up with them to offer a combo ticket to both their workshop and CascadiaJS!</div>
+          <p id="graphql-desc">Eve Porcello and Alex Banks are organizing a 2-day GraphQL workshop in downtown Seattle. We have teamed up with them to offer a combo ticket to both their workshop and CascadiaJS!</p>
           <div><a className="cta" href="https://ti.to/event-loop/cascadiajs-2018/with/d65c9visgmq ">Buy a Combo Ticket</a></div>
         </section>
         <section id="preconf">
-          <div className="dates">Nov 14</div>
+          <div><span className="dates">Nov 14</span></div>
           <div id="train">
             <h2>Hacker Train</h2>
             <p>All aboard the Hacker Train! If you live in Portland, OR or Vancouver, BC there is no better way to get to CascadiaJS than to join your fellow devs on the Hacker Train.</p>
@@ -37,7 +37,7 @@ function IndexPage ({data}) {
           </div>
         </section>
         <section id="conf">
-          <div id="nov1516" className="dates">Nov 15-16</div>
+          <div><span className="dates">Nov 15-16</span></div>
           <div id="talks">
             <div>
               <h2>Two Days of Talks</h2>
@@ -66,13 +66,13 @@ function IndexPage ({data}) {
           <div id="closing">
             <div>
               <h2>Social Fun Times</h2>
-              <p>Following both Day One and Day Two, we will be organizing a couple of awesome evening events for folks to unwind and enjoy the company of new friends. The Opening Party has not been announced, but we are excited to share that we&apos;ve rented out the <a href="https://livingcomputers.org/">Living Computer Museum</a> for what is going to be an epic Closing Party! </p>
+              <p>Following both days of talks, we will be organizing awesome evening events for folks to unwind and enjoy the company of new friends. The Opening Party has not been announced, but we are excited to share that we&apos;ve rented out the <a href="https://livingcomputers.org/">Living Computer Museum</a> for what is going to be an epic Closing Party! </p>
               <p><img src="/old-fashioned.svg" alt="tree sticker"/></p>
             </div>
           </div>
         </section>
         <section id="postconf">
-          <p className="dates">Nov 17</p>
+          <div><span className="dates">Nov 17</span></div>
           <div id="training">
             <h2>React Training</h2>
             <p>We are partnering with Formidable will hold a full-day React training workshop following the conference.</p>
