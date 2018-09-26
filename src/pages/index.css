@@ -1,34 +1,117 @@
-section {
+.tree, .location, .dates, #tickets {
+    display: none;
+}
+
+#hero {
     text-align: center;
 }
 
-img#hero {
-    max-width: 100%;
-    max-height: 100%;
+#graphql, #preconf, #postconf {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
 }
 
-#tagline {
-    font-weight: 400;
-    font-size: 3vh;
+.dates {
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: 125px;
+    margin: 0;
+    padding-left:10px;
+    font-weight: 700;
+}
+
+#preconf, #train, #kids {
+    background-color: #275197;
+    color: #fff;
+}
+
+#mixer {
+    background-color: #fff;
+    color: #565354;   
+}
+
+#graphql .cta, #preconf .cta, #postconf .cta {
+    margin-left: 25px;
+}
+
+#train .cta, #kids .cta {
+    background-color: #fff;
+    border: 1px solid #fff;
+}
+
+#graphql, #conf, #code-of-conduct, #organizers, #contact {
+    background-color: #ccc;
+}
+
+#conf, #train, #mixer, #training, #kids {
+    padding-left: 20px;
+}
+
+#code-of-conduct, #venue, #lodging, #speakers, #organizers, #sponsors, #contact {
+    padding: 20px;
+}
+
+a.primary {
+    background-color: #FF9900;
+    color: #fff;
+    border: 1px solid #fff;
+    font-size: 2.5vh;
 }
 
 #speakers span {
     color: rgb(55, 107, 251);
 }
 
-#hotels li {
-    list-style: none;
-    font-size: 2.5vh;
-}
-
-#hotels .slider {
-    margin: 0 auto;
-}
-
 @media only screen and (min-width: 768px) { 
     #content {
-        width: 70vw;
-        margin: 0 auto;
+        width: 97%;
+    }
+
+    #hero img {
+        height: 100%;
+        width: 100%;
+    }
+
+    .tree, .location, .dates, #tickets {
+        display: inline;
+    }
+
+    #hero {
+        display: grid;
+        grid-template-columns: 1fr 1fr 4fr 1fr 1fr;
+        grid-gap: 20px;
+        grid-template-rows: 20vw;
+    }
+
+    #graphql, #preconf, #postconf {
+        display: flex;
+    }
+
+    #conf {
+        display: grid;
+        grid-template-columns: 1fr 2fr 1fr;
+        grid-gap: 20px;
+        padding: 20px;   
+    }
+
+    #conf img {
+        width: 20vw;
+    }
+
+    #theconference {
+        display: grid;
+        grid-template-columns: 1fr;    
+    }
+
+    #tickets {
+        text-align: center;
+    }
+
+    #daytwo {
+        display: grid;
+        grid-template-columns: 1fr 1fr;   
+        grid-gap: 20px; 
     }
 
     #cta div {
