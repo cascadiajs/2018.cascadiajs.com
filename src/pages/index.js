@@ -13,38 +13,32 @@ function IndexPage ({data}) {
       <div id="content">
         <section id="hero">
           <div><img className="tree" src="/tree.svg" alt="tree sticker"/></div>
-          <div><img className="dates" src="/nov15-16.svg" alt="Nov 15-16 sticker"/></div>
+          <div><img className="sticker-dates" src="/nov15-16.svg" alt="Nov 15-16 sticker"/></div>
           <div><img src="/logo.svg" alt="logo sticker"/></div>
-          <div><img className="location" src="/seattle.svg" alt="Seattle sticker"/></div>
+          <div><img className="sticker-location" src="/seattle.svg" alt="Seattle sticker"/></div>
           <div><img className="tree" src="/tree.svg" alt="tree sticker"/></div>
         </section>
         <section id="graphql">
           <div className="dates">Nov 12-13</div>
-          <p>
-            <h2>GraphQL Training</h2>
-            <p>Eve Porcello and Alex Banks are software engineers, instructors, and co-authors of O&apos;Reilly&apos;s Learning React and Learning GraphQL. They are organizing a 2-day GraphQL workshop in downtown Seattle. We have teamed up with them to offer a combo ticket to both their workshop and CascadiaJS!</p>
-          </p>
-          <p><a className="cta" href="https://ti.to/event-loop/cascadiajs-2018/with/d65c9visgmq ">Buy a Combo Ticket</a></p>
+          <div id="graphql-title"><h2>GraphQL Training</h2></div>
+          <div id="graphql-desc">Eve Porcello and Alex Banks are organizing a 2-day GraphQL workshop in downtown Seattle. We have teamed up with them to offer a combo ticket to both their workshop and CascadiaJS!</div>
+          <div><a className="cta" href="https://ti.to/event-loop/cascadiajs-2018/with/d65c9visgmq ">Buy a Combo Ticket</a></div>
         </section>
         <section id="preconf">
           <div className="dates">Nov 14</div>
           <div id="train">
-            <p>
-              <h2>Hacker Train</h2>
-              <p>All aboard the Hacker Train! If you live in Portland, OR or Vancouver, BC there is no better way to get to CascadiaJS than to join your fellow devs on the Hacker Train.</p>
-            </p>
-            <p><a className="cta" href="/getting-to-seattle">Reserve Your Seat</a></p>
+            <h2>Hacker Train</h2>
+            <p>All aboard the Hacker Train! If you live in Portland, OR or Vancouver, BC there is no better way to get to CascadiaJS than to join your fellow devs on the Hacker Train.</p>
           </div>
+          <div><a className="cta" href="/getting-to-seattle">Reserve Your Seat</a></div>
           <div id="mixer">
-            <p>
-              <h2>Mentor Mixer</h2>
-              <p>We are organizing an evening event the day before the conference to bring together folks who are new to our industry and more senior folks who are interested in mentoring. </p>
-            </p>
-            <p><i>More Info Coming Soon!</i></p>
+            <h2>Mentor Mixer</h2>
+            <p>We are organizing an evening event the day before the conference to bring together folks who are new to our industry and more senior folks who are interested in mentoring. More info coming soon!</p>
           </div>
         </section>
         <section id="conf">
-          <div id="dayone">
+          <div id="nov1516" className="dates">Nov 15-16</div>
+          <div id="talks">
             <div>
               <h2>Two Days of Talks</h2>
               <p>CascadiaJS features a single track of 24 amazing speakers discussing the cutting-edge of JavaScript, web development and engineering culture over the course of 2 days.</p>
@@ -56,7 +50,7 @@ function IndexPage ({data}) {
               <p><img src="/the-conference.svg" alt="the conference sticker"/></p>
               <p><a className="primary cta" href="https://ti.to/event-loop/cascadiajs-2018" title="Tickets On Sale!">Purchase Tickets</a></p>
             </div>
-            <div id="daytwo">
+            <div id="scholarships">
               <div>
                 <h2>Scholarships</h2>
                 <p>In order to make CascadiaJS as accessible as possible, we are working with local tech companies to fund a <a href="/scholarships">Scholarship Program</a> If you are a member of an under-represented group in tech or have financial constraints, please apply!</p>
@@ -80,18 +74,13 @@ function IndexPage ({data}) {
         <section id="postconf">
           <p className="dates">Nov 17</p>
           <div id="training">
-            <p>
-              <h2>React Training</h2>
-              <p>We are partnering with Formidable will hold a full-day React training workshop following the conference.</p>
-            </p>
-            <p><a className="cta" href="/react-training">Learn More</a></p>
+            <h2>React Training</h2>
+            <p>We are partnering with Formidable will hold a full-day React training workshop following the conference.</p>
           </div>
+          <div><a className="cta" href="/react-training">Learn More</a></div>
           <div id="kids">
-            <p>
-              <h2>Kid&apos;s Coding Workshops</h2>
-              <p>Interested in getting your kids as excited about programming as your are? Join us for a day full of coding workshops targeted at all age ranges (K-12).</p>
-            </p>
-            <p><i>More Info Coming Soon!</i></p>
+            <h2>Kid&apos;s Coding Workshops</h2>
+            <p>Interested in getting your kids as excited about programming as your are? Join us for a day full of coding workshops targeted at all age ranges (K-12). More info coming soon!</p>
           </div>
         </section>
         <section id="code-of-conduct">
