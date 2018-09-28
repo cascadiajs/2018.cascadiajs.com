@@ -59,11 +59,11 @@ If you'd like to support our event or have any questions, please email carter@ca
 * 1 complimentary ticket
 * 1 job posting
 
-### Opening Party on Thursday ($5k, 4 available)
+### Opening Party on Thursday ($5k, 2 available)
 
 Venue TBD. This will be the evening social event following Day One.
 
-### Closing Party on Friday ($5k, 4 available)
+### Closing Party on Friday ($5k, 1 SOLD, 3 available)
 
 <img src="/livingcomputers.jpg" alt="Living Computer Museum entrance" height="305px" width="500px"/>
 
@@ -80,10 +80,6 @@ We are buying-out train cars on the Amtrak Cascades to bring developers to Seatt
 ### Captioning ($4k, 1 available)
 
 We will be live captioning all 24 talks for the hearing impaired. Your logo will be included on the site we use to display the captioning as well as the videos that we produce and upload to YouTube. 
-
-### Child Care ($4k, 1 available)
-
-We want CascadiaJS to be as accessible as possible and for many parents that means offering on-site child care services. Help us make this happen! 
 
 ### Meet the Team ($4k)
 
