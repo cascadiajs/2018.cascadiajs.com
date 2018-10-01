@@ -3,40 +3,34 @@ html {
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: 'adelle', sans-serif;
   font-weight: 300;
-  font-size: 2.5vh;
-  color: #565354;
+  font-size: 2vh;
   background-color: #fff;
+  color: #565354;
   min-height: 100%;
   line-height: 1.4;
   margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: 0;
+  margin: 0;
 }
 
-h1, h2 {
-  font-family: 'Viga', sans-serif;
-  text-transform: uppercase;
-}
-
-h3, h4 {
-  font-family: 'Dosis', sans-serif;
-  text-transform: uppercase;
+h1, h2, h3, h4 {
+  font-family: 'freight-sans-pro', sans-serif;
 }
 
 h1 {
-  font-size: 6vh;
+  font-size: 3.5vh;
 }
 
 h2 {
-  font-size: 4.5vh;
+  font-size: 3vh;
 }
 
 h3 {
-  font-size: 3vh;
+  font-size: 2.5vh;
 }
 
 h4 {
@@ -45,7 +39,7 @@ h4 {
 
 #container {
   display: grid;
-  grid-template-rows: auto auto 8vmax;
+  grid-template-rows: auto auto auto;
 }
 
 img {
@@ -53,12 +47,22 @@ img {
   max-height: 100%;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 /* Typeform */
 iframe#typeform-full{ position: absolute; left:0; right:0; bottom:0; top:4.5em; border:0; }
 
 a.cta {
   font-size: 16px;
+  font-weight: 700;
   border: 1px solid rgb(55, 107, 251);
+  background-color: #fff;
   color: rgb(55, 107, 251);
   padding: 10px;
   border-radius: 3px;
@@ -70,10 +74,8 @@ a.cta {
   text-align: center;
 }
 
-
 a.cta:hover {
-  background-color: rgb(55, 107, 251);
-  color: #fff;
+  text-decoration: underline;
 }
 
 a.soon {

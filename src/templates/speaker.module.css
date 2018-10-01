@@ -3,12 +3,6 @@
     width: 90vw;
 }
 
-#speaker {
-    display:grid;
-    grid-template-columns: 1fr 4fr;
-    grid-gap: 20px;
-}
-
 h1.talk {
     margin:0;
     padding:0;
@@ -19,9 +13,19 @@ h1.name {
     margin:0;
     padding:0
 }
+
 @media only screen and (min-width: 768px) { 
     #container {
         width: 60vw;
         margin: 0 auto;
     }
+
+    #speaker {
+        display:flex;
+    }
+
+    #speaker>div {
+        padding: 10px;
+    }
+
   }

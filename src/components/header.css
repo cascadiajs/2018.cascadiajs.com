@@ -1,18 +1,22 @@
 header {
     padding: 10px;
-    background-color: rgb(55, 107, 251);
+    background-color: #275197;
+}
+
+nav {
+    text-align:center;
 }
 
 nav a {
     font-size: 3.3vmax;
-    font-family: 'Viga', sans-serif;
+    font-family: 'freight-sans-pro', sans-serif;
+    font-weight: 700;
     color: #fff;
     text-decoration: none;
 }
 
 nav a:hover {
-    background-color: rgb(55, 107, 251);
-    color: #fff;
+    text-decoration: underline;
 }
 
 #menu {
@@ -35,7 +39,7 @@ nav.show-false a {
     }
 
     nav a {
-        margin-right:3vmax;
+        margin-right:4vmax;
         font-size: 1.2em;
     }
 

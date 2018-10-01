@@ -1,6 +1,11 @@
 footer {
-    margin-top:30px;
     text-align:center;
+    background-color: #275197;
+    color: #fff;
+}
+
+footer a {
+    color: #fff;
 }
 
 footer ul {

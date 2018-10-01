@@ -18,10 +18,9 @@ class Header extends Component {
       <header>
         <nav id="menu" className={'show-' + this.state.toggled}>
           <button onClick={this.toggle}>{this.state.toggled ? 'Hide' : 'Show'} Menu</button>
-          <Link to="/">Nov 15-16</Link>
-          <Link to="/#tickets">Tickets</Link>
-          <Link to="/getting-to-seattle">Travel</Link>
+          <Link to="/">Home</Link>
           <Link to="/#speakers">Speakers</Link>
+          <Link to="/getting-to-seattle">Travel</Link>
           <Link to="/react-training">Training</Link>
           <Link to="/call-for-sponsors">Sponsor</Link>
           <Link to="/scholarships">Scholarships</Link>

@@ -1,8 +1,6 @@
 import React from 'react';
 import Link from 'gatsby-link';
-import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
 import 'pure-react-carousel/dist/react-carousel.es.css';
-import hero from '../images/cascadiajs-background.png';
 import MailChimpForm from '../components/mailChimpForm';
 import PropTypes from 'prop-types';
 import Organizers from '../components/organizers';
@@ -12,72 +10,86 @@ import './index.css';
 function IndexPage ({data}) {
   return (
     <div>
-      <img
-        id="hero"
-        alt="CascadiaJS 2018, November 15 & 16, Seattle, Washington"
-        src={hero}
-      />
-      <br />
       <div id="content">
-        <section id="tagline">
-          <p>CascadiaJS 2018 is a conference for web developers by web developers.</p>
+        <section id="hero">
+          <div><img className="tree" src="/tree.svg" alt="tree sticker"/></div>
+          <div><img className="sticker-dates" src="/nov15-16.svg" alt="Nov 15-16 sticker"/></div>
+          <div><img src="/logo.svg" alt="logo sticker"/></div>
+          <div><img className="sticker-location" src="/seattle.svg" alt="Seattle sticker"/></div>
+          <div><img className="tree" src="/tree.svg" alt="tree sticker"/></div>
         </section>
-        <section id="code-of-conduct">
-          <h2>Code of Conduct</h2>
-          <p>In order to provide a safe and inclusive environment we expect, and require, all organizers, sponsors, speakers, volunteers, and attendees of all levels to adhere to our <Link to="/code-of-conduct">Code of Conduct</Link>.
-          </p>
+        <section id="graphql">
+          <div><span className="dates">Nov 12-13</span></div>
+          <div id="graphql-title"><h2>GraphQL Training</h2></div>
+          <p id="graphql-desc">Eve Porcello and Alex Banks are organizing a 2-day GraphQL workshop in downtown Seattle. We have teamed up with them to offer a combo ticket to both their workshop and CascadiaJS!</p>
+          <div><a className="cta" href="https://ti.to/event-loop/cascadiajs-2018/with/d65c9visgmq ">Buy a Combo Ticket</a></div>
         </section>
-        <section id="venue">
-          <h2>Venue</h2>
-          <p>Amazon Meeting Center - 2031 7th Ave, Seattle, WA 98121</p>
-          <img src="/seattle-map.jpg" alt="map of Seattle and location of Amazon Meeting Center"/>
+        <section id="preconf">
+          <div><span className="dates">Nov 14</span></div>
+          <div id="train">
+            <h2>Hacker Train</h2>
+            <p>All aboard the Hacker Train! If you live in Portland, OR or Vancouver, BC there is no better way to get to CascadiaJS than to join your fellow devs on the Hacker Train.</p>
+          </div>
+          <div><a className="cta" href="/getting-to-seattle">Reserve Your Seat</a></div>
+          <div id="mixer">
+            <h2>Mentor Mixer</h2>
+            <p>We are organizing an evening event the day before the conference to bring together folks who are new to our industry and more senior folks who are interested in mentoring. More info coming soon!</p>
+          </div>
         </section>
-        <section id="tickets">
-          <h2>Tickets are on SALE</h2>
-          <p>
-            <a className="cta" href="https://ti.to/event-loop/cascadiajs-2018" title="Tickets On Sale!">Purchase Tickets</a>
-            <Link className="cta" to="/scholarships">Get a Scholarship</Link>
-          </p>
-        </section>
-        <section id="lodging">
-          <h2>Lodging</h2>
-          <div id="hotels">
+        <section id="conf">
+          <div><span className="dates">Nov 15-16</span></div>
+          <div id="talks">
             <div>
-              <h3>Moxy Seattle</h3>
-              <CarouselProvider naturalSlideWidth={100} naturalSlideHeight={50} totalSlides={4}>
-                <Slider>
-                  <Slide><img src="/moxy-exterior.jpg" alt="exterior of Moxy Seattle hotel"/></Slide>
-                  <Slide><img src="/moxy-guestroom.jpg" alt="guest room of Moxy Seattle hotel"/></Slide>
-                  <Slide><img src="/moxy-lobby.jpg" alt="lobby of Moxy Seattle hotel"/></Slide>
-                  <Slide><img src="/moxy-bar.jpg" alt="bar of Moxy Seattle hotel"/></Slide>
-                </Slider>
-                <ButtonBack>Back</ButtonBack>
-                <ButtonNext>Next</ButtonNext>
-              </CarouselProvider>
-              <p><a href="http://moxyseattle.com/">Moxy</a> is a boutique hotel with the social heart of a hostel. The WiFi is speedy and the cushy beds are freshly made, but more importantly, the bar is always open and the crew is always on. Just up Westlake Ave from the Amazon Meeting Center (0.6 miles).</p>
-              <ul>
-                <li><a className="cta" href="http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Cascadia%20JS%20Conference%20%5Eseaox%60CSCCSCB%7CCSCCSCC%60159.00%60USD%60false%602%6011/14/18%6011/17/18%6010/24/18&app=resvlink&stop_mobi=yes">Book for $159 / night</a></li>
-              </ul>
-            </div>
-            <div >
-              <h3>The Thompson</h3>
-              <CarouselProvider naturalSlideWidth={100} naturalSlideHeight={50} totalSlides={4}>
-                <Slider>
-                  <Slide><img src="/thompson-exterior.jpg" alt="exterior of The Thompson hotel"/></Slide>
-                  <Slide><img src="/thompson-room.jpg" alt="guest room of The Thompson hotel"/></Slide>
-                  <Slide><img src="/thompson-roof.jpg" alt="roof top of The Thompson hotel"/></Slide>
-                  <Slide><img src="/thompson-bar.jpg" alt="bar of The Thompson hotel"/></Slide>
-                </Slider>
-                <ButtonBack>Back</ButtonBack>
-                <ButtonNext>Next</ButtonNext>
-              </CarouselProvider>
-              <p><a href="https://www.thompsonhotels.com/hotels/washington/seattle/thompson-seattle">The Thompson</a> is a boutique hotel located next to the waterfront and reflects the intrinsic beauty of Seattle. Highlights include their signature restaurant, Scout PNW, and rooftop bar, The Nest. Southwest of the Amazon Meeting Center (0.5 miles).</p>
-              <ul>
-                <li><a className="cta" href="https://gc.synxis.com/rez.aspx?Hotel=67516&Chain=15564&Dest=TM&template=TH_RBE&shell=TH_RBE&locale=en-US&arrive=11/14/2018&depart=11/17/2018&adult=1&child=0&group=1811CASJS">Book for $199 / night</a></li>
-              </ul>
+              <h2>Two Days of Talks</h2>
+              <p>CascadiaJS features a single track of 24 amazing speakers discussing the cutting-edge of JavaScript, web development and engineering culture over the course of 2 days. Topics include: Serverless, Distributed Web, React, Web Assembly, Accessiblity, Voice Interfaces and more!</p>
+              <img src="/coffee.svg" alt="tree sticker"/>
             </div>
           </div>
-          <p>The deadline to book has been extended to <strong>OCTOBER 5</strong>.</p>
+          <div id="theconference">
+            <div id="tickets">
+              <p><img src="/the-conference.svg" alt="the conference sticker"/></p>
+              <p><a className="primary cta" href="https://ti.to/event-loop/cascadiajs-2018" title="Tickets On Sale!">Purchase Tickets</a></p>
+            </div>
+            <div id="scholarships">
+              <div>
+                <h2>Scholarships</h2>
+                <p>In order to make CascadiaJS as accessible as possible, we are working with local tech companies to fund a <a href="/scholarships">Scholarship Program</a> If you are a member of an under-represented group in tech or have financial constraints, please apply!</p>
+                <p><img src="/banana-slug.svg" alt="logo sticker"/></p>
+              </div>
+              <div>
+                <h2>Code of Conduct</h2>
+                <p>We work hard to provide a safe and inclusive environment for everyone! We expect, and require, all organizers, sponsors, speakers, volunteers, and attendees of all levels to adhere to our <Link to="/code-of-conduct">Code of Conduct</Link></p>
+                <p><img src="/mushroom.svg" alt="Seattle sticker"/></p>
+              </div>
+            </div>
+          </div>
+          <div id="closing">
+            <div>
+              <h2>Social Fun Times</h2>
+              <p>Following both days of talks, we will be organizing awesome evening events for folks to unwind and enjoy the company of new friends. The Opening Party has not been announced, but we are excited to share that we&apos;ve rented out the <a href="https://livingcomputers.org/">Living Computer Museum</a> for what is going to be an epic Closing Party! </p>
+              <p><img src="/old-fashioned.svg" alt="tree sticker"/></p>
+            </div>
+          </div>
+        </section>
+        <section id="postconf">
+          <div><span className="dates">Nov 17</span></div>
+          <div id="training">
+            <h2>React Training</h2>
+            <p>We are partnering with Formidable will hold a full-day React training workshop following the conference.</p>
+          </div>
+          <div><a className="cta" href="/react-training">Learn More</a></div>
+          <div id="kids">
+            <h2>Kid&apos;s Coding Workshops</h2>
+            <p>Interested in getting your kids as excited about programming as your are? Join us for a day full of coding workshops targeted at all age ranges (K-12). More info coming soon!</p>
+          </div>
+        </section>
+        <section id="code-of-conduct">
+          <h2>Venue</h2>
+          <p>
+            Amazon Meeting Center<br/>
+            2031 7th Ave<br/>
+            Seattle, WA 98121
+          </p>
         </section>
         <section id="speakers">
           <h2>Speakers</h2>
@@ -109,7 +121,6 @@ function IndexPage ({data}) {
           </section>
         </section>
         <section id="contact">
-          <h2>Keep in Touch</h2>
           <MailChimpForm />
         </section>
       </div>

@@ -34,6 +34,10 @@ const Layout = ({ children, data }) => {
           {
             href: 'https://fonts.googleapis.com/css?family=Lato:300,400|Viga|Dosis',
             rel: 'stylesheet'
+          },
+          {
+            href: 'https://use.typekit.net/jey6pwy.css',
+            rel: 'stylesheet'
           }
         ]}
       />
