@@ -129,7 +129,12 @@ a.primary {
         grid-template-columns: 1fr 1fr;
         grid-gap: 10px;
     }
-
+    
+    #sponsorships img {
+        height: 100%;
+        width: 100%;
+    }
+    
     #platinum {
         display: grid;
         grid-template-columns: 1fr;
@@ -141,7 +146,7 @@ a.primary {
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-gap: 20px;
-        grid-template-rows: 10vw;
+        grid-template-rows: 15vw;
     }
 
     #silver {

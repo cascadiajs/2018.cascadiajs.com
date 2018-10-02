@@ -106,7 +106,7 @@ function IndexPage ({data}) {
           </section>
           <section id="gold">
             <div><a href="https://formidable.com/"><img src="/formidable.png" alt="Formidable logo"/></a></div>
-            <div><Link className="cta" to="/call-for-sponsors">Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
+            <div><a href="https://fizbuz.com/"><img src="/fizbuz.svg" alt="Fizbuz logo"/></a></div>
           </section>
           <section id="silver">
             <div><a href="https://egghead.io/"><img src="/egghead-logo.png" alt="Egghead logo"/></a></div>
