@@ -24,9 +24,14 @@ FUN!
 
 ## Registration
 
-There are 3 kinds of tickets: parent tickets, non-student kid tickets and tickets for each of the workshops. Please make sure that everyone who is coming to the event has a ticket. All kids must have an adult with them. No drop-offs. One adult can be the guardian for multiple kids.
+There are 4 kinds of tickets. Please make sure that everyone who is coming to the event has a ticket.
 
-<a href="https://ti.to/event-loop/cascadiajs-2018/"  class="cta">RSVP</a>
+* Volunteer - If you'd like to volunteer to set-up, run a workshop, assist an instructor or otherwise help out.
+* Parent - All kids must have an adult with them. No drop-offs. One adult can be the guardian for multiple kids.
+* Non-student kid - Brothers and sisters who will not be participating, but are being brought along to hang out.
+* Workshop - Spaces are limited, so please only sign-up for one workshop per kid.
+
+<a href="https://ti.to/event-loop/cascadiajs-2018/"  class="cta">Register</a>
 
 We are in the process of finalizing the list of workshops, but here are a few examples of what we're going to offer. 
 
