@@ -15,9 +15,15 @@
     padding: 20px;
 }
 
-#preconf, #train, #kids {
+#preconf, #train, #kids, #kids-cta {
     background-color: #275197;
     color: #fff;
+}
+
+.center-parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .dates {
@@ -88,8 +94,13 @@ a.primary {
 
     #graphql, #preconf, #postconf {
         display: flex;
-        align-items: center;
-        justify-content: flex-start;
+        /* align-items: center; */
+        align-items: stretch; /*  align items in Cross Axis */
+        align-content: stretch; /* Extra space in Cross Axis */
+    }
+
+    #kids-cta {
+        
     }
 
     #conf {

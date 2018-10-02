@@ -19,18 +19,18 @@ function IndexPage ({data}) {
           <div><img className="tree" src="/tree.svg" alt="tree sticker"/></div>
         </section>
         <section id="graphql">
-          <div><span className="dates">Nov 12-13</span></div>
+          <div className="center-parent"><div className="dates">Nov 12-13</div></div>
           <div id="graphql-title"><h2>GraphQL Training</h2></div>
           <p id="graphql-desc">Eve Porcello and Alex Banks are organizing a 2-day GraphQL workshop in downtown Seattle. We have teamed up with them to offer a combo ticket to both their workshop and CascadiaJS!</p>
-          <div><a className="cta" href="https://ti.to/event-loop/cascadiajs-2018/with/d65c9visgmq ">Buy a Combo Ticket</a></div>
+          <div className="center-parent"><div><a className="cta" href="https://ti.to/event-loop/cascadiajs-2018/with/d65c9visgmq ">Buy a Combo Ticket</a></div></div>
         </section>
         <section id="preconf">
-          <div><span className="dates">Nov 14</span></div>
+          <div className="center-parent"><div className="dates">Nov 14</div></div>
           <div id="train">
             <h2>Hacker Train</h2>
             <p>All aboard the Hacker Train! If you live in Portland, OR or Vancouver, BC there is no better way to get to CascadiaJS than to join your fellow devs on the Hacker Train.</p>
           </div>
-          <div><a className="cta" href="/getting-to-seattle">Reserve Your Seat</a></div>
+          <div className="center-parent"><div><a className="cta" href="/getting-to-seattle">Reserve Your Seat</a></div></div>
           <div id="mixer">
             <h2>Mentor Mixer</h2>
             <p>We are organizing an evening event the day before the conference to bring together folks who are new to our industry and more senior folks who are interested in mentoring. More info coming soon!</p>
@@ -72,17 +72,17 @@ function IndexPage ({data}) {
           </div>
         </section>
         <section id="postconf">
-          <div><span className="dates">Nov 17</span></div>
+          <div className="center-parent"><div className="dates">Nov 17</div></div>
           <div id="training">
             <h2>React Training</h2>
             <p>We are partnering with Formidable will hold a full-day React training workshop following the conference.</p>
           </div>
-          <div><a className="cta" href="/react-training">Learn More</a></div>
+          <div className="center-parent"><div><a className="cta" href="/react-training">Learn More</a></div></div>
           <div id="kids">
             <h2>Kid&apos;s Coding Workshops</h2>
             <p>Interested in getting your kids as excited about programming as your are? Join us for a day full of coding workshops targeted at all age ranges (K-12).</p>
           </div>
-          <div id="kids-cta"><a className="cta" href="/coding-for-kids">Register</a></div>
+          <div id="kids-cta" className="center-parent"><div><a className="cta" href="/coding-for-kids">Register</a></div></div>
         </section>
         <section id="code-of-conduct">
           <h2>Venue</h2>
