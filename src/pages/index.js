@@ -80,8 +80,9 @@ function IndexPage ({data}) {
           <div><a className="cta" href="/react-training">Learn More</a></div>
           <div id="kids">
             <h2>Kid&apos;s Coding Workshops</h2>
-            <p>Interested in getting your kids as excited about programming as your are? Join us for a day full of coding workshops targeted at all age ranges (K-12). More info coming soon!</p>
+            <p>Interested in getting your kids as excited about programming as your are? Join us for a day full of coding workshops targeted at all age ranges (K-12).</p>
           </div>
+          <div id="kids-cta"><a className="cta" href="/coding-for-kids">Register</a></div>
         </section>
         <section id="code-of-conduct">
           <h2>Venue</h2>

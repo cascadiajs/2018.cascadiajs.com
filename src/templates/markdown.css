@@ -3,7 +3,13 @@
     width: 90vw;
 }
 
+td:first-child {
+    font-weight: bold;
+}
 
+td {
+    padding: 10px 10px 10px 0;
+}
 
 @media only screen and (min-width: 768px) { 
     .markdown-container {
