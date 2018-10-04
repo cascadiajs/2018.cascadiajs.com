@@ -16,6 +16,13 @@ module.exports = {
       }
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/static/stickers/`,
+        name: 'stickers'
+      }
+    },
+    {
       resolve: `gatsby-plugin-favicon`,
       options: {
         logo: './src/images/logo.jpg',

@@ -51,6 +51,10 @@ We are in the process of finalizing the list of workshops, but here are a few ex
 
 **Age range:** Recommended for grades 2-5.
 
-## Sponsors
+## Event Sponsors
 
 [![microsoft reactor](/reactor-seaplane.png)](https://developer.microsoft.com/en-us/reactor/)
+
+## Sticker Sponsors
+
+![2018-wombat](/stickers/2018-wombat.png) ![a-blue](/stickers/a-blue.png) ![ada-lovelace](/stickers/ada-lovelace.png) ![al-davis-snu](/stickers/al-davis-snu.png) 

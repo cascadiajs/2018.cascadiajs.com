@@ -18,10 +18,20 @@ function IndexPage ({data}) {
           <div><img className="sticker-location" src="/seattle.svg" alt="Seattle sticker"/></div>
           <div><img className="tree" src="/tree.svg" alt="tree sticker"/></div>
         </section>
+        <section id="happyhour">
+          <div className="center-parent"><div className="dates">Oct 9</div></div>
+          <div>
+            <h2>Cascadian Developer Happy Hour</h2>
+            <p>CascadiaJS and PuPPy are teaming up to host a happy hour for developers to celebrate Seattle Startup Week! This is an inclusive and friendly networking event for ALL developers.</p>
+          </div>
+          <div className="center-parent"><div><a className="cta" href="https://techstarsstartupweekseattle2018.sched.com/event/Gott">RSVP</a></div></div>
+        </section>
         <section id="graphql">
           <div className="center-parent"><div className="dates">Nov 12-13</div></div>
-          <div id="graphql-title"><h2>GraphQL Training</h2></div>
-          <p id="graphql-desc">Eve Porcello and Alex Banks are organizing a 2-day GraphQL workshop in downtown Seattle. We have teamed up with them to offer a combo ticket to both their workshop and CascadiaJS!</p>
+          <div>
+            <h2>GraphQL Training</h2>
+            <p>Eve Porcello and Alex Banks are organizing a 2-day <a href="https://ti.to/moonhighway/graphql-seattle/">GraphQL workshop</a> in downtown Seattle. We have teamed up with them to offer a combo ticket to both their workshop and CascadiaJS!</p>
+          </div>
           <div className="center-parent"><div><a className="cta" href="https://ti.to/event-loop/cascadiajs-2018/with/d65c9visgmq ">Buy a Combo Ticket</a></div></div>
         </section>
         <section id="preconf">

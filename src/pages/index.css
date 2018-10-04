@@ -6,9 +6,8 @@
     text-align: center;
 }
 
-#graphql-title, #graphql-desc, #train, #mixer, #talks, #tickets, #scholarships, #closing, #training, #kids {
-    padding-left:20px;
-    padding-right:20px;
+section h2, section p, section .cta {
+    margin: 0px 20px 5px 20px;
 }
 
 #code-of-conduct, #venue, #lodging, #speakers, #organizers, #sponsors, #contact {
@@ -41,10 +40,6 @@
 #mixer, #mixer-cta {
     background-color: #fff;
     color: #565354;   
-}
-
-#graphql .cta, #preconf .cta, #postconf .cta {
-    margin-left: 25px;
 }
 
 #train .cta, #kids .cta {
@@ -92,7 +87,7 @@ a.primary {
         grid-template-rows: 20vw;
     }
 
-    #graphql, #preconf, #postconf {
+    #happyhour, #graphql, #preconf, #postconf {
         display: flex;
         /* align-items: center; */
         align-items: stretch; /*  align items in Cross Axis */
