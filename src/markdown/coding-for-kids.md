@@ -10,7 +10,7 @@ Following the conference, we are working with Microsoft to host a Coding for Kid
 | Date  | Saturday, Nov 17  |
 | Time | 9am - 4pm |
 | Ages  | K - 12  |
-| Cost  | Suggested donation of $5, with all proceeds going to the [Tech Access Foundation](https://techaccess.org/about-us/). |
+| Cost  | Suggested donation of $5, with all proceeds going to the [Tech Access Foundation](https://techaccess.org/about-us/).  |
 | Location | Microsoft Reactor Seattle, 320 Westlake Ave N, Seattle, WA 98109 |
 | Parking  | More info coming soon. |
 | Food  | Coffee and Lunch will be provided, courtesy of Microsoft. |
@@ -50,6 +50,16 @@ We are in the process of finalizing the list of workshops, but here are a few ex
 **Description:** Scratch is a programming tool for kids, created by MIT. It lets kids create programs by fitting together blocks on screen. This is a consistently popular room.
 
 **Age range:** Recommended for grades 2-5.
+
+## Workshop: Making Art in the Browser
+
+![p5js](/p5js.png)
+
+**Description:** Using code to make cool stuff: A fun introduction! P5.js (https://p5js.org/) is a JavaScript library used by artists and designers to make art, visual designs, animations and more. In this workshop you will learn to program interactive shapes and patterns, right in the browser! Make your own experimental creations that you can share with your friends online. 
+
+**Age range:** Recommended for middle school and up. No prior experience with software required.
+
+**Required Equipment:** A laptop that can connect to Wi-Fi.
 
 ## Event Sponsors
 

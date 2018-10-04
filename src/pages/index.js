@@ -76,7 +76,7 @@ function IndexPage ({data}) {
           <div id="closing">
             <div>
               <h2>Social Fun Times</h2>
-              <p>Following both days of talks, we will be organizing awesome evening events for folks to unwind and enjoy the company of new friends. The Opening Party has not been announced, but we are excited to share that we&apos;ve rented out the <a href="https://livingcomputers.org/">Living Computer Museum</a> for what is going to be an epic Closing Party! </p>
+              <p>Following both days of talks, we will be organizing awesome evening events for folks to unwind and enjoy the company of new friends. We are renting out <a href="https://cinerama.com/">Cinerama</a> for a private screening and the Closing Party will be held at the <a href="https://livingcomputers.org/">Living Computer Museum</a> for a night of fun and hacking!</p>
               <p><img src="/old-fashioned.svg" alt="tree sticker"/></p>
             </div>
           </div>
