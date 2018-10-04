@@ -10,7 +10,7 @@ Following the conference, we are working with Microsoft to host a Coding for Kid
 | Date  | Saturday, Nov 17  |
 | Time | 9am - 4pm |
 | Ages  | K - 12  |
-| Cost  | $5 per kid, with all proceeds going to the [Tech Access Foundation](https://techaccess.org/about-us/). Scholarships are available, please email scholarships@cascadiajs.com to request one!  |
+| Cost  | Suggested donation of $5, with all proceeds going to the [Tech Access Foundation](https://techaccess.org/about-us/). |
 | Location | Microsoft Reactor Seattle, 320 Westlake Ave N, Seattle, WA 98109 |
 | Parking  | More info coming soon. |
 | Food  | Coffee and Lunch will be provided, courtesy of Microsoft. |
