@@ -4,50 +4,31 @@
 
 #hero {
     text-align: center;
+    margin-bottom:30px;
+}
+
+#hero img, #conf img, #postconf img {
+    height: 200px;
 }
 
 section h2, section p, section .cta {
-    margin: 0px 20px 5px 20px;
+    /*margin: 0px 20px 5px 20px;*/
 }
 
-#code-of-conduct, #venue, #lodging, #speakers, #organizers, #sponsors, #contact {
-    padding: 20px;
+section {
+    padding: 20px 30px;
 }
 
-#preconf, #train, #kids, #kids-cta {
-    background-color: #275197;
-    color: #fff;
+#preconf>div, #postconf>div {
+    padding-right: 30px;
 }
-
-.center-parent {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
 .dates {
-    display:inline-block;
-    padding: 5px;
-    width: 100px;
-    border: 1px solid #000;
-    border-radius: 1px;
-    background-color: #fff;
-    text-align:center;
-    color: #000;
-    font-weight: 700;
+    color: #275197;
+    font-family: freight-sans-pro;
+    font-size: 2.5vh;
 }
 
-#mixer, #mixer-cta {
-    background-color: #fff;
-    color: #565354;   
-}
-
-#train .cta, #kids .cta {
-    background-color: #fff;
-    border: 1px solid #fff;
-}
-
-#graphql, #conf, #code-of-conduct, #organizers, #contact {
+#conf, #code-of-conduct, #organizers, #contact {
     background-color: #ccc;
 }
 
@@ -63,15 +44,12 @@ a.primary {
 }
 
 @media only screen and (min-width: 768px) { 
+
     #content {
-        width: 98%;
+        /*width: 95%;*/
     }
 
-    section div {
-        padding: 5px 5px 5px 20px;
-    }
-
-    #hero img {
+    #hero img, #conf img, #postconf img {
         height: 100%;
         width: 100%;
     }
@@ -87,24 +65,19 @@ a.primary {
         grid-template-rows: 20vw;
     }
 
-    #happyhour, #graphql, #preconf, #postconf {
+    #preconf, #postconf {
         display: flex;
-        /* align-items: center; */
-        align-items: stretch; /*  align items in Cross Axis */
-        align-content: stretch; /* Extra space in Cross Axis */
-    }
-
-    #kids-cta {
-        
     }
 
     #conf {
         display: flex;
         align-items: center;
         justify-content: flex-start;
-        /*grid-template-columns: 100px 1fr 2fr 1fr;
-        grid-gap: 20px;
-        padding: 20px;   */
+        padding-left: 30px;
+    }
+
+    #conf>div {
+        padding-right: 30px;
     }
 
     #conf img {

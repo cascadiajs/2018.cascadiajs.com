@@ -1,5 +1,5 @@
 html {
-  height: 100%;
+  /*height: 100%;*/
 }
 
 body {
@@ -38,8 +38,8 @@ h4 {
 }
 
 #container {
-  display: grid;
-  grid-template-rows: auto auto auto;
+/*  display: grid;
+  grid-template-rows: auto auto auto;*/
 }
 
 img {
@@ -59,17 +59,18 @@ a:hover {
 iframe#typeform-full{ position: absolute; left:0; right:0; bottom:0; top:4.5em; border:0; }
 
 a.cta {
+  font-family: freight-sans-pro;
   font-size: 16px;
-  font-weight: 700;
+  font-weight: 600;
   border: 1px solid rgb(55, 107, 251);
   background-color: #fff;
-  color: rgb(55, 107, 251);
+  color: #275197;
   padding: 10px;
-  border-radius: 3px;
+  border-radius: 5px;
   text-decoration: none;
   margin-right:10px;
   display: inline-block;
-  width: 175px;
+  width: 155px;
   margin-bottom: 10px;
   text-align: center;
 }

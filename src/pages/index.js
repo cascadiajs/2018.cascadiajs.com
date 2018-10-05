@@ -18,36 +18,32 @@ function IndexPage ({data}) {
           <div><img className="sticker-location" src="/seattle.svg" alt="Seattle sticker"/></div>
           <div><img className="tree" src="/tree.svg" alt="tree sticker"/></div>
         </section>
-        <section id="happyhour">
-          <div className="center-parent"><div className="dates">Oct 9</div></div>
-          <div>
-            <h2>Cascadian Developer Happy Hour</h2>
-            <p>CascadiaJS and PuPPy are teaming up to host a happy hour for developers to celebrate Seattle Startup Week! This is an inclusive and friendly networking event for ALL developers.</p>
-          </div>
-          <div className="center-parent"><div><a className="cta" href="https://techstarsstartupweekseattle2018.sched.com/event/Gott">RSVP</a></div></div>
-        </section>
-        <section id="graphql">
-          <div className="center-parent"><div className="dates">Nov 12-13</div></div>
-          <div>
-            <h2>GraphQL Training</h2>
-            <p>Eve Porcello and Alex Banks are organizing a 2-day <a href="https://ti.to/moonhighway/graphql-seattle/">GraphQL workshop</a> in downtown Seattle. We have teamed up with them to offer a combo ticket to both their workshop and CascadiaJS!</p>
-          </div>
-          <div className="center-parent"><div><a className="cta" href="https://ti.to/event-loop/cascadiajs-2018/with/d65c9visgmq ">Buy a Combo Ticket</a></div></div>
-        </section>
         <section id="preconf">
-          <div className="center-parent"><div className="dates">Nov 14</div></div>
-          <div id="train">
-            <h2>Hacker Train</h2>
-            <p>All aboard the Hacker Train! If you live in Portland, OR or Vancouver, BC there is no better way to get to CascadiaJS than to join your fellow devs on the Hacker Train.</p>
+          <div id="happyhour">
+            <div className="dates">October 9</div>
+            <h3>Cascadian Happy Hour</h3>
+            <p>CascadiaJS and PuPPy are teaming up to host a happy hour for developers to celebrate Seattle Startup Week! This is an inclusive and friendly networking event for ALL developers.</p>
+            <p><a className="cta" href="https://techstarsstartupweekseattle2018.sched.com/event/Gott">RSVP</a></p>
           </div>
-          <div className="center-parent"><div><a className="cta" href="/getting-to-seattle">Reserve Your Seat</a></div></div>
+          <div id="graphql">
+            <div className="dates">November 12-13</div>
+            <h3>GraphQL Training</h3>
+            <p>Eve Porcello and Alex Banks are organizing a 2-day <a href="https://ti.to/moonhighway/graphql-seattle/">GraphQL workshop</a> in downtown Seattle. We have teamed up with them to offer a combo ticket to both their workshop and CascadiaJS!</p>
+            <p><a className="cta" href="https://ti.to/event-loop/cascadiajs-2018/with/d65c9visgmq ">Buy a Combo Ticket</a></p>
+          </div>
+          <div id="train">
+            <div className="dates">November 14</div>
+            <h3>Hacker Train</h3>
+            <p>All aboard the Hacker Train! If you live in Portland, OR or Vancouver, BC there is no better way to get to CascadiaJS than to join your fellow devs on the Hacker Train.</p>
+            <p><a className="cta" href="/getting-to-seattle">Reserve Your Seat</a></p>
+          </div>
           <div id="mixer">
-            <h2>Mentor Mixer</h2>
+            <div className="dates">November 14</div>
+            <h3>Mentor Mixer</h3>
             <p>We are organizing an evening event the day before the conference to bring together folks who are new to our industry and more senior folks who are interested in mentoring. More info coming soon!</p>
           </div>
         </section>
         <section id="conf">
-          <div><span className="dates">Nov 15-16</span></div>
           <div id="talks">
             <div>
               <h2>Two Days of Talks</h2>
@@ -82,17 +78,24 @@ function IndexPage ({data}) {
           </div>
         </section>
         <section id="postconf">
-          <div className="center-parent"><div className="dates">Nov 17</div></div>
+          <div>
+            <img src="/react.svg" alt="React logo"/>
+          </div>
           <div id="training">
-            <h2>React Training</h2>
+            <div className="dates">November 17</div>
+            <h3>React Training</h3>
             <p>We are partnering with Formidable will hold a full-day React training workshop following the conference.</p>
+            <p><a className="cta" href="/react-training">Learn More</a></p>
           </div>
-          <div className="center-parent"><div><a className="cta" href="/react-training">Learn More</a></div></div>
+          <div>
+            <img src="/catherine-shadow.svg" alt="sticker of kid coder"/>
+          </div>
           <div id="kids">
-            <h2>Kid&apos;s Coding Workshops</h2>
+            <div className="dates">November 17</div>
+            <h3>Kid&apos;s Coding Workshops</h3>
             <p>Interested in getting your kids as excited about programming as your are? Join us for a day full of coding workshops targeted at all age ranges (K-12).</p>
+            <p><a className="cta" href="/coding-for-kids">Register</a></p>
           </div>
-          <div id="kids-cta" className="center-parent"><div><a className="cta" href="/coding-for-kids">Register</a></div></div>
         </section>
         <section id="code-of-conduct">
           <h2>Venue</h2>

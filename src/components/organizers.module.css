@@ -6,10 +6,6 @@
 
 @media only screen and (min-width: 768px) { 
     #organizers {
-        width: 100vw;
-        /*margin: 0 auto;*/
-        /*display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr;*/
         display: flex;
         flex-wrap: wrap;
     }
