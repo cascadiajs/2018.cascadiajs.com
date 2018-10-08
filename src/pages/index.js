@@ -46,34 +46,33 @@ function IndexPage ({data}) {
         <section id="conf">
           <div id="talks">
             <div>
-              <h2>Two Days of Talks</h2>
-              <p>CascadiaJS features a single track of 24 amazing speakers discussing the cutting-edge of JavaScript, web development and engineering culture over the course of 2 days. Topics include: Serverless, Distributed Web, React, Web Assembly, Accessiblity, Voice Interfaces and more!</p>
-              <img src="/coffee.svg" alt="tree sticker"/>
+              <img src="/coffee.svg" alt="coffee sticker"/>
             </div>
-          </div>
-          <div id="theconference">
             <div id="tickets">
               <p><img src="/the-conference.svg" alt="the conference sticker"/></p>
+              <h2>Two Days of Talks</h2>
+              <p>CascadiaJS features a single track of 24 amazing speakers discussing the cutting-edge of JavaScript, web development and engineering culture over the course of 2 days. Topics include: Serverless, Distributed Web, React, Web Assembly, Accessiblity, Voice Interfaces and more!</p>
               <p><a className="primary cta" href="https://ti.to/event-loop/cascadiajs-2018" title="Tickets On Sale!">Purchase Tickets</a></p>
             </div>
-            <div id="scholarships">
-              <div>
-                <h2>Scholarships</h2>
-                <p>In order to make CascadiaJS as accessible as possible, we are working with local tech companies to fund a <a href="/scholarships">Scholarship Program</a> If you are a member of an under-represented group in tech or have financial constraints, please apply!</p>
-                <p><img src="/banana-slug.svg" alt="logo sticker"/></p>
-              </div>
-              <div>
-                <h2>Code of Conduct</h2>
-                <p>We work hard to provide a safe and inclusive environment for everyone! We expect, and require, all organizers, sponsors, speakers, volunteers, and attendees of all levels to adhere to our <Link to="/code-of-conduct">Code of Conduct</Link></p>
-                <p><img src="/mushroom.svg" alt="Seattle sticker"/></p>
-              </div>
+            <div>
+              <img src="/mushroom.svg" alt="mushroom sticker"/>
             </div>
           </div>
-          <div id="closing">
-            <div>
-              <h2>Social Fun Times</h2>
+          <div id="extras">
+            <div id="closing">
+              <h3>Social Fun Times</h3>
               <p>Following both days of talks, we will be organizing awesome evening events for folks to unwind and enjoy the company of new friends. We are renting out <a href="https://cinerama.com/">Cinerama</a> for a private screening and the Closing Party will be held at the <a href="https://livingcomputers.org/">Living Computer Museum</a> for a night of fun and hacking!</p>
-              <p><img src="/old-fashioned.svg" alt="tree sticker"/></p>
+              <p><img src="/old-fashioned.svg" alt="old fashioned cocktail sticker"/></p>
+            </div>
+            <div id="scholarships">
+              <h3>Scholarships</h3>
+              <p>In order to make CascadiaJS as accessible as possible, we are working with local tech companies to fund a <a href="/scholarships">Scholarship Program</a> If you are a member of an under-represented group in tech or have financial constraints, please apply!</p>
+              <p><img src="/banana-slug.svg" alt="banana slug sticker"/></p>
+            </div>
+            <div>
+              <h3>Code of Conduct</h3>
+              <p>We work hard to provide a safe and inclusive environment for everyone! We expect, and require, all organizers, sponsors, speakers, volunteers, and attendees of all levels to adhere to our <Link to="/code-of-conduct">Code of Conduct</Link></p>
+              <p><img src="/flower.svg" alt="flower sticker"/></p>
             </div>
           </div>
         </section>
@@ -119,19 +118,23 @@ function IndexPage ({data}) {
             <div><a href="https://developer.amazon.com/"><img src="/amazon-logo.jpg" alt="Amazon logo"/></a></div>
           </section>
           <section id="gold">
-            <div><a href="https://formidable.com/"><img src="/formidable.png" alt="Formidable logo"/></a></div>
-            <div><a href="https://fizbuz.com/"><img src="/fizbuz.svg" alt="Fizbuz logo"/></a></div>
+            <div><a href="https://developer.amazon.com/"><img src="/logos/aws.svg" alt="AWS logo"/></a></div>
+            <div><Link className="sponsorBtn cta" to="/call-for-sponsors">Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
           </section>
           <section id="silver">
-            <div><a href="https://egghead.io/"><img src="/egghead-logo.png" alt="Egghead logo"/></a></div>
-            <div><a href="https://mozilla.com/"><img src="/mozilla-logo.png" alt="Mozilla logo"/></a></div>
+            <div><a href="https://formidable.com/"><img src="/formidable.png" alt="Formidable logo"/></a></div>
+            <div><a href="https://fizbuz.com/"><img src="/fizbuz.svg" alt="Fizbuz logo"/></a></div>
+            <div><a href="https://www.slalom.com/"><img src="/slalom-logo.png" alt="Slalom logo"/></a></div>
             <div><a href="https://developer.microsoft.com/en-us/advocates/index.html"><img src="/azure.png" alt="Azure logo"/></a></div>
+            <div><Link className="sponsorBtn cta" to="/call-for-sponsors">Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
+            <div><Link className="sponsorBtn cta" to="/call-for-sponsors">Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
           </section>
           <section id="community">
-            <div><a href="https://www.slalom.com/"><img src="/slalom-logo.png" alt="Slalom logo"/></a></div>
+            <div><a href="https://egghead.io/"><img src="/egghead-logo.png" alt="Egghead logo"/></a></div>
+            <div><a href="https://mozilla.com/"><img src="/mozilla-logo.png" alt="Mozilla logo"/></a></div>
             <div><a href="https://www.dayback.com/"><img src="/dayback-logo.png" alt="Dayback logo"/></a></div>
-            <div><Link className="cta" to="/call-for-sponsors">Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
-            <div><Link className="cta" to="/call-for-sponsors">Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
+            <div><Link className="sponsorBtn cta" to="/call-for-sponsors">Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
+            <div><Link className="sponsorBtn cta" to="/call-for-sponsors">Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
           </section>
         </section>
         <section id="contact">

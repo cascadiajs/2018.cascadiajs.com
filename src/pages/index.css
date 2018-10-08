@@ -1,4 +1,4 @@
-.tree, .sticker-location, .sticker-dates, #tickets img {
+.tree, .sticker-location, .sticker-dates, #tickets img, a.sponsorBtn {
     display: none;
 }
 
@@ -29,7 +29,7 @@ section {
 }
 
 #conf, #code-of-conduct, #organizers, #contact {
-    background-color: #ccc;
+    background-color: #eee;
 }
 
 a.primary {
@@ -45,16 +45,12 @@ a.primary {
 
 @media only screen and (min-width: 768px) { 
 
-    #content {
-        /*width: 95%;*/
-    }
-
     #hero img, #conf img, #postconf img {
         height: 100%;
         width: 100%;
     }
 
-    .tree, .location, .sticker-dates, .sticker-location, #tickets img {
+    .tree, .location, .sticker-dates, .sticker-location, #tickets img, a.sponsorBtn {
         display: inline;
     }
 
@@ -65,38 +61,39 @@ a.primary {
         grid-template-rows: 20vw;
     }
 
-    #preconf, #postconf {
+    #preconf, #talks, #extras, #postconf {
         display: flex;
+    }
+
+    #preconf, #conf, #postconf {
+        font-size: 1.6vh;
     }
 
     #conf {
-        display: flex;
-        align-items: center;
-        justify-content: flex-start;
-        padding-left: 30px;
-    }
-
-    #conf>div {
-        padding-right: 30px;
-    }
-
-    #conf img {
-        width: 20vw;
-    }
-
-    #theconference {
-        display: grid;
-        grid-template-columns: 1fr;    
-    }
-
-    #tickets {
         text-align: center;
     }
 
-    #scholarships {
-        display: grid;
-        grid-template-columns: 1fr 1fr;   
-        grid-gap: 20px; 
+    #talks img {
+        height: 200px;
+    }
+
+    #talks {
+        font-size: 120%;
+    }
+
+    #extras img {
+        height: 150px;
+    }
+
+    #conf div {
+        align-self: center;
+        justify-self: center;
+        padding: 10px;
+    }
+
+    #tickets {
+        flex:initial;
+        width: 75%;
     }
 
     #cta div {
@@ -109,42 +106,40 @@ a.primary {
         grid-gap: 10px;
     }
     
-    #sponsorships img {
-        height: 100%;
-        width: 100%;
-    }
-
-    #platinum {
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-gap: 0px;
-        grid-template-rows: 25vw;
-    }
-
-    #gold {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-gap: 20px;
-        grid-template-rows: 15vw;
-    }
-
-    #silver {
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
-        grid-gap: 15px;
-        grid-template-rows: 9vw;
-    }
-
-    #community {
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr;
-        grid-gap: 10px;
-        grid-template-rows: 8vw;
-    }
-
-    #platinum div, #gold div, #silver div, #community div {
+    #sponsors div {
+        text-align: center;
         align-self: center;
         justify-self: center;
+    }
+
+    #sponsors img {
+        max-height: 100%;
+        max-width: 100%;
+    }
+
+    #platinum img {
+        height: 350px;
+    }
+
+    #gold, #silver, #community {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #gold div {
+        flex: 1 1 50%;
+    }
+
+    #gold img {
+        height: 200px;
+    }
+
+    #silver div {
+        flex: 1 1 33%;
+    }
+
+    #community div {
+        flex: 1 1 20%;
     }
 
     .placeholder {

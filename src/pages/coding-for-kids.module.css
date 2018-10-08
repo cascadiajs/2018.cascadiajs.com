@@ -1,7 +1,28 @@
-#kids { }
+#hero { 
+    height: 300px;
+    display: block;
+}
+
+table th {
+    text-align: left;
+    padding-right: 20px;
+}
+
+#schedule>div {
+    display: flex;
+}
+
+#schedule div {
+    padding: 5px;
+}
+
+.time {
+    margin-right: 10px;
+}
 
 @media only screen and (min-width: 768px) { 
     #kids {
-        
+        width: 80vw;
+        margin: 0 auto;
     }
 }

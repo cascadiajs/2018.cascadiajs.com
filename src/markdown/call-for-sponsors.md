@@ -57,7 +57,7 @@ If you'd like to support our event or have any questions, please email carter@ca
 
 * Logo on website
 * Logo on conference banners
-* 1 complimentary ticket
+* 2 complimentary tickets
 * 2 job postings
 
 ### Opening Party on Thursday ($5k, 2 available)
