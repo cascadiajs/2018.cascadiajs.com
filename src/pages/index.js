@@ -46,7 +46,7 @@ function IndexPage ({data}) {
         <section id="conf">
           <div id="talks">
             <div>
-              <img src="/coffee.svg" alt="coffee sticker"/>
+              <img id="coffee" src="/coffee.svg" alt="coffee sticker"/>
             </div>
             <div id="tickets">
               <p><img src="/the-conference.svg" alt="the conference sticker"/></p>

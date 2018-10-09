@@ -1,10 +1,10 @@
-.tree, .sticker-location, .sticker-dates, #tickets img, a.sponsorBtn {
+.tree, .sticker-location, .sticker-dates, a.sponsorBtn, #coffee {
     display: none;
 }
 
 #hero {
     text-align: center;
-    margin-bottom:30px;
+    margin-bottom:0px;
 }
 
 #hero img, #conf img, #postconf img {
@@ -50,7 +50,7 @@ a.primary {
         width: 100%;
     }
 
-    .tree, .location, .sticker-dates, .sticker-location, #tickets img, a.sponsorBtn {
+    .tree, .location, .sticker-dates, .sticker-location, #tickets img, a.sponsorBtn, #coffee {
         display: inline;
     }
 
@@ -126,8 +126,12 @@ a.primary {
         flex-wrap: wrap;
     }
 
+    #sponsors div {
+        padding: 5px;
+    }
+
     #gold div {
-        flex: 1 1 50%;
+        flex: 1 1 48%;
     }
 
     #gold img {
@@ -135,11 +139,11 @@ a.primary {
     }
 
     #silver div {
-        flex: 1 1 33%;
+        flex: 1 1 30%;
     }
 
     #community div {
-        flex: 1 1 20%;
+        flex: 1 1 18%;
     }
 
     .placeholder {
