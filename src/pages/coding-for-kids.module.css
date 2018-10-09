@@ -3,26 +3,43 @@
     display: block;
 }
 
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0;
+}
+
 table th {
     text-align: left;
-    padding-right: 20px;
+    width: 150px;
 }
 
-#schedule>div {
-    display: flex;
+strong {
+    color: purple;
 }
 
-#schedule div {
+#schedule th, #schedule td {
+    border: 1px solid #ccc;
     padding: 5px;
 }
 
-.time {
-    margin-right: 10px;
+.workshop {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+.workshop h3 {
+    display: inline-block;
+    background-color: yellow;
+    padding: 3px;
+    color: #000;
 }
 
 @media only screen and (min-width: 768px) { 
     #kids {
-        width: 80vw;
+        width: 70vw;
         margin: 0 auto;
     }
 }
