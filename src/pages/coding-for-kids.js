@@ -33,6 +33,7 @@ function KidsPage ({ data }) {
           <th>What to Bring</th><td>PLEASE bring a laptop for each child. We will have some on-site loaners, but they will be in limited supply.</td>
         </tr>
       </table>
+      <p><a href="https://www.eventbrite.com/e/cascadian-coding-for-kids-tickets-51272915671" className="cta">Register</a></p>
       <h2>Schedule</h2>
       <table id={styles.schedule}>
         <tr>
@@ -58,15 +59,6 @@ function KidsPage ({ data }) {
           <td colSpan="2">Wrap-up / Raffle</td>
         </tr>
       </table>
-      <h2>Registration</h2>
-      <p>There are 4 kinds of tickets. Please make sure that everyone who is coming to the event has a ticket:</p>
-      <ul>
-        <li>Volunteer - If you&apos;d like to volunteer to set-up, run a workshop, assist an instructor or otherwise help out.</li>
-        <li>Parent - All kids must have an adult with them. No drop-offs. One adult can be the guardian for multiple kids.</li>
-        <li>Non-student kid - Brothers and sisters who will not be participating, but are being brought along to hang out.</li>
-        <li>Workshop - Spaces are limited, so please only sign-up for one workshop per kid.</li>
-      </ul>
-      <p><a href="https://ti.to/event-loop/cascadiajs-2018/" className="cta">Register</a></p>
       <p>We are in the process of finalizing the list of workshops, but here are a few examples of what we&apos;re going to offer.</p>
       <h2>Workshops</h2>
       <div id="tessel" className={styles.workshop}>
