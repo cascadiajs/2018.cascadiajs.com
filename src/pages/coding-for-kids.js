@@ -21,7 +21,7 @@ function KidsPage ({ data }) {
           <th>Ages</th><td>K - 12</td>
         </tr>
         <tr>
-          <th>Cost</th><td>Suggested donation of $5, with all proceeds going to the <a href="https://techaccess.org/about-us/">Tech Access Foundation</a>.</td>
+          <th>Cost</th><td>FREE, with a suggested donation of $5 going to the <a href="https://techaccess.org/about-us/">Tech Access Foundation</a>.</td>
         </tr>
         <tr>
           <th>Location</th><td>Microsoft Reactor Seattle, 320 Westlake Ave N, Seattle, WA 98109</td>
