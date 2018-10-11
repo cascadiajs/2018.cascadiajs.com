@@ -24,7 +24,7 @@ function KidsPage ({ data }) {
           },
           {
             property: 'og:image',
-            content: 'https://2018.cascadiajs.com/catherine-shadow.svg'
+            content: 'https://2018.cascadiajs.com/cate-sticker.png'
           }
         ]}
       />
