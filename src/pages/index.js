@@ -124,7 +124,10 @@ function IndexPage ({data}) {
           <section id="silver">
             <div><a href="https://formidable.com/"><img src="/formidable.png" alt="Formidable logo"/></a></div>
             <div><a href="https://fizbuz.com/"><img src="/fizbuz.svg" alt="Fizbuz logo"/></a></div>
+            <div><a href="https://twilio.com/"><img src="/logos/twilio.svg" alt="Twilio logo"/></a></div>
+            <div><a href="https://esri.com/"><img src="/logos/esri.svg" alt="Esri logo"/></a></div>
             <div><a href="https://www.slalom.com/"><img src="/slalom-logo.png" alt="Slalom logo"/></a></div>
+            <div><a href="https://www.genui.co/"><img src="/logos/genui.jpg" alt="Gen/UI logo"/></a></div>
             <div><a href="https://developer.microsoft.com/en-us/advocates/index.html"><img src="/azure.png" alt="Azure logo"/></a></div>
             <div><Link className="sponsorBtn cta" to="/call-for-sponsors">Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
             <div><Link className="sponsorBtn cta" to="/call-for-sponsors">Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
