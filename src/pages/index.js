@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'gatsby-link';
+import Helmet from 'react-helmet';
 import 'pure-react-carousel/dist/react-carousel.es.css';
 import MailChimpForm from '../components/mailChimpForm';
 import PropTypes from 'prop-types';
@@ -10,6 +11,23 @@ import './index.css';
 function IndexPage ({data}) {
   return (
     <div>
+      <Helmet
+        meta={[
+          {
+            name: 'description',
+            content:
+              'CascadiaJS 2018 is a conference for web developers, by web developers in the Pacific Northwest. Taking place November 15-16 in Seattle, WA.'
+          },
+          {
+            property: 'og:title',
+            content: data.site.siteMetadata.title
+          },
+          {
+            property: 'og:image',
+            content: 'https://2018.cascadiajs.com/cjs-hero.png'
+          }
+        ]}
+      />
       <div id="content">
         <section id="hero">
           <div><img className="tree" src="/tree.svg" alt="tree sticker"/></div>

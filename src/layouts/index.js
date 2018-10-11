@@ -13,21 +13,8 @@ const Layout = ({ children, data }) => {
         meta={[
           { name: 'viewport', content: 'width=device-width, initial-scale=1.0' },
           {
-            name: 'description',
-            content:
-              'CascadiaJS 2018 is a conference for web developers, by web developers in the Pacific Northwest. Taking place November 15-16 in Seattle, WA.'
-          },
-          {
             property: 'og:type',
             content: 'website'
-          },
-          {
-            property: 'og:title',
-            content: data.site.siteMetadata.title
-          },
-          {
-            property: 'og:image',
-            content: 'https://2018.cascadiajs.com/cjs-hero.png'
           }
         ]}
         link={[

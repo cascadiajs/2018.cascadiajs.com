@@ -1,4 +1,5 @@
 import React from 'react';
+import Helmet from 'react-helmet';
 import PropTypes from 'prop-types';
 import styles from './coding-for-kids.module.css';
 
@@ -10,9 +11,26 @@ function KidsPage ({ data }) {
   });
   return (
     <section id={styles.kids}>
+      <Helmet
+        meta={[
+          {
+            name: 'description',
+            content:
+              'CascadiaJS and Microsoft are co-hosting a Coding for Kids workshop at the Microsoft Reactor in South Lake Union on November 17th.'
+          },
+          {
+            property: 'og:title',
+            content: 'Coding for Kids Workshop Day (Nov 17)'
+          },
+          {
+            property: 'og:image',
+            content: 'https://2018.cascadiajs.com/catherine-shadow.svg'
+          }
+        ]}
+      />
       <h1>Coding for Kids Workshop Day</h1>
       <img alt="kid coding" src="/catherine-shadow.svg" id={styles.hero}/>
-      <p>Following the conference, we are working with Microsoft to host a Coding for Kids workshop at the Microsoft Reactor in South Lake Union. This event is inspired by a <a href="https://www.geekwire.com/2018/will-8-year-old-girl-stick-coding-fun-project-dad-attracts-gifts-tech-community/">cool experience</a> that a local 2nd grader had learning to code and collecting dev stickers this past summer. The goal of this event is to introduce area kids to coding in a <strong>welcoming</strong> and <strong>fun</strong> environment. We will have a bunch of different workshops targeted at different age groups, so there should be something for everybody. Here are some important details:</p>
+      <p>CascadiaJS and Microsoft are co-hosting a Coding for Kids workshop at the Microsoft Reactor in South Lake Union. This event is inspired by a <a href="https://www.geekwire.com/2018/will-8-year-old-girl-stick-coding-fun-project-dad-attracts-gifts-tech-community/">cool experience</a> that a local 2nd grader had learning to code and collecting dev stickers this past summer. The goal of this event is to introduce area kids to coding in a <strong>welcoming</strong> and <strong>fun</strong> environment. We will have a bunch of different workshops targeted at different age groups, so there should be something for everybody. Here are some important details:</p>
       <table>
         <tr>
           <th>Date</th><td>Saturday, Nov 17</td>
