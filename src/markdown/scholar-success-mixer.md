@@ -16,6 +16,8 @@ But giving someone a free ticket to a conference isn’t enough! In order to ens
 
 Our hope is that this event will help prepare our scholarship recipients to get the most out of the CascadiaJS experience. 
 
+<p><br/><a class="cta" href="https://ti.to/event-loop/cascadiajs-2018/with/oyj30db3qwm">Scholar RSVP</a> <a class="cta" href="https://ti.to/event-loop/cascadiajs-2018/with/vtd-jl2h-og">Mentor RSVP</a></p>
+
 Agenda:
 
 * 5:00PM - Arrive & Check-in
@@ -23,8 +25,6 @@ Agenda:
 * 5:30PM - Break into Groups & Discussion
 * 6:15PM - Break & Snacks
 * 7:00PM - Wrap-up
-
-<p><br/><a class="cta" href="https://ti.to/event-loop/cascadiajs-2018">Scholar RSVP</a> <a class="cta" href="https://ti.to/event-loop/cascadiajs-2018">Mentor RSVP</a></p>
 
 Have a question? Email scholarships@cascadiajs.com
 
