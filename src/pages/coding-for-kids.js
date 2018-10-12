@@ -53,6 +53,7 @@ function KidsPage ({ data }) {
       </table>
       <p><a href="https://www.eventbrite.com/e/cascadian-coding-for-kids-tickets-51272915671" className="cta">Register</a></p>
       <h2>Schedule</h2>
+      <p><i>Draft schedule– more coming soon!</i></p>
       <table id={styles.schedule}>
         <tr>
           <th>9:30am</th>
@@ -77,8 +78,8 @@ function KidsPage ({ data }) {
           <td colSpan="2">Wrap-up / Raffle</td>
         </tr>
       </table>
-      <p>We are in the process of finalizing the list of workshops, but here are a few examples of what we&apos;re going to offer.</p>
       <h2>Workshops</h2>
+      <p>We are in the process of finalizing the list of workshops, but here are a few examples of what we&apos;re going to offer.</p>
       <div id="tessel" className={styles.workshop}>
         <h3>Tessel Photo-Tweeter</h3>
         <p><img src="/tessel.png" alt="Tessel tweet"/></p>
