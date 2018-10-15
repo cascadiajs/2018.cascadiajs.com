@@ -92,6 +92,10 @@ function KidsPage ({ data }) {
         <p><strong>Age range:</strong> Recommended for middle school and up. No prior experience with software required.</p>
         <p><strong>Required Equipment:</strong> A laptop that can connect to Wi-Fi.</p>
       </div>
+      <div id="tbd" className={styles.workshop}>
+        <h3>More Workshops Coming Soon!</h3>
+        <p>We are going to add a few more workshops for younger kids, so please stay tuned! Feel free to RSVP for a Parent Ticket and that way we can email you when there are updates. Thanks!</p>
+      </div>
       <h2>Event Sponsor</h2>
       <p><a href="https://developer.microsoft.com/en-us/reactor/"><img src="/reactor-seaplane.png" alt="microsoft reactor"/></a></p>
       <h2>Raffle Sponsor</h2>
