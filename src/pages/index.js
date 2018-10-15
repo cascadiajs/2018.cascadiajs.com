@@ -37,12 +37,6 @@ function IndexPage ({data}) {
           <div><img className="tree" src="/tree.svg" alt="tree sticker"/></div>
         </section>
         <section id="preconf">
-          <div id="happyhour">
-            <div className="dates">October 9</div>
-            <h3>Cascadian Happy Hour</h3>
-            <p>CascadiaJS and PuPPy are teaming up to host a happy hour for developers to celebrate Seattle Startup Week! This is an inclusive and friendly networking event for ALL developers.</p>
-            <p><a className="cta" href="https://techstarsstartupweekseattle2018.sched.com/event/Gott">RSVP</a></p>
-          </div>
           <div id="graphql">
             <div className="dates">November 12-13</div>
             <h3>GraphQL Training</h3>
