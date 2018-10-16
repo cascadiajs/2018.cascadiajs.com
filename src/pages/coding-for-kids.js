@@ -103,9 +103,9 @@ function KidsPage ({ data }) {
       <div id="roblox" className={styles.workshop}>
         <h3>Build a Game with Roblox</h3>
         <p><img src="/roblox.jpg" alt="Roblox"/></p>
-        <p><strong>Description:</strong> More info to come!</p>
-        <p><strong>Age range:</strong> TBD</p>
-        <p><strong>Required Equipment:</strong> TBD</p>
+        <p><strong>Description:</strong> Roblox is ushering in the next generation of entertainment, allowing people to imagine, create, and play together in immersive, user-generated 3D worlds.  Learn to create and code your own games using the free tools made available by Roblox. This is a perfect course for first time game developers.<br/><br/>In this session you’ll learn how to make an obby, short for obstacle course. In this game genre, players have to jump from one place to another while avoiding obstacles to get to the end of a level. </p>
+        <p><strong>Age range:</strong> 10-12</p>
+        <p><strong>Required Equipment:</strong> Fully charged laptop running Windows or Mac OS, Roblox Studio and a <a href="https://www.roblox.com/account/signupredir">Roblox user account</a> (all free)</p>
       </div>
       <div id="tbd" className={styles.workshop}>
         <h3>More Workshops Coming Soon!</h3>
