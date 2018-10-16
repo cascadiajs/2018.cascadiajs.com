@@ -55,8 +55,12 @@ function KidsPage ({ data }) {
       <h2>Schedule</h2>
       <table id={styles.schedule}>
         <tr>
+          <th>9:00am</th>
+          <td colSpan="2">Doors Open &amp; Coffee</td>
+        </tr>
+        <tr>
           <th>9:30am</th>
-          <td colSpan="2">Doors Open</td>
+          <td colSpan="2">Kick-off Event</td>
         </tr>
         <tr>
           <th>10:00am</th>
@@ -70,11 +74,15 @@ function KidsPage ({ data }) {
         <tr>
           <th>1:30pm</th>
           <td><a href="#tessel">Tessel Photo-Tweeter</a> (cont.)</td>
-          <td>TBD</td>
+          <td><a href="#roblox">Build a Game with Roblox</a></td>
         </tr>
         <tr>
           <th>4:00pm</th>
-          <td colSpan="2">Wrap-up / Raffle</td>
+          <td colSpan="2">Wrap-up &amp; Raffle</td>
+        </tr>
+        <tr>
+          <th>4:30pm</th>
+          <td colSpan="2">Doors Close</td>
         </tr>
       </table>
       <p>We are in the process of finalizing the list of workshops, but here are a few examples of what we&apos;re going to offer.</p>
@@ -91,6 +99,13 @@ function KidsPage ({ data }) {
         <p><strong>Description:</strong> Using code to make cool stuff: A fun introduction! <a href="https://p5js.org/">P5.js</a> is a JavaScript library used by artists and designers to make art, visual designs, animations and more. In this workshop you will learn to program interactive shapes and patterns, right in the browser! Make your own experimental creations that you can share with your friends online. </p>
         <p><strong>Age range:</strong> Recommended for middle school and up. No prior experience with software required.</p>
         <p><strong>Required Equipment:</strong> A laptop that can connect to Wi-Fi.</p>
+      </div>
+      <div id="roblox" className={styles.workshop}>
+        <h3>Build a Game with Roblox</h3>
+        <p><img src="/roblox.jpg" alt="Roblox"/></p>
+        <p><strong>Description:</strong> More info to come!</p>
+        <p><strong>Age range:</strong> TBD</p>
+        <p><strong>Required Equipment:</strong> TBD</p>
       </div>
       <div id="tbd" className={styles.workshop}>
         <h3>More Workshops Coming Soon!</h3>
