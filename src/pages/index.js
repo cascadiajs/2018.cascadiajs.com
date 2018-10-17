@@ -105,7 +105,7 @@ function IndexPage ({data}) {
             <div className="dates">November 17</div>
             <h3>Kid&apos;s Coding Workshops</h3>
             <p>Interested in getting your kids as excited about programming as your are? Join us for a day full of coding workshops targeted at all age ranges (K-12).</p>
-            <p><a className="cta" href="/coding-for-kids">Register</a></p>
+            <p><a className="cta" href="/coding-for-kids">Details</a></p>
           </div>
         </section>
         <section id="code-of-conduct">
