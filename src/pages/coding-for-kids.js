@@ -36,7 +36,7 @@ function KidsPage ({ data }) {
           <th>Date</th><td>Saturday, Nov 17</td>
         </tr>
         <tr>
-          <th>Ages</th><td>K - 12</td>
+          <th>Ages</th><td>See workshops below</td>
         </tr>
         <tr>
           <th>Cost</th><td>FREE, with a suggested donation of $5 going to the <a href="https://techaccess.org/about-us/">Tech Access Foundation</a>.</td>
@@ -49,6 +49,9 @@ function KidsPage ({ data }) {
         </tr>
         <tr>
           <th>What to Bring</th><td>PLEASE bring a laptop for each child. We will have some on-site loaners, but they will be in limited supply.</td>
+        </tr>
+        <tr>
+          <th>Other Activites</th><td>Aside from coding workshops, we will have an area set-up for kids to hang out and play. We will have books, games and drawing materials on-site for kids to use.</td>
         </tr>
       </table>
       <p><a href="https://www.eventbrite.com/e/cascadian-coding-for-kids-tickets-51272915671" className="cta">Register</a></p>
