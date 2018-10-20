@@ -112,8 +112,9 @@ function KidsPage ({ data }) {
         <p><strong>Required Equipment:</strong> Fully charged laptop running Windows or Mac OS, Roblox Studio and a <a href="https://www.roblox.com/account/signupredir">Roblox user account</a> (all free)</p>
       </div>
       <div id="tbd" className={styles.workshop}>
-        <h3>More Workshops Coming Soon!</h3>
-        <p>We are going to add a few more workshops for younger kids, so please stay tuned! Feel free to RSVP for a Parent Ticket and that way we can email you when there are updates. Thanks!</p>
+        <h3>More workshops coming!</h3>
+        <p>We plan to add a few more workshops for younger kids, so please stay tuned! Feel free to RSVP for a Parent Ticket and that way we can email you when there are updates. Thanks!</p>
+        <p>If you might be interested in <strong>LEADING</strong> a workshop, please let us know: carter@cascadiajs.com</p>
       </div>
       <h2>Event Sponsor</h2>
       <p><a href="https://developer.microsoft.com/en-us/reactor/"><img src="/reactor-seaplane.png" alt="microsoft reactor"/></a></p>
