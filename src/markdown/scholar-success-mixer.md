@@ -16,7 +16,7 @@ But giving someone a free ticket to a conference isn’t enough! In order to ens
 
 Our hope is that this event will help prepare our scholarship recipients to get the most out of the CascadiaJS experience. 
 
-<p><br/><a class="cta" href="https://ti.to/event-loop/cascadiajs-2018/with/oyj30db3qwm">Scholar RSVP</a> <a class="cta" href="https://ti.to/event-loop/cascadiajs-2018/with/vtd-jl2h-og">Mentor RSVP</a></p>
+<p><br/><a class="cta" href="https://www.eventbrite.com/e/cascadiajs-scholar-success-mixer-tickets-51612588642">Scholar RSVP</a> <a class="cta" href="https://www.eventbrite.com/e/cascadiajs-scholar-success-mixer-tickets-51612588642">Mentor RSVP</a></p>
 
 Agenda:
 
