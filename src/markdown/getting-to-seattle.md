@@ -13,6 +13,14 @@ In order to best plan your stay, here is a rough schedule of events. We will con
 * **Friday:** Day Two Talks & Closing Party
 * **Saturday:** - React Training (9am - 4pm)
 
+## Crossing the Border to the United States
+
+If you are traveling to the United States from another country, **PLEASE** ensure that you research the requirements for travel to the United States from your country of origin, including Passports and potential Visa requirements. 
+
+* [US Department of State](https://travel.state.gov/content/travel/en/us-visas/business.html)
+* [US Via Waiver Program](https://www.dhs.gov/visa-waiver-program)
+* [Canadian Requiring Visas](https://ca.usembassy.gov/visas/do-i-need-a-visa/)
+
 ## Hacker Trains
 
 <span class="exclaim">👉 Deadline to Book is <strong>OCT 26</strong></div>
