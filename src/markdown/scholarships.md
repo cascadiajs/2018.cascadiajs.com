@@ -1,10 +1,9 @@
 ---
 title: "Scholarships"
 ---
-![emcee from 2016](https://cdn-images-1.medium.com/max/1600/1*aJrwpWdgyL6-nrSr-HOmXQ.jpeg)
+<span class="exclaim">Application Deadline Has Passed</strong></span>
 
-Thank you for the interest of scholarship program! We have close the application and will be reaching out to all applicants in coming days.
----
+![emcee from 2016](https://cdn-images-1.medium.com/max/1600/1*aJrwpWdgyL6-nrSr-HOmXQ.jpeg)
 
 CascadiaJS exists to educate and grow the JavaScript community in the Pacific Northwest. We're constantly seeking new ways to make our community broader and more inclusive, so we're excited to work with our community to fund a Scholarship Program.
 

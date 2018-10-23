@@ -46,7 +46,7 @@ All aboard the Hacker Train! If you live in Portland, OR or Vancouver, BC there 
 * King rooms
 * Just up Westlake Ave from the Amazon Meeting Center (0.6 miles)
 
-<a href="http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Cascadia%20JS%20Conference%20%5Eseaox%60CSCCSCB%7CCSCCSCC%60159.00%60USD%60false%602%6011/14/18%6011/17/18%6010/24/18&app=resvlink&stop_mobi=yes" class="cta">Book for $159/night</a></p>
+<a class="nope">Block Expired</a>
 
 
 ### Thompson Seattle
@@ -57,4 +57,4 @@ All aboard the Hacker Train! If you live in Portland, OR or Vancouver, BC there 
 * Rooftop Deck 
 * Southwest of the Amazon Meeting Center (0.5 miles).
 
-<a href="https://gc.synxis.com/rez.aspx?Hotel=67516&Chain=15564&Dest=TM&template=TH_RBE&shell=TH_RBE&locale=en-US&arrive=11/14/2018&depart=11/17/2018&adult=1&child=0&group=1811CASJS" class="cta">Book for $199/night</a>
+<a class="nope">Block Expired</a>

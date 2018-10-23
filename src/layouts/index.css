@@ -58,13 +58,11 @@ a:hover {
 /* Typeform */
 iframe#typeform-full{ position: absolute; left:0; right:0; bottom:0; top:4.5em; border:0; }
 
-a.cta {
+a.cta, a.nope {
   font-family: freight-sans-pro;
   font-size: 16px;
   font-weight: 600;
-  border: 1px solid rgb(55, 107, 251);
   background-color: #fff;
-  color: #275197;
   padding: 10px;
   border-radius: 5px;
   text-decoration: none;
@@ -79,7 +77,12 @@ a.cta:hover {
   text-decoration: underline;
 }
 
-a.soon {
+a.cta {
+  color: #275197;
+  border: 1px solid rgb(55, 107, 251);
+}
+
+a.nope {
   color: #999;
   border: 1px solid #999;
 }

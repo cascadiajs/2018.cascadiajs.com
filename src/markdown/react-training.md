@@ -5,7 +5,7 @@ title: "Advanced Topics and Patterns for React-based Web Apps"
 
 [Formidable](https://formidable.com/) will hold a full-day React training workshop on **Saturday, November 17th** following the conference. The workshop with cover how to work with animations, forms, routing, and more with your React-based web apps. More info on the workshop below!
 
-<p><br/><a class="cta" href="https://ti.to/event-loop/cascadiajs-2018">REGISTER</a></p>
+<p><br/><a class="nope">SOLD OUT</a></p>
 
 
 ### Prerequisites
@@ -38,4 +38,3 @@ Carlos is a principal software engineer at Formidable. He started out as a nativ
 
 Michael is a software engineer at Formidable in Denver, CO. He’s a graduate of both the Turing School and Hack Reactor, and works in both mobile and web applications. His current interests involve cross-platform and JAMstack architectures, as well as ReasonML. When he’s not coding he’s probably mountain biking or trail running.
 
-<p><br/><a class="cta" href="https://ti.to/event-loop/cascadiajs-2018">REGISTER</a></p>
