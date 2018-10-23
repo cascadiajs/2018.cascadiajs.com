@@ -73,3 +73,9 @@ You can also take the local 21 bus (Westwood Village Via 35th Ave SW):
 * [Local 360](https://www.yelp.com/biz/local-360-seattle-2)
 * [Radiator Whiskey](https://www.yelp.com/biz/radiator-whiskey-seattle)
 * [Matt's in the Market](https://www.yelp.com/biz/matts-in-the-market-seattle)
+
+## Weekend Fun
+
+* [MoPOP]() - currently featuring an exhibit on with movie props from SciFi, fantasy and horror movies.
+* [Seattle Bouldering Project](https://seattleboulderingproject.com/) - indoor rock climbing
+* [NW Trail Runs](http://nwtrailruns.com/events/ravenna-refresher/) - 4k, 8k and 12k options for a trail run
