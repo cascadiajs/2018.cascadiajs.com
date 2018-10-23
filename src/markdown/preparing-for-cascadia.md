@@ -1,8 +1,6 @@
 ---
 title: "Preparing for CascadiaJS"
 ---
-## Keeping in Touch
-
 Here are some important TODOS to ensure your conference experience is 💯:
 
 * Important emails will be coming from info@cascadiajs.com, make sure those are getting to your Inbox.
@@ -17,10 +15,9 @@ The only required item you *must* bring is a **Photo ID**. This is required for 
 * **Water bottle** - water dispensers will be available, so help out the environment and bring a bottle.
 * **Fall Clothing** - expect clouds/drizzle and mid-50's during the day, dipping to the mid-40's at night. 
 
-
 ## Conference Schedule
 
-CascadiaJS is ~48 hours of pure awesome starting Thursday morning (11/15) and concluding Friday night (11/16). Each  day will start with registration and close with an evening event. Here is a rough schedule:
+The conference is ~48 hours of pure awesome starting Thursday morning (11/15) and concluding Friday night (11/16). Each  day will start with registration and close with an evening event. Here is a rough schedule:
 
 ### Thursday, Nov 15
 
@@ -40,11 +37,11 @@ CascadiaJS is ~48 hours of pure awesome starting Thursday morning (11/15) and co
 
 ## Meals
 
-**Breakfast** - If you're a breakfast person, make sure to grab a bite on your way into the Amazon Meeting Center.
+**Breakfast** - If you're a breakfast person, make sure to grab a bite on your way into the Amazon Meeting Center. Check out [Top Pot Doughnuts](https://www.yelp.com/biz/top-pot-doughnuts-seattle), [Biscuit B**ch](https://www.yelp.com/biz/biscuit-bitch-seattle-9), and [Cherry Street Coffee](https://www.yelp.com/biz/cherry-street-coffee-house-seattle-3).
 
-**Lunch** - Lunch is being catered on both days. We will publish the menu shortly. If menu doesn't work for you, please take a moment to research lunch options neaby. There are dozens of great places to eat with a 5-10 walk of the Amazon Meeting Center.
+**Lunch** - Lunch is being catered on both days. We will publish the menu shortly. If menu doesn't work for you, please take a moment to research lunch options neaby. There are dozens of great places to eat with a 5-10 walk of the Amazon Meeting Center, including [Marination](https://www.yelp.com/biz/marination-seattle-2), [Urban Sushi](https://www.yelp.com/biz/urban-sushi-kitchen-seattle) and [Potbelly Sandwiches](https://www.yelp.com/biz/potbelly-sandwich-shop-seattle-9). 
 
-**Dinner** - We've included time in the schedule for folks to get dinner in between the talks ending and the evening event beginning. Please consider making reservations for dinner so that you're spending more time enjoying food with friends and less time walking around looking for an open table.
+**Dinner** - We've included time in the schedule for folks to get dinner in between the talks ending and the evening event beginning. Please consider making reservations for dinner so that you're spending more time enjoying food with friends and less time walking around looking for an open table. We like [RN74](https://www.yelp.com/biz/rn74-seattle), [Lola](https://www.yelp.com/biz/lola-seattle), [Shaker and Spear](https://www.yelp.com/biz/shaker-and-spear-seattle-2), [Local 360](https://www.yelp.com/biz/local-360-seattle-2), [Radiator Whiskey](https://www.yelp.com/biz/radiator-whiskey-seattle) and [Matt's in the Market](https://www.yelp.com/biz/matts-in-the-market-seattle). 
 
 ## Code of Conduct
 
