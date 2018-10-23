@@ -6,18 +6,6 @@ Here's a handy Google Map of the important places for CascadiaJS 2018:
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1UwnlkrAn24nvcvg_0QTn5hnV0RytlBtf&hl=en" width="100%" height="480"></iframe>
 
-## Getting to the Hotels
-
-**Directions from SeaTac Airport to the Moxy Seattle or Thompson Seattle hotels**
-
-SeaTac Airport has a dedicated ride sharing area served by Uber and Lyft. A ride into downtown Seattle will run around $35.
-
-Another great option is to take the [Light Rail](https://www.soundtransit.org/Schedules/Link-light-rail) downtown. Get off at the Westlake Station and you will be walking distance to either hotel.
-
-**Directions from the King St Station to the Moxy Seattle or Thompson Seattle hotels**
-
-We advise using a car sharing service, there aren't great public transportation options here and it's not very walkable.
-
 ## Getting to the Conference Venue
 
 We strongly encourage folks to take public transportation to the conference and to arrive as early as possible. The Amazon Meeting Center is located in downtown Seattle and the traffic is pretty awful during the work week. 

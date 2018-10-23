@@ -7,7 +7,7 @@ Here are some important TODOS to ensure your conference experience is 💯:
 * [Join the CascadiaJS Slack](https://join.slack.com/t/cascadiajs/shared_invite/enQtMzcyMjkzMDk0NjQwLTc3YmJiMTk0NTZjNDBjMzg2YTMxNDA4Njk3YTgyZWY0MGM4NjVhZTI0YTUzYTRmYzRlNThhNTIxOGNkMDU1ZGU)
 * [Follow us on Twitter](https://twitter.com/CascadiaJS) and use #CJS18 when you tweet!
 
-## Are your bags packed?
+## Pack Your Bags
 
 The only required item you *must* bring is a **Photo ID**. This is required for entry to the Amazon Meeting Center and will be matched against the name you provided when you registered for the conference. Other items you should consider packing:
 

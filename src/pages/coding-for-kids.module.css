@@ -14,10 +14,6 @@ table th {
     width: 150px;
 }
 
-strong {
-    color: indigo;
-}
-
 #schedule th, #schedule td {
     border: 1px solid #ccc;
     padding: 5px;

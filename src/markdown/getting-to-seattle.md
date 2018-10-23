@@ -8,12 +8,14 @@ For those of you who don't live in Seattle, we have you covered! Please see belo
 
 In order to best plan your stay, here is a rough schedule of events. We will continue adding more and more fun activities, but these are the core parts of CascadiaJS:
 
-* Wednesday - Speaker Dinner & Mentee Mixer
-* Thursday - Day One Talk & Opening Party
-* Friday - Day Two Talk & Closing Party
-* Saturday - React Training
+* **Wednesday:** Speaker Dinner (~6:30pm) & Scholar Mixer (~5pm)
+* **Thursday:** Day One Talks & Opening Party
+* **Friday:** Day Two Talks & Closing Party
+* **Saturday:** - React Training (9am - 4pm)
 
 ## Hacker Trains
+
+<span class="exclaim">👉 Deadline to Book is <strong>OCT 26</strong></div>
 
 ![Amtrak Cascades train](/amtrakcascades.jpg)
 
@@ -34,6 +36,16 @@ All aboard the Hacker Train! If you live in Portland, OR or Vancouver, BC there 
 * Departs noon, arrives at 3:30pm
 
 <a href="https://ti.to/event-loop/cascadiajs-2018/with/m9cdejok4cc"  class="cta">Buy Portland Ticket</a>
+
+### Directions from the King St Station to the Moxy Seattle or Thompson Seattle hotels
+
+We advise using a car sharing service, there aren't great public transportation options here and it's not very walkable.
+
+## SeaTac Airport
+
+SeaTac Airport has a dedicated ride sharing area served by Uber and Lyft. A ride into downtown Seattle will run around $35.
+
+Another great option is to take the [Light Rail](https://www.soundtransit.org/Schedules/Link-light-rail) downtown. Get off at the Westlake Station and you will be walking distance to either hotel.
 
 ## Hotels
 

@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from 'gatsby-link';
 import PropTypes from 'prop-types';
+import { shuffle } from 'lodash';
 import styles from './speakers.module.css';
 
 console.log(styles);
@@ -8,6 +9,7 @@ console.log(styles);
 function Speakers ({ data }) {
   let speakers = [];
   console.log(data);
+  data.site.siteMetadata.speakers = shuffle(data.site.siteMetadata.speakers);
   data.site.siteMetadata.speakers.forEach((o, k) => {
     let name = <h3>&nbsp;<br/>&nbsp;</h3>;
     let talk = o.talk;

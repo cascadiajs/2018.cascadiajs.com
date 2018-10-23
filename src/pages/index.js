@@ -1,7 +1,6 @@
 import React from 'react';
 import Link from 'gatsby-link';
 import Helmet from 'react-helmet';
-import 'pure-react-carousel/dist/react-carousel.es.css';
 import MailChimpForm from '../components/mailChimpForm';
 import PropTypes from 'prop-types';
 import Organizers from '../components/organizers';
@@ -37,15 +36,15 @@ function IndexPage ({data}) {
           <div><img className="tree" src="/tree.svg" alt="tree sticker"/></div>
         </section>
         <section id="preconf">
-          <div id="getting-to-seattle">
-            <h3>Travel and Lodging</h3>
-            <p>For those of you who do not live in Seattle, we have you covered! Please check out our travel guide for more information about how to get to Seattle and where to stay while you are here.</p>
-            <p><a className="cta" href="/getting-to-seattle">Learn More</a></p>
-          </div>
           <div id="preparing-for-cascadia">
             <h3>Preparing for Cascadia</h3>
             <p>In order to get the most out of your CascadiaJS experience, it helps to get prepared. Whether it&apos;s booking a dinner reservation before the Opening Party or making sure you pack a water bottle, we have put together a list of tips and tricks to make sure you have everything covered for Nov 15-16.</p>
             <p><a className="cta" href="/preparing-for-cascadia">Learn More</a></p>
+          </div>
+          <div id="getting-to-seattle">
+            <h3>Travel and Lodging</h3>
+            <p>For those of you who do not live in Seattle, we have you covered! Please check out our travel guide for more information about how to get to Seattle and where to stay while you are here.</p>
+            <p><a className="cta" href="/getting-to-seattle">Learn More</a></p>
           </div>
           <div id="seattle-guide">
             <h3>Getting Around Seattle</h3>
