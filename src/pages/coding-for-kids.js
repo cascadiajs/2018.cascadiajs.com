@@ -31,6 +31,7 @@ function KidsPage ({ data }) {
       <h1>Coding for Kids Workshop Day</h1>
       <img alt="kid coding" src="/catherine-shadow.svg" id={styles.hero}/>
       <p>CascadiaJS and Microsoft are co-hosting a Coding for Kids workshop at the Microsoft Reactor in South Lake Union. This event is inspired by a <a href="https://www.geekwire.com/2018/will-8-year-old-girl-stick-coding-fun-project-dad-attracts-gifts-tech-community/">cool experience</a> that a local 2nd grader had learning to code and collecting dev stickers this past summer. The goal of this event is to introduce area kids to coding in a <strong>welcoming</strong> and <strong>fun</strong> environment. We will have a bunch of different workshops targeted at different age groups, so there should be something for everybody. Here are some important details:</p>
+      <p><span className="exclaim">HELP: We are looking for someone to lead a workshop for kids <strong>9 and under</strong>!</span></p>
       <table>
         <tr>
           <th>Date</th><td>Saturday, Nov 17</td>
@@ -103,6 +104,13 @@ function KidsPage ({ data }) {
         <p><strong>Description:</strong> Using code to make cool stuff: A fun introduction! <a href="https://p5js.org/">P5.js</a> is a JavaScript library used by artists and designers to make art, visual designs, animations and more. In this workshop you will learn to program interactive shapes and patterns, right in the browser! Make your own experimental creations that you can share with your friends online. </p>
         <p><strong>Age range:</strong> Recommended for middle school and up. No prior experience with software required.</p>
         <p><strong>Required Equipment:</strong> A laptop that can connect to Wi-Fi.</p>
+      </div>
+      <div id="jsquest" className={styles.workshop}>
+        <h3>JSQuest</h3>
+        <p><img src="/quest.png" alt="JSQuest"/></p>
+        <p><strong>Description:</strong> In JSQuest, students will level up their skills in JavaScript through a series of progressively more challenging coding exercises. As students advance through their quest, they will receive experience points and loot to deck out their own virtual avatar in TwilioQuest, an online training platform built by Twilio. There may even be some rad real-world loot for some adventurers...</p>
+        <p><strong>Age range:</strong> 10+</p>
+        <p><strong>Required Equipment:</strong> Students will need their own laptop with a modern web browser installed. Ideally, parents should also <a href="https://www.twilio.com/try-twilio">sign up for a Twilio account</a> their student can use to log into TwilioQuest to track their progress. A Twilio account (and the associated TwilioQuest user) is not strictly necessary to participate, but it will make the experience more fun if the student can track their growth inside the game.</p>
       </div>
       <div id="roblox" className={styles.workshop}>
         <h3>Build a Game with Roblox</h3>
