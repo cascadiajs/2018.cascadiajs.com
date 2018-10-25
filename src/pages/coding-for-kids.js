@@ -31,7 +31,7 @@ function KidsPage ({ data }) {
       <h1>Coding for Kids Workshop Day</h1>
       <img alt="kid coding" src="/catherine-shadow.svg" id={styles.hero}/>
       <p>CascadiaJS and Microsoft are co-hosting a Coding for Kids workshop at the Microsoft Reactor in South Lake Union. This event is inspired by a <a href="https://www.geekwire.com/2018/will-8-year-old-girl-stick-coding-fun-project-dad-attracts-gifts-tech-community/">cool experience</a> that a local 2nd grader had learning to code and collecting dev stickers this past summer. The goal of this event is to introduce area kids to coding in a <strong>welcoming</strong> and <strong>fun</strong> environment. We will have a bunch of different workshops targeted at different age groups, so there should be something for everybody. Here are some important details:</p>
-      <p><span className="exclaim">HELP: We are looking for someone to lead a workshop for kids <strong>9 and under</strong>!</span></p>
+      <p><br/><span className="exclaim">HELP: We are looking for someone to lead a workshop for kids <strong>9 and under</strong>!</span></p><br/>
       <table>
         <tr>
           <th>Date</th><td>Saturday, Nov 17</td>
@@ -44,6 +44,12 @@ function KidsPage ({ data }) {
         </tr>
         <tr>
           <th>Location</th><td>Microsoft Reactor Seattle, 320 Westlake Ave N, Seattle, WA 98109</td>
+        </tr>
+        <tr>
+          <th>Parking</th><td>Parking validated at 320 Westlake and 321 Terry parking garages</td>
+        </tr>
+        <tr>
+          <th>Code of Conduct</th><td>All attendees must abide by the <a href="https://developer.microsoft.com/en-us/reactor/CodeOfConduct">Microsoft Reactor Code of Conduct</a></td>
         </tr>
         <tr>
           <th>Food &amp; Drinks</th><td>Coffee and Lunch will be provided, courtesy of Microsoft Reactor.</td>
@@ -61,33 +67,35 @@ function KidsPage ({ data }) {
       <table id={styles.schedule}>
         <tr>
           <th>9:00am</th>
-          <td colSpan="2">Doors Open &amp; Coffee</td>
+          <td colSpan="4">Doors Open &amp; Coffee</td>
         </tr>
         <tr>
           <th>9:30am</th>
-          <td colSpan="2">Kick-off Event</td>
+          <td colSpan="4">Kick-off Event</td>
         </tr>
         <tr>
           <th>10:00am</th>
           <td><a href="#tessel">Tessel Photo-Tweeter</a></td>
           <td><a href="#p5js">Making Art in the Browser</a></td>
+          <td><a href="#tbd">Morning Workshop TBD</a></td>
         </tr>
         <tr>
           <th>12:30pm</th>
-          <td colSpan="2">Lunch</td>
+          <td colSpan="4">Lunch</td>
         </tr>
         <tr>
           <th>1:30pm</th>
-          <td><a href="#tessel">Tessel Photo-Tweeter</a> (cont.)</td>
+          <td><a href="#jsquest">JSQuest</a></td>
           <td><a href="#roblox">Build a Game with Roblox</a></td>
+          <td><a href="#tbd">Afternoon Workshop TBD</a></td>
         </tr>
         <tr>
           <th>4:00pm</th>
-          <td colSpan="2">Wrap-up &amp; Raffle</td>
+          <td colSpan="4">Wrap-up &amp; Raffle</td>
         </tr>
         <tr>
           <th>4:30pm</th>
-          <td colSpan="2">Doors Close</td>
+          <td colSpan="4">Doors Close</td>
         </tr>
       </table>
       <h2>Workshops</h2>
