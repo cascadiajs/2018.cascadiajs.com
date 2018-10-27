@@ -75,9 +75,9 @@ function KidsPage ({ data }) {
         </tr>
         <tr>
           <th>10:00am</th>
-          <td><a href="#tessel">Tessel Photo-Tweeter</a></td>
-          <td><a href="#p5js">Making Art in the Browser</a></td>
-          <td><a href="#tbd">Morning Workshop TBD</a></td>
+          <td><a href="#p5js">Making Art in the Browser (12+)</a></td>
+          <td><a href="#jsquest">JSQuest (10+)</a></td>
+          <td><a href="#tbd">Morning Workshop TBA (6+)</a></td>
         </tr>
         <tr>
           <th>12:30pm</th>
@@ -85,8 +85,8 @@ function KidsPage ({ data }) {
         </tr>
         <tr>
           <th>1:30pm</th>
-          <td><a href="#jsquest">JSQuest</a></td>
-          <td><a href="#roblox">Build a Game with Roblox</a></td>
+          <td><a href="#tessel">Tessel Photo-Tweeter (12+)</a></td>
+          <td><a href="#roblox">Build a Game with Roblox (10+)</a></td>
           <td><a href="#tbd">Afternoon Workshop TBD</a></td>
         </tr>
         <tr>
