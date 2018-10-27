@@ -75,9 +75,9 @@ function KidsPage ({ data }) {
         </tr>
         <tr>
           <th>10:00am</th>
-          <td><a href="#tessel">Tessel Photo-Tweeter</a></td>
           <td><a href="#p5js">Making Art in the Browser</a></td>
-          <td><a href="#tbd">Morning Workshop TBD</a></td>
+          <td><a href="#jsquest">JSQuest</a></td>
+          <td><a href="#tbd">Morning Workshop TBA</a></td>
         </tr>
         <tr>
           <th>12:30pm</th>
@@ -85,7 +85,7 @@ function KidsPage ({ data }) {
         </tr>
         <tr>
           <th>1:30pm</th>
-          <td><a href="#jsquest">JSQuest</a></td>
+          <td><a href="#tessel">Tessel Photo-Tweeter</a></td>
           <td><a href="#roblox">Build a Game with Roblox</a></td>
           <td><a href="#tbd">Afternoon Workshop TBD</a></td>
         </tr>
@@ -99,32 +99,31 @@ function KidsPage ({ data }) {
         </tr>
       </table>
       <h2>Workshops</h2>
-      <p>We are in the process of finalizing the list of workshops, but here are a few examples of what we&apos;re going to offer.</p>
       <div id="tessel" className={styles.workshop}>
         <h3>Tessel Photo-Tweeter</h3>
         <p><img src="/tessel.png" alt="Tessel tweet"/></p>
-        <p><strong>Description:</strong> Build a portable photo-bot that takes pictures and posts them to Twitter! Start by making your own social-media-happy robot, then build from there: Can you @-tweet to it to ask it for a photo? What if you could make it take a picture by clapping? What if it did something right before taking the picture that made the photo subjects react? What if it took a picture every 4 seconds, like a time lapse? Extra hardware/sensors will be around, and so will mentors. What will you build?</p>
-        <p><strong>Age range:</strong> Recommended for middle school and up. No prior experience with software or hardware required. But for the pros, this workshop is designed to let you set your own challenge!</p>
+        <p><strong>Description:</strong> Build a portable photo-bot that takes pictures and posts them to Twitter! Start by making a social-media-happy robot, then build from there: Can you @-tweet to it to ask it for a photo? What if you could make it take a picture by clapping? What if it did something right before taking the picture that made the photo subjects react? What if it took a picture every 4 seconds, like a time lapse? Extra hardware/sensors will be around, and so will mentors. What will you build?</p>
+        <p><strong>Recommended age range:</strong> Middle school and up. No prior experience with software or hardware required. But for the pros, this workshop is designed to let you set your own challenge!</p>
       </div>
       <div id="p5js" className={styles.workshop}>
         <h3>Making Art in the Browser</h3>
         <p><img src="/p5js.png" alt="P5.js"/></p>
         <p><strong>Description:</strong> Using code to make cool stuff: A fun introduction! <a href="https://p5js.org/">P5.js</a> is a JavaScript library used by artists and designers to make art, visual designs, animations and more. In this workshop you will learn to program interactive shapes and patterns, right in the browser! Make your own experimental creations that you can share with your friends online. </p>
-        <p><strong>Age range:</strong> Recommended for middle school and up. No prior experience with software required.</p>
+        <p><strong>Recommended age range:</strong> Recommended for middle school and up. No prior experience with software required.</p>
         <p><strong>Required Equipment:</strong> A laptop that can connect to Wi-Fi.</p>
       </div>
       <div id="jsquest" className={styles.workshop}>
         <h3>JSQuest</h3>
         <p><img src="/quest.png" alt="JSQuest"/></p>
         <p><strong>Description:</strong> In JSQuest, students will level up their skills in JavaScript through a series of progressively more challenging coding exercises. As students advance through their quest, they will receive experience points and loot to deck out their own virtual avatar in TwilioQuest, an online training platform built by Twilio. There may even be some rad real-world loot for some adventurers...</p>
-        <p><strong>Age range:</strong> 10+</p>
+        <p><strong>Recommended age range:</strong> 10+</p>
         <p><strong>Required Equipment:</strong> Students will need their own laptop with a modern web browser installed. Ideally, parents should also <a href="https://www.twilio.com/try-twilio">sign up for a Twilio account</a> their student can use to log into TwilioQuest to track their progress. A Twilio account (and the associated TwilioQuest user) is not strictly necessary to participate, but it will make the experience more fun if the student can track their growth inside the game.</p>
       </div>
       <div id="roblox" className={styles.workshop}>
         <h3>Build a Game with Roblox</h3>
         <p><img src="/roblox.jpg" alt="Roblox"/></p>
         <p><strong>Description:</strong> Roblox is ushering in the next generation of entertainment, allowing people to imagine, create, and play together in immersive, user-generated 3D worlds.  Learn to create and code your own games using the free tools made available by Roblox. This is a perfect course for first time game developers.<br/><br/>In this session you’ll learn how to make an obby, short for obstacle course. In this game genre, players have to jump from one place to another while avoiding obstacles to get to the end of a level. </p>
-        <p><strong>Age range:</strong> 10-12</p>
+        <p><strong>Recommended age range:</strong> 10-12</p>
         <p><strong>Required Equipment:</strong> Fully charged laptop running Windows or Mac OS, Roblox Studio and a <a href="https://www.roblox.com/account/signupredir">Roblox user account</a> (all free)</p>
       </div>
       <div id="tbd" className={styles.workshop}>
