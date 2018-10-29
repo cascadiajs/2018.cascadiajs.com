@@ -76,7 +76,7 @@ function KidsPage ({ data }) {
         <tr>
           <th>10:00am</th>
           <td><a href="#p5js">Making Art in the Browser</a></td>
-          <td><a href="#jsquest">JSQuest</a></td>
+          <td><a href="#roblox">Build a Game with Roblox</a></td>
           <td><a href="#tbd">Morning Workshop TBA</a></td>
         </tr>
         <tr>
@@ -86,7 +86,7 @@ function KidsPage ({ data }) {
         <tr>
           <th>1:30pm</th>
           <td><a href="#tessel">Tessel Photo-Tweeter</a></td>
-          <td><a href="#roblox">Build a Game with Roblox</a></td>
+          <td><a href="#jsquest">JSQuest</a></td>
           <td><a href="#tbd">Afternoon Workshop TBD</a></td>
         </tr>
         <tr>
@@ -124,7 +124,7 @@ function KidsPage ({ data }) {
         <p><img src="/roblox.jpg" alt="Roblox"/></p>
         <p><strong>Description:</strong> Roblox is ushering in the next generation of entertainment, allowing people to imagine, create, and play together in immersive, user-generated 3D worlds.  Learn to create and code your own games using the free tools made available by Roblox. This is a perfect course for first time game developers.<br/><br/>In this session you’ll learn how to make an obby, short for obstacle course. In this game genre, players have to jump from one place to another while avoiding obstacles to get to the end of a level. </p>
         <p><strong>Recommended age range:</strong> 10-12</p>
-        <p><strong>Required Equipment:</strong> Fully charged laptop running Windows or Mac OS, Roblox Studio and a <a href="https://www.roblox.com/account/signupredir">Roblox user account</a> (all free)</p>
+        <p><strong>Required Equipment:</strong> Fully charged laptop running Windows or Mac OS, <a href="https://www.roblox.com/create">Roblox Studio</a> and a <a href="https://www.roblox.com/account/signupredir">Roblox user account</a> (all free)</p>
       </div>
       <div id="tbd" className={styles.workshop}>
         <h3>More workshops coming!</h3>
