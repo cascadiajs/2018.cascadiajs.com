@@ -7,11 +7,12 @@ function CalendarPage ({ data }) {
   return (
     <section id={styles.page}>
       <h1>Calendar of Events</h1>
+      <p><a href="https://calendar.google.com/calendar/ical/er6c9rngtivppluqfbe2kjsgcs%40group.calendar.google.com/public/basic.ics">Subscribe to the CascadiaJS 2018 iCal</a></p>
       <div id={styles.calendar}>
         <div>
           <h2 className={styles.day}>Monday</h2>
           <article className={styles.event}>
-            <h3>GraphQL Workshop</h3>
+            <h3>GraphQL Workshop (1/2)</h3>
             <p>Join Eve Porcello and Alex Banks for a 2-day workshop on building apps with GraphQL.</p>
             <p><a href="https://ti.to/moonhighway/graphql-seattle/discount/cascadiajs">Tickets</a></p>
           </article>
@@ -19,7 +20,7 @@ function CalendarPage ({ data }) {
         <div>
           <h2 className={styles.day}>Tuesday</h2>
           <article className={styles.event}>
-            <h3>GraphQL Workshop</h3>
+            <h3>GraphQL Workshop (2/2)</h3>
             <p>Day Two of the 2-day GraphQL workshop.</p>
           </article>
           <article className={styles.event}>
@@ -38,7 +39,7 @@ function CalendarPage ({ data }) {
         <div>
           <h2 className={styles.day}>Thursday</h2>
           <article className={styles.event}>
-            <h3>CascadiaJS</h3>
+            <h3>CascadiaJS (1/2)</h3>
             <p>Day One of the 2-day CascadiaJS conference.</p>
             <p><a href="https://ti.to/event-loop/cascadiajs-2018">Tickets</a></p>
           </article>
@@ -50,7 +51,7 @@ function CalendarPage ({ data }) {
         <div>
           <h2 className={styles.day}>Friday</h2>
           <article className={styles.event}>
-            <h3>CascadiaJS</h3>
+            <h3>CascadiaJS (2/2)</h3>
             <p>Day Two of the 2-day CascadiaJS conference.</p>
           </article>
           <article className={styles.event}>
