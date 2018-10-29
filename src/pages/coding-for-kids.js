@@ -31,7 +31,6 @@ function KidsPage ({ data }) {
       <h1>Coding for Kids Workshop Day</h1>
       <img alt="kid coding" src="/catherine-shadow.svg" id={styles.hero}/>
       <p>CascadiaJS and Microsoft are co-hosting a Coding for Kids workshop at the Microsoft Reactor in South Lake Union. This event is inspired by a <a href="https://www.geekwire.com/2018/will-8-year-old-girl-stick-coding-fun-project-dad-attracts-gifts-tech-community/">cool experience</a> that a local 2nd grader had learning to code and collecting dev stickers this past summer. The goal of this event is to introduce area kids to coding in a <strong>welcoming</strong> and <strong>fun</strong> environment. We will have a bunch of different workshops targeted at different age groups, so there should be something for everybody. Here are some important details:</p>
-      <p><br/><span className="exclaim">HELP: We are looking for someone to lead a workshop for kids <strong>9 and under</strong>!</span></p><br/>
       <table>
         <tr>
           <th>Date</th><td>Saturday, Nov 17</td>
@@ -63,7 +62,6 @@ function KidsPage ({ data }) {
       </table>
       <p><a href="https://www.eventbrite.com/e/cascadian-coding-for-kids-tickets-51272915671" className="cta">Register</a></p>
       <h2>Schedule</h2>
-      <p><i>Draft schedule– more coming soon!</i></p>
       <table id={styles.schedule}>
         <tr>
           <th>9:00am</th>
@@ -77,7 +75,7 @@ function KidsPage ({ data }) {
           <th>10:00am</th>
           <td><a href="#p5js">Making Art in the Browser</a></td>
           <td><a href="#roblox">Build a Game with Roblox</a></td>
-          <td><a href="#tbd">Morning Workshop TBA</a></td>
+          <td><a href="#scratch">Scratch Workshop</a></td>
         </tr>
         <tr>
           <th>12:30pm</th>
@@ -87,7 +85,7 @@ function KidsPage ({ data }) {
           <th>1:30pm</th>
           <td><a href="#tessel">Tessel Photo-Tweeter</a></td>
           <td><a href="#jsquest">JSQuest</a></td>
-          <td><a href="#tbd">Afternoon Workshop TBD</a></td>
+          <td><a href="#misty">Misty Robot Workshop</a></td>
         </tr>
         <tr>
           <th>4:00pm</th>
@@ -104,6 +102,7 @@ function KidsPage ({ data }) {
         <p><img src="/tessel.png" alt="Tessel tweet"/></p>
         <p><strong>Description:</strong> Build a portable photo-bot that takes pictures and posts them to Twitter! Start by making a social-media-happy robot, then build from there: Can you @-tweet to it to ask it for a photo? What if you could make it take a picture by clapping? What if it did something right before taking the picture that made the photo subjects react? What if it took a picture every 4 seconds, like a time lapse? Extra hardware/sensors will be around, and so will mentors. What will you build?</p>
         <p><strong>Recommended age range:</strong> Middle school and up. No prior experience with software or hardware required. But for the pros, this workshop is designed to let you set your own challenge!</p>
+        <p><strong>Required Equipment:</strong> A laptop (not a Chromebook) that can connect to Wi-Fi, ideally with <a href="https://nodejs.org/en/">Node (LTS)</a> pre-installed.</p>
       </div>
       <div id="p5js" className={styles.workshop}>
         <h3>Making Art in the Browser</h3>
@@ -126,10 +125,17 @@ function KidsPage ({ data }) {
         <p><strong>Recommended age range:</strong> 10-12</p>
         <p><strong>Required Equipment:</strong> Fully charged laptop running Windows or Mac OS, <a href="https://www.roblox.com/create">Roblox Studio</a> and a <a href="https://www.roblox.com/account/signupredir">Roblox user account</a> (all free)</p>
       </div>
-      <div id="tbd" className={styles.workshop}>
-        <h3>More workshops coming!</h3>
-        <p>We plan to add a few more workshops for younger kids, so please stay tuned! Feel free to RSVP for a Parent Ticket and that way we can email you when there are updates. Thanks!</p>
-        <p>If you might be interested in <strong>LEADING</strong> a workshop, please let us know: carter@cascadiajs.com</p>
+      <div id="scratch" className={styles.workshop}>
+        <h3>Scratch Workshop</h3>
+        <p><strong>Description:</strong> Details for the <a href="https://scratch.mit.edu/">Scratch</a> workshop coming soon!</p>
+        <p><strong>Recommended age range:</strong> 6 and up</p>
+        <p><strong>Required Equipment:</strong> A computer</p>
+      </div>
+      <div id="misty" className={styles.workshop}>
+        <h3>Programming Misty the Robot</h3>
+        <p><strong>Description:</strong> Details for the <a href="https://www.mistyrobotics.com/">Misty</a> workshop coming soon!</p>
+        <p><strong>Recommended age range:</strong> 6 and up</p>
+        <p><strong>Required Equipment:</strong> Computer with wifi</p>
       </div>
       <h2>Event Sponsor</h2>
       <p><a href="https://developer.microsoft.com/en-us/reactor/"><img src="/reactor-seaplane.png" alt="microsoft reactor"/></a></p>
