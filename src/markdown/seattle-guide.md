@@ -1,12 +1,13 @@
 ---
 title: "Guide to Seattle"
 ---
+Quick Links: [Map](#map) • [Directions](#directions) • [Places to Eat](#places-to-eat) • [Things to Do](#things-to-do)
 
-Here's a handy Google Map of the important places for CascadiaJS 2018:
+<h2 id="map">Map of Seattle</h2>
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1UwnlkrAn24nvcvg_0QTn5hnV0RytlBtf&hl=en" width="100%" height="480"></iframe>
 
-## Getting to the Conference Venue
+<h2 id="directions">Getting to the Conference Venue</h2>
 
 We strongly encourage folks to take public transportation to the conference and to arrive as early as possible. The Amazon Meeting Center is located in downtown Seattle and the traffic is pretty awful during the work week. 
 
@@ -51,7 +52,7 @@ You can also take the local 21 bus (Westwood Village Via 35th Ave SW):
 * Walk north half a block
 * Arrive at 2245 1st Ave S
 
-## Places to Eat
+<h2 id="places-to-eat">Places to Eat</h2>
 
 **Breakfast**
 
@@ -74,7 +75,7 @@ You can also take the local 21 bus (Westwood Village Via 35th Ave SW):
 * [Radiator Whiskey](https://www.yelp.com/biz/radiator-whiskey-seattle)
 * [Matt's in the Market](https://www.yelp.com/biz/matts-in-the-market-seattle)
 
-## Weekend Fun
+<h2 id="things-to-do">Weekend Fun</h2>
 
 * [MoPOP]() - currently featuring an exhibit on with movie props from SciFi, fantasy and horror movies.
 * [Seattle Bouldering Project](https://seattleboulderingproject.com/) - indoor rock climbing

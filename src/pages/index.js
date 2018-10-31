@@ -123,12 +123,9 @@ function IndexPage ({data}) {
         </section>
         <section id="sponsors">
           <h2>We <span role="img" aria-label="heart">❤️</span> Our Sponsors</h2>
-          <section id="platinum">
-            <div><a href="https://developer.amazon.com/"><img src="/amazon-logo.jpg" alt="Amazon logo"/></a></div>
-          </section>
           <section id="gold">
+            <div><a href="https://developer.amazon.com/"><img src="/amazon-logo.jpg" alt="Amazon logo"/></a></div>
             <div><a href="https://developer.amazon.com/"><img src="/logos/aws.svg" alt="AWS logo"/></a></div>
-            <div><Link className="sponsorBtn cta" to="/call-for-sponsors">Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
           </section>
           <section id="silver">
             <div><a href="https://formidable.com/"><img src="/formidable.png" alt="Formidable logo"/></a></div>
@@ -139,7 +136,7 @@ function IndexPage ({data}) {
             <div><a href="https://www.genui.co/"><img src="/logos/genui.jpg" alt="Gen/UI logo"/></a></div>
             <div><a href="https://developer.microsoft.com/en-us/advocates/index.html"><img src="/azure.png" alt="Azure logo"/></a></div>
             <div><a href="https://www.smartsheet.com"><img src="/logos/smartsheet.png" alt="Smartsheet logo"/></a></div>
-            <div><Link className="sponsorBtn cta" to="/call-for-sponsors">Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
+            <div><a href="https://www.mistyrobotics.com/"><img src="/logos/misty.svg" alt="Misty Robotics logo"/></a></div>
           </section>
           <section id="community">
             <div><a href="https://egghead.io/"><img src="/egghead-logo.png" alt="Egghead logo"/></a></div>
