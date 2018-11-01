@@ -132,18 +132,20 @@ function IndexPage ({data}) {
             <div><a href="https://fizbuz.com/"><img src="/fizbuz.svg" alt="Fizbuz logo"/></a></div>
             <div><a href="https://twilio.com/"><img src="/logos/twilio.svg" alt="Twilio logo"/></a></div>
             <div><a href="https://esri.com/"><img src="/logos/esri.svg" alt="Esri logo"/></a></div>
-            <div><a href="https://www.slalom.com/"><img src="/slalom-logo.png" alt="Slalom logo"/></a></div>
-            <div><a href="https://www.genui.co/"><img src="/logos/genui.jpg" alt="Gen/UI logo"/></a></div>
             <div><a href="https://developer.microsoft.com/en-us/advocates/index.html"><img src="/azure.png" alt="Azure logo"/></a></div>
             <div><a href="https://www.smartsheet.com"><img src="/logos/smartsheet.png" alt="Smartsheet logo"/></a></div>
-            <div><a href="https://www.mistyrobotics.com/"><img src="/logos/misty.svg" alt="Misty Robotics logo"/></a></div>
           </section>
           <section id="community">
             <div><a href="https://egghead.io/"><img src="/egghead-logo.png" alt="Egghead logo"/></a></div>
             <div><a href="https://mozilla.com/"><img src="/mozilla-logo.png" alt="Mozilla logo"/></a></div>
             <div><a href="https://www.dayback.com/"><img src="/dayback-logo.png" alt="Dayback logo"/></a></div>
-            <div><Link className="sponsorBtn cta" to="/call-for-sponsors">Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
-            <div><Link className="sponsorBtn cta" to="/call-for-sponsors">Sponsor <span role="img" aria-label="high five!">🙌</span></Link></div>
+            <div><a href="https://www.saucelabs.com/"><img src="/logos/sauce-labs.png" alt="Sauce Labs logo"/></a></div>
+            <div><a href="https://www.genui.co/"><img src="/logos/genui.jpg" alt="Gen/UI logo"/></a></div>
+            <div><a href="https://www.slalom.com/"><img src="/slalom-logo.png" alt="Slalom logo"/></a></div>
+            <div><a href="https://www.mistyrobotics.com/"><img src="/logos/misty.svg" alt="Misty Robotics logo"/></a></div>
+            <div>&nbsp;</div>
+            <div>&nbsp;</div>
+            <div>&nbsp;</div>
           </section>
         </section>
         <section id="contact">
