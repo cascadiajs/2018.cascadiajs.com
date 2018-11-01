@@ -64,7 +64,7 @@ function CalendarPage ({ data }) {
           <article className={styles.event}>
             <h3>Coding for Kids</h3>
             <p>A day full of coding workshops targeted at kids of all ages.</p>
-            <p><a href="https://www.eventbrite.com/e/cascadian-coding-for-kids-tickets-51272915671">Register</a></p>
+            <p><a href="/coding-for-kids">More Info</a></p>
           </article>
           <article className={styles.event}>
             <h3>React Training</h3>

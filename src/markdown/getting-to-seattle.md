@@ -23,7 +23,7 @@ If you are traveling to the United States from another country, **PLEASE** ensur
 
 ## Hacker Trains
 
-<span class="exclaim">👉 Deadline to Book is <strong>OCT 26</strong></div>
+<span class="exclaim">👉 Deadline to Book is <strong>NOV 1</strong></div>
 
 ![Amtrak Cascades train](/amtrakcascades.jpg)
 
@@ -37,6 +37,13 @@ All aboard the Hacker Train! If you live in Portland, OR or Vancouver, BC there 
 * Departs 5:45pm, arrives at 10:05pm
 
 <a href="https://ti.to/event-loop/cascadiajs-2018/with/stsl74p1gew"  class="cta">Buy Vancouver Ticket</a>
+
+### Departing Bellingham, WA
+
+* Wednesday, Nov 14
+* Departs 7:44pm, arrives at 10:05pm
+
+<a href="https://ti.to/event-loop/cascadiajs-2018/with/gufmqyuehx4"  class="cta">Buy Bellingham Ticket</a>
 
 ### Departing Portland, OR
 

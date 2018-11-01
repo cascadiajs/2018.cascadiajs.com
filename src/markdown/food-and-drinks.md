@@ -76,11 +76,17 @@ Here is a [link](https://www.amtrak.com/content/dam/projects/dotcom/english/publ
 * Veggie Bahn Mi (VE)
   * tofu, spicy vegan aioli, carrot, cucumber, pickled onion, fresh cilantro, baguette
   * served with VEGAN Greek pasta salad, Tim's potato chips & vegan house made tahini cookie
-* Roasted Beet Salad (v,gf)
+* Roasted Beet Salad (V, GF)
   * spring greens, blue cheese, candied walnuts, balsamic vinaigrette
   * served with whole fresh fruit, & vegan house made tahini cookie
 
-**Closing Party**
+**Closing Party - Food Truck**
+
+*Coming soon*
+
+*Please note that these items are not free or included in your conference or train ticket. We're just pointing you to the menu.*
+
+**Closing Party - Snacks**
 
 *Coming soon*
 
