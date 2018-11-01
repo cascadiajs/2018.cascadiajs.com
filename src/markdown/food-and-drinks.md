@@ -3,9 +3,9 @@ title: "Food and Drinks"
 ---
 This year we are publishing information on the food we are serving or making available at CascadiaJS. While we make an effort to account for folk's dietary restrictions, we know we cannot accommodate everyone. So hopefully this information can help people plan approporiately.
 
-*(V) = vegetarian, (VE) = vegan, (GF) = gluten free*
+Check out our [Seattle Guide](/seattle-guide) for a list of places to eat!
 
-[Places to eat](/seattle-guide#eat)
+*(V) = vegetarian, (VE) = vegan, (GF) = gluten free*
 
 ## Nov 14
 
@@ -82,13 +82,21 @@ Here is a [link](https://www.amtrak.com/content/dam/projects/dotcom/english/publ
 
 **Closing Party - Food Truck**
 
-*Coming soon*
+Here's a link to the Chicago West food truck [menu](/chicago-west-menu.pdf).
 
 *Please note that these items are not free or included in your conference or train ticket. We're just pointing you to the menu.*
 
 **Closing Party - Snacks**
 
-*Coming soon*
+* Selection of gourmet cured meats & cheeses
+* Artisan breads, dried fruit and nuts
+* Anti-pasto veggies (olives, mushrooms, artichokes)
+* Pita & hummus
+* Beecher's Mac & Cheese
+* Northwest Smoked Salmon board
+* Salted caramels & cookies
+
+*We strongly encourage everyone to grab dinner prior to attending the Closing Party. These snacks should not be considered a meal replacement.*
 
 ## Nov 17
 

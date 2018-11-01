@@ -40,11 +40,13 @@ function CalendarPage ({ data }) {
           <h2 className={styles.day}>Thursday</h2>
           <article className={styles.event}>
             <h3>CascadiaJS (1/2)</h3>
+            <p><sub>8:00am - 5:45pm</sub></p>
             <p>Day One of the 2-day CascadiaJS conference.</p>
             <p><a href="https://ti.to/event-loop/cascadiajs-2018">Tickets</a></p>
           </article>
           <article className={styles.event}>
             <h3>Opening Party</h3>
+            <p><sub>8:00pm - midnight</sub></p>
             <p>Private screening at Cinerama.</p>
           </article>
         </div>
@@ -52,10 +54,12 @@ function CalendarPage ({ data }) {
           <h2 className={styles.day}>Friday</h2>
           <article className={styles.event}>
             <h3>CascadiaJS (2/2)</h3>
+            <p><sub>8:00am - 5:45pm</sub></p>
             <p>Day Two of the 2-day CascadiaJS conference.</p>
           </article>
           <article className={styles.event}>
             <h3>Closing Party</h3>
+            <p><sub>6:30pm - 11:30pm</sub></p>
             <p>Fun, friends and karaoke at Living Computers!</p>
           </article>
         </div>
