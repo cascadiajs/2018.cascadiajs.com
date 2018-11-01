@@ -75,7 +75,7 @@ function KidsPage ({ data }) {
           <th>10:00am</th>
           <td><a href="#p5js">Making Art in the Browser</a></td>
           <td><a href="#roblox">Build a Game with Roblox</a></td>
-          <td><a href="#scratch">Scratch Workshop</a></td>
+          <td><a href="#scratch">Intro to Programming Using Scratch</a></td>
         </tr>
         <tr>
           <th>12:30pm</th>
@@ -126,10 +126,11 @@ function KidsPage ({ data }) {
         <p><strong>Required Equipment:</strong> Fully charged laptop running Windows or Mac OS, <a href="https://www.roblox.com/create">Roblox Studio</a> and a <a href="https://www.roblox.com/account/signupredir">Roblox user account</a> (all free)</p>
       </div>
       <div id="scratch" className={styles.workshop}>
-        <h3>Scratch Workshop</h3>
-        <p><strong>Description:</strong> Details for the <a href="https://scratch.mit.edu/">Scratch</a> workshop coming soon!</p>
-        <p><strong>Recommended age range:</strong> 6 and up</p>
-        <p><strong>Required Equipment:</strong> A computer</p>
+        <h3>Intro to Programming Using Scratch</h3>
+        <p><img src="/scratch.png" alt="Scratch"/></p>
+        <p><strong>Description:</strong> In this workshop, we will go over the basic concepts of how to make a computer program using <a href="https://scratch.mit.edu/">Scratch</a>. Scratch, by MIT, allows students to drag and drop logic blocks in a visual interface to create a program. The program comes to life using sprites, backgrounds, and sounds on a stage. By manipulating the order of the logic blocks and their configuration values, students will be able to create an animated story to share with their friends and family.</p>
+        <p><strong>Recommended age range:</strong> Grades 1-4, no prior programming experience needed. Participants need to be able to read and do basic addition and subtraction.</p>
+        <p><strong>Required Equipment:</strong> A laptop with a web browser and Adobe Flash installed. Optionally, parents can <a href="https://scratch.mit.edu/">create an account on Scratch</a> so students can save their work.</p>
       </div>
       <div id="misty" className={styles.workshop}>
         <h3>Programming Misty the Robot</h3>
