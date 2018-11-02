@@ -64,9 +64,9 @@ Another great option is to take the [Light Rail](https://www.soundtransit.org/Sc
 
 ## Hotels
 
-<span class="exclaim">👉 Discounted group rate expires <strong>OCT 8</strong></div>
-
 ### Moxy Seattle
+
+1016 Republican St, Seattle, WA 98109 [(map)](https://goo.gl/maps/mWvQN2wntCK2)
 
 ![Moxy Seattle hotel](/moxy-exterior.jpg)
 
@@ -78,7 +78,9 @@ Another great option is to take the [Light Rail](https://www.soundtransit.org/Sc
 
 ### Thompson Seattle
 
-![Moxy Seattle hotel](/thompson-exterior.jpg)
+110 Stewart St, Seattle, WA 98101 [(map)](https://goo.gl/maps/XWLNuojh5KL2)
+
+![Thompson Seattle hotel](/thompson-exterior.jpg)
 
 * King and Double Queen rooms
 * Rooftop Deck 
