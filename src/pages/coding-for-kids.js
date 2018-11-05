@@ -85,7 +85,7 @@ function KidsPage ({ data }) {
           <th>1:30pm</th>
           <td><a href="#tessel">Tessel Photo-Tweeter</a></td>
           <td><a href="#jsquest">JSQuest</a></td>
-          <td><a href="#misty">Misty Robot Workshop</a></td>
+          <td><a href="#misty">How to Train a Robot</a></td>
         </tr>
         <tr>
           <th>4:00pm</th>
@@ -133,10 +133,11 @@ function KidsPage ({ data }) {
         <p><strong>Required Equipment:</strong> A laptop with a web browser and Adobe Flash installed. Optionally, parents can <a href="https://scratch.mit.edu/">create an account on Scratch</a> so students can save their work.</p>
       </div>
       <div id="misty" className={styles.workshop}>
-        <h3>Programming Misty the Robot</h3>
-        <p><strong>Description:</strong> Details for the <a href="https://www.mistyrobotics.com/">Misty</a> workshop coming soon!</p>
+        <h3>How to Train a Robot</h3>
+        <p><img src="/misty.jpg" alt="misty"/></p>
+        <p><strong>Description:</strong> In this workshop we will introduce kids to the wonderful world of <a href="https://www.mistyrobotics.com/">personal robots</a> and how to train (program) them. They will learn how to program a robot using Blockly, make it move, recognize faces and give it a personality.</p>
         <p><strong>Recommended age range:</strong> 6 and up</p>
-        <p><strong>Required Equipment:</strong> Computer with wifi</p>
+        <p><strong>Required Equipment:</strong> Laptop with wifi, able to access http://blockly.mistyrobotics.com/</p>
       </div>
       <h2>Event Sponsor</h2>
       <p><a href="https://developer.microsoft.com/en-us/reactor/"><img src="/reactor-seaplane.png" alt="microsoft reactor"/></a></p>
