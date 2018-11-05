@@ -77,13 +77,6 @@
         "github": "shannonlcapper"
     },
     {
-        "name": "Yash Kulshrestha",
-        "talk": "Canaries and Acceptance Testing Using Docker",
-        "blurb": "In this talk, we'll go over how to write canaries and integration tests using Puppeteer, an automation framework and Jest, a BDD testing framework. Then we'll add the special sauce to the mix - Docker. This helps us run tests on the developer's machine, as part of the code release workflow and also as a deep health check Canary for the service; in house or in the cloud!",
-        "avatar": "/speakers/yash.jpg",
-        "twitter": "YashdalfTheGray"
-    },
-    {
         "name": "Dominic Farolino",
         "talk": "Hitchhiker's Guide to Web Standards",
         "blurb": "Web standards and their corresponding organizations can be your best friend, and extremely daunting at the same time. As a web developer, you are in the unique position of being able to influence the platform you develop on every day - so come and learn how the world of web standards works, how to contribute to the web standards community, and about some of the latest platform trends.",
