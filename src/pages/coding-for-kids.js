@@ -45,7 +45,7 @@ function KidsPage ({ data }) {
           <th>Location</th><td>Microsoft Reactor Seattle, 320 Westlake Ave N, Seattle, WA 98109</td>
         </tr>
         <tr>
-          <th>Parking</th><td>Parking validated at 320 Westlake and 321 Terry parking garages</td>
+          <th>Parking</th><td>Parking validated at 321 Terry parking garage</td>
         </tr>
         <tr>
           <th>Code of Conduct</th><td>All attendees must abide by the <a href="https://developer.microsoft.com/en-us/reactor/CodeOfConduct">Microsoft Reactor Code of Conduct</a></td>
