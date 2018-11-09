@@ -1,10 +1,12 @@
 import React from 'react';
-import Link from 'gatsby-link';
+// import Link from 'gatsby-link';
 import Helmet from 'react-helmet';
 import MailChimpForm from '../components/mailChimpForm';
 import PropTypes from 'prop-types';
+import Schedule from '../components/schedule';
 import Organizers from '../components/organizers';
 import Speakers from '../components/speakers';
+import Conf from '../components/conf';
 import './index.css';
 
 function IndexPage ({data}) {
@@ -52,38 +54,8 @@ function IndexPage ({data}) {
             <p><a className="cta" href="/seattle-guide">Learn More</a></p>
           </div>
         </section>
-        <section id="conf">
-          <div id="talks">
-            <div>
-              <img id="coffee" src="/coffee.svg" alt="coffee sticker"/>
-            </div>
-            <div id="tickets">
-              <p><img src="/the-conference.svg" alt="the conference sticker"/></p>
-              <h2>Two Days of Talks</h2>
-              <p>CascadiaJS features a single track of 24 amazing speakers discussing the cutting-edge of JavaScript, web development and engineering culture over the course of 2 days. Topics include: Serverless, Distributed Web, React, Web Assembly, Accessiblity, Voice Interfaces and more!</p>
-              <p><a className="primary cta" href="https://ti.to/event-loop/cascadiajs-2018" title="Tickets On Sale!">Purchase Tickets</a></p>
-            </div>
-            <div>
-              <img src="/mushroom.svg" alt="mushroom sticker"/>
-            </div>
-          </div>
-          <div id="extras">
-            <div id="closing">
-              <h3>Social Fun Times</h3>
-              <p>Following both days of talks, we will be organizing awesome evening events for folks to unwind and enjoy the company of new friends. We are renting out <a href="https://cinerama.com/">Cinerama</a> for a private screening and the Closing Party will be held at the <a href="https://livingcomputers.org/">Living Computer Museum</a> for a night of fun and hacking!</p>
-              <p><img src="/old-fashioned.svg" alt="old fashioned cocktail sticker"/></p>
-            </div>
-            <div id="scholarships">
-              <h3>Scholarships</h3>
-              <p>In order to make CascadiaJS as accessible as possible, we are working with local tech companies to fund a <a href="/scholarships">Scholarship Program</a> If you are a member of an under-represented group in tech or have financial constraints, please apply!</p>
-              <p><img src="/banana-slug.svg" alt="banana slug sticker"/></p>
-            </div>
-            <div>
-              <h3>Code of Conduct</h3>
-              <p>We work hard to provide a safe and inclusive environment for everyone! We expect, and require, all organizers, sponsors, speakers, volunteers, and attendees of all levels to adhere to our <Link to="/code-of-conduct">Code of Conduct</Link></p>
-              <p><img src="/flower.svg" alt="flower sticker"/></p>
-            </div>
-          </div>
+        <section id="schedule">
+          <Schedule speakers={data.site.siteMetadata.speakers}/>
         </section>
         <section id="postconf">
           <div>
@@ -105,7 +77,7 @@ function IndexPage ({data}) {
             <p><a className="cta" href="/coding-for-kids">Details</a></p>
           </div>
         </section>
-        <section id="code-of-conduct">
+        <section id="venue">
           <h2>Venue</h2>
           <p>
             Amazon Meeting Center<br/>

@@ -1,0 +1,65 @@
+#component h2 {
+    margin-bottom: 10px;
+}
+
+#component p {
+    text-align:center;
+}
+
+.item {
+    display: flex;
+}
+
+.item .time {
+    padding: 5px;
+    color: #999;
+    flex: initial;
+    width: 75px;
+}
+
+.item .desc {
+    border-left: 1px solid #ccc;
+    padding: 5px 0 5px 30px;
+    flex: initial;
+    width: 100%;
+}
+
+.item .desc .box {
+    display: flex;
+}
+
+.item .desc .box div {
+    align-self: center;
+    justify-self: center;
+    margin-right: 10px;
+}
+
+.item div {
+    align-self: center;
+    justify-self: center;
+}
+
+.item .title {
+    font-weight: 900;
+}
+
+.item .talk {
+    margin-bottom: 5px;
+}
+
+.item img {
+    max-height: 40px;
+}
+
+@media only screen and (min-width: 768px) { 
+    #component {
+        width: 80vw;
+        margin: 0 auto;
+    }
+
+    #days {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 40px;
+    }
+}

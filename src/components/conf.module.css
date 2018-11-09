@@ -1,0 +1,41 @@
+#component {
+    font-size: 1.6vh;
+    text-align: center;
+}
+
+#component #coffee {
+    display: none;
+}
+
+@media only screen and (min-width: 768px) { 
+    #component #coffee {
+        display: inline;
+    }
+
+    #component div {
+        align-self: center;
+        justify-self: center;
+        padding: 10px;
+    }
+
+    #talks, #extras {
+        display: flex;
+    }
+
+    #talks img {
+        height: 200px;
+    }
+    
+    #talks {
+        font-size: 120%;
+    }
+    
+    #extras img {
+        height: 150px;
+    }
+    
+    #tickets {
+        flex:initial;
+        width: 75%;
+    }
+}
