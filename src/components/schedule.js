@@ -16,7 +16,6 @@ function Schedule ({ speakers }) {
   return (
     <div id={styles.component}>
       <p><img src="/the-conference.svg" alt="the conference sticker"/></p>
-      <p>CascadiaJS features a single track of 24 amazing speakers discussing the cutting-edge of JavaScript, web development and engineering culture over the course of 2 days. Topics include: Serverless, Distributed Web, React, Web Assembly, Accessiblity, Voice Interfaces and more! We also work hard to provide a <strong>safe</strong> and <strong>inclusive</strong> environment for everyone! We expect, and require, all organizers, sponsors, speakers, volunteers, and attendees of all levels to adhere to our <Link to="/code-of-conduct">Code of Conduct</Link>.</p>
       <p><a className="primary cta" href="https://ti.to/event-loop/cascadiajs-2018" title="Tickets On Sale!">Purchase Tickets</a></p>
       <div id={styles.days}>
         <div id={styles.dayone}>

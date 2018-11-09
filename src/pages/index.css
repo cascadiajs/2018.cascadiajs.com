@@ -1,3 +1,7 @@
+section {
+    padding: 10px;
+}
+
 .tree, .sticker-location, .sticker-dates, a.sponsorBtn {
     display: none;
 }
@@ -11,6 +15,10 @@
     height: 200px;
 }
 
+#tagline {
+    text-align: center;
+}
+
 #preconf {
     text-align: center;
 }
@@ -21,10 +29,6 @@
 
 #preconf, #postconf {
     font-size: 1.6vh;
-}
-
-section {
-    padding: 20px 30px;
 }
 
 .dates {
@@ -49,7 +53,10 @@ a.primary {
 }
 
 @media only screen and (min-width: 768px) { 
-
+    section {
+        padding: 10px 30px;
+    }
+    
     #hero img, #postconf img {
         height: 100%;
         width: 100%;

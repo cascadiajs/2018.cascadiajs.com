@@ -1,5 +1,5 @@
 import React from 'react';
-// import Link from 'gatsby-link';
+import Link from 'gatsby-link';
 import Helmet from 'react-helmet';
 import MailChimpForm from '../components/mailChimpForm';
 import PropTypes from 'prop-types';
@@ -35,6 +35,9 @@ function IndexPage ({data}) {
           <div><img src="/logo.svg" alt="logo sticker"/></div>
           <div><img className="sticker-location" src="/seattle.svg" alt="Seattle sticker"/></div>
           <div><img className="tree" src="/tree.svg" alt="tree sticker"/></div>
+        </section>
+        <section id="tagline">
+          <p>CascadiaJS features a single track of 24 amazing speakers discussing the cutting-edge of JavaScript, web development and engineering culture over the course of 2 days. We also work hard to provide a <strong>safe</strong> and <strong>inclusive</strong> environment for everyone! We expect, and require, all organizers, sponsors, speakers, volunteers, and attendees of all levels to adhere to our <Link to="/code-of-conduct">Code of Conduct</Link>.</p>
         </section>
         <section id="preconf">
           <div id="preparing-for-cascadia">
