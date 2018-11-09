@@ -11,18 +11,16 @@
     height: 200px;
 }
 
-#preconf>div, #postconf>div {
+#preconf {
+    text-align: center;
+}
+
+#postconf>div {
     padding-right: 30px;
 }
 
-
-
 #preconf, #postconf {
     font-size: 1.6vh;
-}
-
-section h2, section p, section .cta {
-    /*margin: 0px 20px 5px 20px;*/
 }
 
 section {
@@ -67,8 +65,14 @@ a.primary {
         grid-gap: 20px;
         grid-template-rows: 20vw;
     }
-    
-    #preconf, #postconf {
+   
+    #preconf {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        text-align: center;
+    }
+
+   #postconf {
         display: flex;
     }
 

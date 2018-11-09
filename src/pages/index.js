@@ -38,19 +38,13 @@ function IndexPage ({data}) {
         </section>
         <section id="preconf">
           <div id="preparing-for-cascadia">
-            <h3>Preparing for Cascadia</h3>
-            <p>In order to get the most out of your CascadiaJS experience, it helps to get prepared. Whether it&apos;s booking a dinner reservation before the Opening Party or making sure you pack a water bottle, we have put together a list of tips and tricks to make sure you have everything covered for Nov 15-16.</p>
-            <p><a className="cta" href="/preparing-for-cascadia">Learn More</a></p>
+            <p><a className="cta" href="/preparing-for-cascadia">Preparing for Cascadia</a></p>
           </div>
           <div id="getting-to-seattle">
-            <h3>Travel and Lodging</h3>
-            <p>For those of you who do not live in Seattle, we have you covered! Please check out our travel guide for more information about how to get to Seattle and where to stay while you are here.</p>
-            <p><a className="cta" href="/getting-to-seattle">Learn More</a></p>
+            <p><a className="cta" href="/getting-to-seattle">Travel and Lodging</a></p>
           </div>
           <div id="seattle-guide">
-            <h3>Getting Around Seattle</h3>
-            <p>CascadiaJS isn&apos;nt just happening at the Amazon Meeting Center, we&apos;re putting together awesome events all over Seattle. So if you&apos;re not sure how to get to Living Computers, or you&apos;re wondering what good restaurants are nearby Cinerama, our Seattle guide will have you covered.</p>
-            <p><a className="cta" href="/seattle-guide">Learn More</a></p>
+            <p><a className="cta" href="/seattle-guide">Seattle Guidebook</a></p>
           </div>
         </section>
         <section id="schedule">

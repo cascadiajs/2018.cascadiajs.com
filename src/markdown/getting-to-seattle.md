@@ -1,8 +1,7 @@
 ---
 title: "Getting to Seattle"
 ---
-
-For those of you who don't live in Seattle, we have you covered! Please see below for more information about how to get to Seattle and where to stay while you're here.
+For those of you who do not live in Seattle, we have you covered! Please check out our travel guide for more information about how to get to Seattle and where to stay while you are here.
 
 ## Schedule
 
@@ -23,8 +22,6 @@ If you are traveling to the United States from another country, **PLEASE** ensur
 
 ## Hacker Trains
 
-<span class="exclaim">👉 Deadline to Book is <strong>NOV 1</strong></div>
-
 ![Amtrak Cascades train](/amtrakcascades.jpg)
 
 All aboard the Hacker Train! If you live in Portland, OR or Vancouver, BC there is **no better way** to get to CascadiaJS than to join your fellow devs on the Hacker Train. We have bought out cars on both a northbound train departing Portland, OR and a southbound train departing Vancouver, BC so that you can make some friends, fork repos on the in-train Wi-Fi and enjoy the beautiful views along the Puget Sound as you head to Seattle.
@@ -36,14 +33,14 @@ All aboard the Hacker Train! If you live in Portland, OR or Vancouver, BC there 
 * Wednesday, Nov 14
 * Departs 5:45pm, arrives at 10:05pm
 
-<a href="https://ti.to/event-loop/cascadiajs-2018/with/stsl74p1gew"  class="cta">Buy Vancouver Ticket</a>
+<a href="#"  class="nope">SOLD OUT</a>
 
 ### Departing Bellingham, WA
 
 * Wednesday, Nov 14
 * Departs 7:44pm, arrives at 10:05pm
 
-<a href="https://ti.to/event-loop/cascadiajs-2018/with/gufmqyuehx4"  class="cta">Buy Bellingham Ticket</a>
+<a href="#"  class="nope">SOLD OUT</a>
 
 ### Departing Portland, OR
 

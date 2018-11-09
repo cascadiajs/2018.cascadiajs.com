@@ -1,6 +1,8 @@
 ---
 title: "Preparing for CascadiaJS"
 ---
+In order to get the most out of your CascadiaJS experience, it helps to get prepared. Whether it&apos;s booking a dinner reservation before the Opening Party or making sure you pack a water bottle, we have put together a list of tips and tricks to make sure you have everything covered for Nov 15-16.
+
 Here are some important TODOS to ensure your conference experience is 💯:
 
 * Important emails will be coming from info@cascadiajs.com, make sure those are getting to your Inbox.

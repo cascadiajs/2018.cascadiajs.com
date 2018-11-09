@@ -1,6 +1,8 @@
 ---
 title: "Guide to Seattle"
 ---
+CascadiaJS isn&apos;nt just happening at the Amazon Meeting Center, we&apos;re putting together awesome events all over Seattle. So if you&apos;re not sure how to get to Living Computers, or you&apos;re wondering what good restaurants are nearby Cinerama, our Seattle guide will have you covered.
+
 Quick Links: [Map](#map) • [Directions](#directions) • [Places to Eat](#places-to-eat) • [Things to Do](#things-to-do)
 
 <h2 id="map">Map of Seattle</h2>
@@ -28,12 +30,16 @@ There are several public parking lots around the venue. Look for "P" signs. The 
 
 ## Getting to the Opening Party
 
+![cinerama](/logos/cinerama.png)
+
 **Directions from the Amazon Meeting Center to Cinerama (0.2 mile walk)**
 
 * Head southwest on Lenora
 * Arrive at 2100 4th Ave
 
 ## Getting to the Closing Party
+
+![living computer](/logos/livingcomputers.png)
 
 **Directions from the Amazon Meeting Center to the Living Computer Museum**
 
