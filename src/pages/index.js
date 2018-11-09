@@ -6,7 +6,6 @@ import PropTypes from 'prop-types';
 import Schedule from '../components/schedule';
 import Organizers from '../components/organizers';
 import Speakers from '../components/speakers';
-import Conf from '../components/conf';
 import './index.css';
 
 function IndexPage ({data}) {
