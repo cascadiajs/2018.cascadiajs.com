@@ -46,6 +46,9 @@ function IndexPage ({data}) {
           <div id="getting-to-seattle">
             <p><a className="cta" href="/getting-to-seattle">Travel and Lodging</a></p>
           </div>
+          <div id="food-drinks">
+            <p><a className="cta" href="/food-and-drinks">Food and Drinks</a></p>
+          </div>
           <div id="seattle-guide">
             <p><a className="cta" href="/seattle-guide">Seattle Guidebook</a></p>
           </div>

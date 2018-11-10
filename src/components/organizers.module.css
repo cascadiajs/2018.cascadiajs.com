@@ -10,7 +10,7 @@
         flex-wrap: wrap;
     }
 
-    #speakers div {
-        width: 250px;
+    #organizers div {
+        width: 225px;
     }
 }

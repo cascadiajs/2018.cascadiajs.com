@@ -98,6 +98,12 @@ Here's a link to the Chicago West food truck [menu](/chicago-west-menu.pdf).
 
 *We strongly encourage everyone to grab dinner prior to attending the Closing Party. These snacks should not be considered a meal replacement.*
 
+**Closing Party - Drinks**
+
+* Selection of non-alchoholic beverages
+* Selection of beers
+* Cocktails (vodka, gin & whiskey)
+
 ## Nov 17
 
 **Kid's Coding Workshops**
