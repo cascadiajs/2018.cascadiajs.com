@@ -108,7 +108,10 @@ Here's a link to the Chicago West food truck [menu](/chicago-west-menu.pdf).
 
 **Kid's Coding Workshops**
 
-*Coming soon*
+Subway boxed lunches:
+* Turkey, Ham and Veggie subs
+* Chips
+* Cookie
 
 **React Workshop**
 
