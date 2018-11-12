@@ -13,7 +13,7 @@ Quick Links: [Map](#map) • [Directions](#directions) • [Places to Eat](#plac
 
 We strongly encourage folks to take public transportation to the conference and to arrive as early as possible. The Amazon Meeting Center is located in downtown Seattle and the traffic is pretty awful during the work week. 
 
-There are several public parking lots around the venue. Look for "P" signs. The rates run roughly $20 for a full day.
+There are several public parking lots around the venue, here is a [link to a PDF](/amazon-parking.pdf) with more information.
 
 **Directions from the Thompson Seattle to the Amazon Meeting Center (0.5 mile walk)**
 
