@@ -47,7 +47,7 @@ All aboard the Hacker Train! If you live in Portland, OR or Vancouver, BC there 
 * Wednesday, Nov 14
 * Departs noon, arrives at 3:30pm
 
-<a href="https://ti.to/event-loop/cascadiajs-2018/with/m9cdejok4cc"  class="cta">Buy Portland Ticket</a>
+<a href="#"  class="nope">SOLD OUT</a>
 
 ### Directions from the King St Station to the Moxy Seattle or Thompson Seattle hotels
 
