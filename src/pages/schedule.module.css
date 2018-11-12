@@ -1,0 +1,15 @@
+@media only screen and (min-width: 768px) {
+    #page {
+    }
+
+    #page>div>div>div {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        height: 460px;
+    }
+
+    #page>div>div>div>div {
+        flex: 1 1 auto;
+    }
+}
