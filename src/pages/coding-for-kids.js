@@ -39,6 +39,9 @@ function KidsPage ({ data }) {
           <th>Ages</th><td>See workshops below</td>
         </tr>
         <tr>
+          <th>Supervision</th><td>This is <strong>NOT</strong> a drop-off event. You must be in the building the entire time your child is here.</td>
+        </tr>
+        <tr>
           <th>Cost</th><td>FREE, with a suggested donation of $5 going to the <a href="https://techaccess.org/about-us/">Tech Access Foundation</a>.</td>
         </tr>
         <tr>

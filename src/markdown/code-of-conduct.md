@@ -6,7 +6,8 @@ title: "Code of Conduct"
 If you have any questions, comments, concerns, or to report anything that makes you feel uncomfortable or unsafe, you can use these channels:
 
 * Email: [info@cascadiajs.com](mailto:info@cascadiajs.com)
-* In person: Any organizer, identified by STAFF badges.
+* Phone: Coming Soon
+* In Person: Any organizer, identified by STAFF (green) lanyards.
 
 ## The Quick Version
 
@@ -30,7 +31,7 @@ Any participant asked to stop any harassing behavior is expected to comply immed
 
 ### Reporting
 
-If you feel uncomfortable, are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference Staff are identified by STAFF badges or shirts for each day of CascadiaJS.
+If you feel uncomfortable, are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference Staff are identified by STAFF (green) lanyards.
 
 You can also send an email to [info@cascadiajs.com](mailto:info@cascadiajs.com).
 
