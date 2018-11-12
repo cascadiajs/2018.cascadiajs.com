@@ -12,13 +12,25 @@ title: "Advanced Topics and Patterns for React-based Web Apps"
 
 This workshop is for developers who are familiar with base React JS components, JSX, and modern JavaScript syntax.
 
+### Venue
+
+```
+Textio
+920 5th Ave Suite 2300
+Seattle, WA 98104
+```
+
 ### Agenda
+
+* 09:00am - doors open
+* 09:30am - morning session begins
+* 12:30am - lunch
+* 01:00pm - afternoon session begins
+* 04:00pm - workshop ends
 
 **Morning: Context, Higher–Order Components, Render Props, and Forms**
 
 We will start the workshop with covering state management and React’s new context feature. We’ll review best practices on when to pass data as props and when to use context. After that, the workshop will cover the differences between higher order components and render props. Finally, we’ll round out the morning with best practices for forms in React. We’ll look into how to get values in and out of form state, how to manage form validation and display errors, and how to use a validation schema.
-
-**Catered Lunch**
 
 **Afternoon: Routing and Animations**
 
