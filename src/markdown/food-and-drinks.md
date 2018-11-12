@@ -30,6 +30,8 @@ Here is a [link](https://www.amtrak.com/content/dam/projects/dotcom/english/publ
 * Tim's Potato Chips and Dips with house-made hummus and herbed ranch 
 * Whole Fresh Assorted Fruit (VE, GF)
 
+<section id="day1-lunch">
+
 **Conf Lunch**
 
 * Turkey Club Wrap
@@ -43,6 +45,7 @@ Here is a [link](https://www.amtrak.com/content/dam/projects/dotcom/english/publ
 * Moroccan Salad (VE, GF)
   * greens, quinoa, roasted carrot and cauliflower, dried apricot, hazelnut, red onion, lemon cumin vinaigrette
   * served with whole fresh fruit, & vegan house made tahini cookie
+</section>
 
 **Opening Party**
 
@@ -65,6 +68,8 @@ Here is a [link](https://www.amtrak.com/content/dam/projects/dotcom/english/publ
 * Erin's Popcorn
 * Whole Fresh Assorted Fruit (VE, GF)
 
+<section id="day2-lunch">
+
 **Conf Lunch**
 
 * The Italian
@@ -79,6 +84,8 @@ Here is a [link](https://www.amtrak.com/content/dam/projects/dotcom/english/publ
 * Roasted Beet Salad (V, GF)
   * spring greens, blue cheese, candied walnuts, balsamic vinaigrette
   * served with whole fresh fruit, & vegan house made tahini cookie
+
+</section>
 
 **Closing Party - Food Truck**
 

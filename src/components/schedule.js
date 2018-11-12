@@ -42,7 +42,7 @@ function Schedule ({ speakers }) {
             <div className={styles.time}><div>10:55am</div></div>
             <div className={styles.desc}>
               <div className={styles.box}>
-                <div>Coffee Break</div>
+                <div>Break</div>
                 <div><img src="/coffee.svg" alt="coffee sticker"/></div>
               </div>
             </div>
@@ -61,7 +61,7 @@ function Schedule ({ speakers }) {
             <div className={styles.time}><div>12:45pm</div></div>
             <div className={styles.desc}>
               <div className={styles.box}>
-                <div>Lunch</div>
+                <div><Link to="/food-and-drinks#day1-lunch">Lunch</Link></div>
                 <div><img src="/mushroom.svg" alt="mushroom sticker"/></div>
               </div>
             </div>
@@ -80,7 +80,7 @@ function Schedule ({ speakers }) {
             <div className={styles.time}><div>3:35pm</div></div>
             <div className={styles.desc}>
               <div className={styles.box}>
-                <div>Coffee Break</div>
+                <div>Break</div>
                 <div><img src="/coffee.svg" alt="coffee sticker"/></div>
               </div>
             </div>
@@ -128,7 +128,7 @@ function Schedule ({ speakers }) {
             <div className={styles.desc}>
               <div>
                 { speakerHash['Brian Leroux']}
-                <br/><br/>
+                { speakerHash['Laker Sparks']}
                 { speakerHash['Will Klein']}
               </div>
             </div>
@@ -137,7 +137,7 @@ function Schedule ({ speakers }) {
             <div className={styles.time}><div>10:55am</div></div>
             <div className={styles.desc}>
               <div className={styles.box}>
-                <div>Coffee Break</div>
+                <div>Break</div>
                 <div><img src="/coffee.svg" alt="coffee sticker"/></div>
               </div>
             </div>
@@ -156,7 +156,7 @@ function Schedule ({ speakers }) {
             <div className={styles.time}><div>12:45pm</div></div>
             <div className={styles.desc}>
               <div className={styles.box}>
-                <div>Lunch</div>
+                <div><Link to="/food-and-drinks#day2-lunch">Lunch</Link></div>
                 <div><img src="/mushroom.svg" alt="mushroom sticker"/></div>
               </div>
             </div>
@@ -175,7 +175,7 @@ function Schedule ({ speakers }) {
             <div className={styles.time}><div>3:35pm</div></div>
             <div className={styles.desc}>
               <div className={styles.box}>
-                <div>Coffee Break</div>
+                <div>Break</div>
                 <div><img src="/coffee.svg" alt="coffee sticker"/></div>
               </div>
             </div>
