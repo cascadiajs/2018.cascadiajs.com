@@ -56,6 +56,23 @@ function IndexPage ({data}) {
         <section id="schedule">
           <Schedule speakers={data.site.siteMetadata.speakers}/>
         </section>
+        <section id="hiring">
+          <h2>Companies Who Are Hiring</h2>
+          <div id="hiring-companies">
+            <div id="aws">
+              <a href="/job-profiles/aws-profile.pdf"><img src="/logos/aws.svg" alt="AWS logo"/></a>
+            </div>
+            <div id="genui">
+              <a href="/job-profiles/genui-profile.pdf"><img src="/logos/genui.jpg" alt="Gen/UI logo"/></a>
+            </div>
+            <div id="slalom">
+              <a href="/job-profiles/slalom-profile.pdf"><img src="/slalom-logo.png" alt="Slalom logo"/></a>
+            </div>
+            <div id="esri">
+              <a href="/job-profiles/esri-profile.pdf"><img src="/logos/esri.svg" alt="Esri logo"/></a>
+            </div>
+          </div>
+        </section>
         <section id="postconf">
           <div>
             <img src="/react.svg" alt="React logo"/>
