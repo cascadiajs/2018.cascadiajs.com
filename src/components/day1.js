@@ -97,6 +97,18 @@ function Day1 ({ speakers }) {
             <div className={styles.time}><div>5:25pm</div></div>
             <div className={styles.desc}>
               <div className={styles.box}>
+                <div><b>Diversity &amp; Inclusion in Tech</b><br/>
+                  Trish Dziko, <a href="https://techaccess.org/">Tech Access Foundation</a><br/>
+                  Dee Del Rosario, <a href="https://www.adadevelopersacademy.org/">Ada Developer Academy</a><br/>
+                  Logan Gore, <a href="https://www.un-loop.org/">Unloop</a><br/>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className={styles.item}>
+            <div className={styles.time}><div>5:45pm</div></div>
+            <div className={styles.desc}>
+              <div className={styles.box}>
                 <div>Wrap-up Day One</div>
               </div>
             </div>
