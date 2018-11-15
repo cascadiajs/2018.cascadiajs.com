@@ -1,7 +1,7 @@
 ---
 title: "Guide to Seattle"
 ---
-CascadiaJS isn&apos;nt just happening at the Amazon Meeting Center, we&apos;re putting together awesome events all over Seattle. So if you&apos;re not sure how to get to Living Computers, or you&apos;re wondering what good restaurants are nearby Cinerama, our Seattle guide will have you covered.
+CascadiaJS isn&apos;t just happening at the Amazon Meeting Center, we&apos;re putting together awesome events all over Seattle. So if you&apos;re not sure how to get to Living Computers, or you&apos;re wondering what good restaurants are nearby Cinerama, our Seattle guide will have you covered.
 
 Quick Links: [Map](#map) • [Directions](#directions) • [Places to Eat](#places-to-eat) • [Things to Do](#things-to-do)
 
@@ -83,6 +83,6 @@ You can also take the local 21 bus (Westwood Village Via 35th Ave SW):
 
 <h2 id="things-to-do">Weekend Fun</h2>
 
-* [MoPOP]() - currently featuring an exhibit on with movie props from SciFi, fantasy and horror movies.
+* [MoPOP](https://www.mopop.org/) - currently featuring an exhibit on with movie props from SciFi, fantasy and horror movies.
 * [Seattle Bouldering Project](https://seattleboulderingproject.com/) - indoor rock climbing
 * [NW Trail Runs](http://nwtrailruns.com/events/ravenna-refresher/) - 4k, 8k and 12k options for a trail run
