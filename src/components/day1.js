@@ -68,8 +68,8 @@ function Day1 ({ speakers }) {
             <div className={styles.time}>2:10pm</div>
             <div className={styles.desc}>
               <div>
-                { speakerHash['Shannon Foster']}
                 { speakerHash['Tre Ammatuna']}
+                { speakerHash['Shannon Foster']}
                 { speakerHash['Elgin-Skye McLaren']}
               </div>
             </div>
