@@ -22,7 +22,7 @@ Here is a [link](https://www.amtrak.com/content/dam/projects/dotcom/english/publ
 * Fresh Macrina Bakery Mini Pastries (V)
   * blueberry cornmeal muffins, cherry almond scones, country-style biscuits
   * whipped butter, preserves
-* Coffee (regular & decaf)
+* Coffee (regular) *no decaf, sorry*
 * Hot Tea
 
 **Afternoon Snacks**
@@ -60,7 +60,7 @@ Here is a [link](https://www.amtrak.com/content/dam/projects/dotcom/english/publ
 * Fresh Macrina Bakery Mini Pastries (V)
   * blueberry cornmeal muffins, cherry almond scones, country-style biscuits
   * whipped butter, preserves
-* Coffee (regular & decaf)
+* Coffee (regular) *no decaf, sorry*
 * Hot Tea
 
 **Afternoon Snacks**
