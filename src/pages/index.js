@@ -40,8 +40,8 @@ function IndexPage ({data}) {
           <p>CascadiaJS features a single track of 24 amazing speakers discussing the cutting-edge of JavaScript, web development and engineering culture over the course of 2 days. We also work hard to provide a <strong>safe</strong> and <strong>inclusive</strong> environment for everyone! We expect, and require, all organizers, sponsors, speakers, volunteers, and attendees of all levels to adhere to our <Link to="/code-of-conduct">Code of Conduct</Link>.</p>
         </section>
         <section id="preconf">
-          <div id="preparing-for-cascadia">
-            <p><a className="cta" href="/preparing-for-cascadia">Preparing for Cascadia</a></p>
+          <div id="accessibility">
+            <p><a className="cta" href="/accessibility">Accessibility</a></p>
           </div>
           <div id="getting-to-seattle">
             <p><a className="cta" href="/getting-to-seattle">Travel and Lodging</a></p>
