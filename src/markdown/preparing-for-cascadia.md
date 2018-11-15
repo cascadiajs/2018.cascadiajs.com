@@ -23,16 +23,16 @@ The conference is ~48 hours of pure awesome starting Thursday morning (11/15) an
 
 ### Thursday, Nov 15
 
-* 09:00 - Doors Open
-* 10:00 - Kick-off
+* 08:00 - Doors Open
+* 09:15 - Kick-off
 * 12:45 - Lunch
 * 17:45 - Day One ends
 * 19:15 - Opening Party
 
 ### Friday, Nov 16
 
-* 09:00 - Doors Open
-* 10:00 - Kick-off
+* 08:00 - Doors Open
+* 09:15 - Kick-off
 * 12:45 - Lunch
 * 17:45 - Day Two ends
 * 18:30 - Closing Party
