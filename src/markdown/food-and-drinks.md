@@ -122,4 +122,9 @@ Subway boxed lunches:
 
 **React Workshop**
 
-*Coming soon*
+Potbelly boxed lunches:
+
+* Assortment of meat subs
+* Salads
+* Chips
+* Cookie
