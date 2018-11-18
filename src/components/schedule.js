@@ -10,7 +10,7 @@ function Schedule ({ speakers }) {
   return (
     <div id={styles.component}>
       <p><img src="/the-conference.svg" alt="the conference sticker"/></p>
-      <p><a className="primary cta" href="https://ti.to/event-loop/cascadiajs-2018" title="Tickets On Sale!">Purchase Tickets</a></p>
+      <p><a className="nope" href="https://ti.to/event-loop/cascadiajs-2018" title="Event Ended">SOLD OUT</a></p>
       <div id={styles.days}>
         <Day1 speakers={speakers}/>
         <Day2 speakers={speakers}/>
