@@ -32,28 +32,32 @@
         "talk": "Creative Coding & Opening Up Open Source",
         "blurb": "This presentation is about coding interactive art in the browser. I will talk about p5js — what it is, and what we as developers can learn from its intentionally inclusive community.",
         "avatar": "/speakers/elgin-mcLaren.jpg",
-        "twitter": "elginskye"
+        "twitter": "elginskye",
+        "slides": "https://github.com/emclaren/creative-coding-cascadia-2018"
     },
     {
         "name": "Faddah Wolf",
         "talk": "Teaching the Sighted to Touch & Feel a Bit More",
         "blurb": "Braille is becoming more and more ubiquitous in many common spaces — airports, malls, libraries, etc. A college in Oregon needed an App built to help teach the friends \u0026 family of those who are sight impaired how to read Braille. Faddah Wolf will go over what accessibility options there are in common Mobile OS's, how he created a React Native six-key-input keyboard for Braille and how you can contribute to this Open Source project.",
         "avatar": "/speakers/faddah.jpg",
-        "twitter": "yuetsu"
+        "twitter": "yuetsu",
+        "slides": "http://bit.ly/cascadiajs2018-faddah"
     },
     {
         "name": "Megan Slater",
         "talk": "Lessons in WebAssembly: Client Side Video Editing",
         "blurb": "WebAssembly elicits hopes about everything from importing new functionalities into browser based applications, to the potential (and in some circles hoped for) death of JavaScript. This talk is for folks who are curious about the real world applications and limitations of WebAssembly as it exists today. We'll follow along the journey of some intrepid developers as they integrate the popular FFmpeg multimedia framework into a React application for the purposes of editing video client side.",
         "avatar": "/speakers/slater.jpg",
-        "twitter": "meslater1030"
-    },   
+        "twitter": "meslater1030",
+        "slides": "https://goo.gl/KU6My2"
+    },
     {
         "name": "Brian Leroux",
         "talk": "Even Faster: now with Functions!",
         "blurb": "The secret weapon of serverless architectures is extremely fast deployments with zero downtime. Surgical deploys allow for updating a single function in place within 1 second. All this adds up to faster iterations, which means quicker turnaround and that equals: super stoked devs!",
         "avatar": "/speakers/leroux.jpg",
-        "twitter": "brianleroux"
+        "twitter": "brianleroux",
+        "slides": "https://brianleroux.github.io/cjs18/"
     },
     {
         "name": "Tre Ammatuna",
@@ -67,14 +71,16 @@
         "talk": "Conversational Semantics for the Web",
         "blurb": "Over time, your users will become more accustomed to and reliant on voice-based interactions with their computers and, thereby, the web. Enabling them to complete critical tasks without a visual user interface will be crucial for the long-term success of your website. In this session, Aaron Gustafson will discuss how smart markup choices can improve the overall usability and accessibility of your projects without disrupting your current workflow.",
         "avatar": "/speakers/gustafson.jpg",
-        "twitter": "aarongustafson"
+        "twitter": "aarongustafson",
+        "slides": "https://noti.st/aarongustafson/YH1XLl"
     },
     {
         "name": "Shannon Capper",
         "talk": "Augmenting the Internet with Browser Extensions",
         "blurb": "A browser extension can give you the power to add a whole new user experience to any page on the Internet, but it also introduces some unique problems. In this talk, we’ll discuss some of the challenges my team at Textio faced when we built an extension to augment the writing experience on pages across the web, as well as the solutions we discovered for making our plugin low-profile and extensible.",
         "avatar": "/speakers/shannon-capper.jpg",
-        "github": "shannonlcapper"
+        "github": "shannonlcapper",
+        "slides": "https://github.com/shannonlcapper/cascadia-js-2018"
     },
     {
         "name": "Dominic Farolino",
@@ -109,14 +115,17 @@
         "talk": "N-API - The new native in node.js",
         "blurb": "Ever tried calling C++ from Node or Electron. Hate native modules because of the compilation and maintenance issues. This talk is all about the solution to this problem - N-API that is stable with node 10. C++ to Node.js interop is a lot of fun.",
         "avatar": "/speakers/atishay.jpg",
-        "github": "atishay"
+        "github": "atishay",
+        "slides": "https://github.com/atishay/napi",
+        "demo": "https://napi.atishay.me/"
     },
     {
         "name": "Will Klein",
         "talk": "How Linters, Compilers & Other Cool Things Work",
         "blurb": "Step inside your everyday JavaScript tools, and you’ll find the abstract syntax tree. With the AST, let’s discover how our tools work, how we can extend them, and build a better understanding of computer language along the way.",
         "avatar": "/speakers/will.jpg",
-        "twitter": "WillsLab"
+        "twitter": "WillsLab",
+        "slides": "https://cascadia.willslab.com/"
     },
     {
         "name": "James Snell",
