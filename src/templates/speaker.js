@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import styles from './speaker.module.css';
+import SpeakerSocialMedia from '../components/SpeakerSocialMedia.js';
 
 export default function SpeakerTemplate ({ pathContext: speaker }) {
   if (process.env.NODE_ENV !== 'production') {
@@ -8,7 +9,7 @@ export default function SpeakerTemplate ({ pathContext: speaker }) {
   }
   return (
     <div id={styles.container}>
-      <h1 className={styles.name}>{speaker.name}</h1>
+      <h1 className={styles.name}>{speaker.name} <SpeakerSocialMedia {...speaker} /></h1>
       <h1 className={styles.talk}>{speaker.talk}</h1>
       <div id={styles.speaker}>
         <div><img alt={'photo of ' + speaker.name} className="avatar" height="200" width="200" src={speaker.avatar}/></div>

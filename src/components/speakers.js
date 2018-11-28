@@ -3,32 +3,20 @@ import Link from 'gatsby-link';
 import PropTypes from 'prop-types';
 import { shuffle } from 'lodash';
 import styles from './speakers.module.css';
-
-console.log(styles);
+import SpeakerSocialMedia from './SpeakerSocialMedia.js';
 
 function Speakers ({ data }) {
-  let speakers = [];
-  console.log(data);
-  data.site.siteMetadata.speakers = shuffle(data.site.siteMetadata.speakers);
-  data.site.siteMetadata.speakers.forEach((o, k) => {
+  const speakers = shuffle(data.site.siteMetadata.speakers).map(speaker => {
     let name = <h3>&nbsp;<br/>&nbsp;</h3>;
-    let talk = o.talk;
-    let link = '';
-    if (o.name) {
-      if (o.twitter) {
-        link = <a href={'https://twitter.com/' + o.twitter}><img height="20" width="20" alt="twitter icon" src="/twitter.png"/></a>;
-      } else if (o.github) {
-        link = <a href={'https://github.com/' + o.github}><img height="20" width="20" alt="github icon" src="/github-logo.png"/></a>;
-      } else if (o.linkedin) {
-        link = <a href={'https://linkedin.com/in/' + o.linkedin}><img height="20" width="20" alt="linkedin icon" src="/linkedin-logo.png"/></a>;
-      }
-      name = <h3>{o.name.split(' ')[0]}<br/>{o.name.split(' ')[1]} {link}</h3>;
-      talk = <Link to={'/speakers/' + o.name.replace(' ', '-').toLowerCase()}>{o.talk}</Link>;
+    let talk = speaker.talk;
+    if (speaker.name) {
+      name = <h3>{speaker.name.split(' ')[0]}<br/>{speaker.name.split(' ')[1]} <SpeakerSocialMedia {...speaker} /></h3>;
+      talk = <Link to={'/speakers/' + speaker.name.replace(' ', '-').toLowerCase()}>{speaker.talk}</Link>;
     }
-    speakers.push(
-      <div key={k}>
+    return (
+      <div key={speaker.name}>
         {name}
-        <p><img className={styles.avatar} src={o.avatar} alt={o.name}/></p>
+        <p><img className={styles.avatar} src={speaker.avatar} alt={speaker.name}/></p>
         <p>{talk}</p>
       </div>
     );
