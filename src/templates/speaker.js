@@ -4,7 +4,7 @@ import YouTube from 'react-youtube';
 import styles from './speaker.module.css';
 import SpeakerSocialMedia from '../components/SpeakerSocialMedia.js';
 
-export default function SpeakerTemplate({ pathContext: speaker }) {
+export default function SpeakerTemplate ({ pathContext: speaker }) {
   if (process.env.NODE_ENV !== 'production') {
     console.log('speaker', speaker);
   }
