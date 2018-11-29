@@ -90,6 +90,10 @@ a.primary {
         text-align: center;
     }
 
+    #hiring-companies img {
+        height: 50px;
+    }
+
    #postconf {
         display: flex;
     }
