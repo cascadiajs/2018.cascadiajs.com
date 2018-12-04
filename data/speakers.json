@@ -159,7 +159,8 @@
         "talk": "SPA at Scale",
         "blurb": "At AWS for Everyone, we’re building v1 of a single page app, a new product that will transform many industries and change how people work.  We recently went through re-architecture of 200k lines of Front-end code, with the goals to scale the application for millions of customers, increase developer velocity for feature development, and speed up new team member ramp up time.  In this talk we will share top 5 lessons learn from our experience - in hindsight, what would we do/don’t do when building a large scale SPA.",
         "avatar": "/speakers/patrickwoo.jpg",
-        "twitter": "patrickwoo"
+        "twitter": "patrickwoo",
+        "youtube": "Zr51LyznkZI"
     },
     {
         "name": "Shannon Foster",
