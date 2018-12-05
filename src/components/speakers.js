@@ -4,6 +4,7 @@ import PropTypes from 'prop-types';
 import { shuffle } from 'lodash';
 import styles from './speakers.module.css';
 import SpeakerSocialMedia from './SpeakerSocialMedia.js';
+import SpeakerTalkIcon from './SpeakerTalkIcon.js';
 
 function Speakers ({ speakers }) {
   return (
@@ -19,6 +20,7 @@ function Speakers ({ speakers }) {
               {speaker.name.split(' ').slice(1).join(' ')}
               &nbsp;
               <SpeakerSocialMedia {...speaker} />
+              <SpeakerTalkIcon {...speaker} />
             </h3>
           );
           talk = <Link to={'/speakers/' + speaker.name.replace(' ', '-').toLowerCase()}>{speaker.talk}</Link>;
