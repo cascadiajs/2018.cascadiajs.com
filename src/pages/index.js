@@ -8,7 +8,7 @@ import Organizers from '../components/organizers';
 import Speakers from '../components/speakers';
 import './index.css';
 
-function IndexPage ({data}) {
+function IndexPage ({ data }) {
   return (
     <div>
       <Helmet
@@ -103,7 +103,7 @@ function IndexPage ({data}) {
         </section>
         <section id="speakers">
           <h2>Speakers</h2>
-          <Speakers data={data}/>
+          <Speakers speakers={data.site.siteMetadata.speakers} />
         </section>
         <section id="organizers">
           <h2>Organizers</h2>

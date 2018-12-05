@@ -28,6 +28,14 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     }
   });
 
+  const speakersTemplate = path.resolve(`src/templates/speakers.js`);
+  console.log(`creating page: /speakers`);
+  createPage({
+    path: '/speakers',
+    component: speakersTemplate,
+    context: { speakers }
+  });
+
   // create the markdown pages
 
   const markdownTemplate = path.resolve(`src/templates/markdown.js`);
@@ -49,13 +57,13 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       return Promise.reject(result.errors);
     }
 
-    result.data.allMarkdownRemark.edges.forEach(({node}) => {
+    result.data.allMarkdownRemark.edges.forEach(({ node }) => {
       let path = '/' + node.fileAbsolutePath.split('/').pop().slice(0, -3);
       console.log(`creating page: ${path}`);
       createPage({
         path: path,
         component: markdownTemplate,
-        context: {fileAbsolutePath: node.fileAbsolutePath}
+        context: { fileAbsolutePath: node.fileAbsolutePath }
       });
     });
   });
