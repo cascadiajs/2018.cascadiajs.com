@@ -8,10 +8,11 @@
     },
     {
         "name": "Yehuda Katz",
-        "talk": "Secret Talk",
+        "talk": "Enabling Web Developers to Build the Future of the Web",
         "blurb": "",
         "avatar": "/speakers/yehuda.jpg",
-        "twitter": "wycats"
+        "twitter": "wycats",
+        "youtube": "3bStv_QbFlo"
     },
     {
         "name": "Lauren Lee",
