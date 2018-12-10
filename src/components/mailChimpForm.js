@@ -69,8 +69,8 @@ class MailChimpForm extends React.Component {
                 />
               )}
               <label htmlFor="mce-EMAIL">
-                    Subscribe to get updates on the upcoming CascadiaJS 2018
-                    conference<br/><br/>
+                    Let&apos;s be email friends! Sign-up for updates on the upcoming CascadiaJS 2019
+                    conference!<br/><br/>
                 <input
                   type="email"
                   onChange={this.handleEmailChange}

@@ -39,6 +39,9 @@ function IndexPage ({ data }) {
         <section id="tagline">
           <p>CascadiaJS features a single track of 24 amazing speakers discussing the cutting-edge of JavaScript, web development and engineering culture over the course of 2 days. We also work hard to provide a <strong>safe</strong> and <strong>inclusive</strong> environment for everyone! We expect, and require, all organizers, sponsors, speakers, volunteers, and attendees of all levels to adhere to our <Link to="/code-of-conduct">Code of Conduct</Link>.</p>
         </section>
+        <section id="contact">
+          <MailChimpForm />
+        </section>
         <section id="preconf">
           <div id="accessibility">
             <p><a className="cta" href="/accessibility">Accessibility</a></p>
@@ -133,9 +136,6 @@ function IndexPage ({ data }) {
             <div><a href="https://www.mistyrobotics.com/"><img src="/logos/misty.svg" alt="Misty Robotics logo"/></a></div>
             <div><a href="https://esri.com/"><img src="/logos/esri.svg" alt="Esri logo"/></a></div>
           </section>
-        </section>
-        <section id="contact">
-          <MailChimpForm />
         </section>
       </div>
     </div>
