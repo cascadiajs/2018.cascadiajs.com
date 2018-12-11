@@ -62,7 +62,8 @@
         "blurb": "The secret weapon of serverless architectures is extremely fast deployments with zero downtime. Surgical deploys allow for updating a single function in place within 1 second. All this adds up to faster iterations, which means quicker turnaround and that equals: super stoked devs!",
         "avatar": "/speakers/leroux.jpg",
         "twitter": "brianleroux",
-        "slides": "https://brianleroux.github.io/cjs18/"
+        "slides": "https://brianleroux.github.io/cjs18/",
+        "youtube": "KkJ3DLDUfUY"
     },
     {
         "name": "Tre Ammatuna",
