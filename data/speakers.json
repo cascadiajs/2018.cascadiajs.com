@@ -136,7 +136,8 @@
         "blurb": "Step inside your everyday JavaScript tools, and you’ll find the abstract syntax tree. With the AST, let’s discover how our tools work, how we can extend them, and build a better understanding of computer language along the way.",
         "avatar": "/speakers/will.jpg",
         "twitter": "WillsLab",
-        "slides": "https://cascadia.willslab.com/"
+        "slides": "https://cascadia.willslab.com/",
+        "youtube": "JMqZgUNkqgk"
     },
     {
         "name": "James Snell",
