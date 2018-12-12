@@ -45,7 +45,8 @@
         "blurb": "Braille is becoming more and more ubiquitous in many common spaces — airports, malls, libraries, etc. A college in Oregon needed an App built to help teach the friends \u0026 family of those who are sight impaired how to read Braille. Faddah Wolf will go over what accessibility options there are in common Mobile OS's, how he created a React Native six-key-input keyboard for Braille and how you can contribute to this Open Source project.",
         "avatar": "/speakers/faddah.jpg",
         "twitter": "yuetsu",
-        "slides": "http://bit.ly/cascadiajs2018-faddah"
+        "slides": "http://bit.ly/cascadiajs2018-faddah",
+        "youtube": "QLwV34UJ8I8"
     },
     {
         "name": "Megan Slater",
