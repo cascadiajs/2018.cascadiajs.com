@@ -112,7 +112,8 @@
         "talk": "Raiders of the Javascript-based Malware",
         "blurb": "Some modern malware are designed entirely in Javascript and executed using the default Windows Script Host or within the user's browser. In this talk, we discuss the design, operation, and implementation intricacies of Javascript-based ransomware and cryptojacking malware.",
         "avatar": "/speakers/pranshu.jpg",
-        "twitter": "amirootyet"
+        "twitter": "amirootyet",
+        "youtube": "aoCRE0WoFx8"
     },
     {
         "name": "Tara Vancil",
@@ -129,7 +130,8 @@
         "avatar": "/speakers/atishay.jpg",
         "github": "atishay",
         "slides": "https://github.com/atishay/napi",
-        "demo": "https://napi.atishay.me/"
+        "demo": "https://napi.atishay.me/",
+        "youtube": "E0w7Tc0f2fA"
     },
     {
         "name": "Will Klein",
@@ -145,7 +147,8 @@
         "talk": "Observing Node.js",
         "blurb": "Understanding what is really happening within your Node.js processes can be... Difficult. I'll pull back the curtain and demonstrate tools and techniques for observing Node.js.",
         "avatar": "/speakers/snell.jpg",
-        "twitter": "jasnell"
+        "twitter": "jasnell",
+        "youtube": "C8dwQw7M8Pk"
     },
     {
         "name": "Ruth John",
@@ -184,7 +187,8 @@
         "talk": "Let’s Talk About Mentoring",
         "blurb": "Throughout my career I've had many mentors who have been critical to my own growth. I'll just say it, you should have a mentor and you should be a mentor. Intrigued to know why? Come to this talk. In this session we'll talk about why you should care about mentoring and how it can help you with your career, how you can find a mentor, the components of a mentor-lationship, what makes a good mentor, and how you can become one.",
         "avatar": "/speakers/gblock.jpg",
-        "twitter": "gblock"       
+        "twitter": "gblock",
+        "youtube": "WsTYfQXF8MA"
     },
     {
         "name": "Laker Sparks",
