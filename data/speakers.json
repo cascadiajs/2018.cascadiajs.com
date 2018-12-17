@@ -4,7 +4,8 @@
         "talk": "The Future of the Web",
         "blurb": "The original vision of the Internet was for a fully decentralized system that empowered its users at the edges. In the many years since the birth of The Web we’ve moved more towards centralized structures to solve the issues of scale and data and it has not come without consequence. In order to move past these issues we need new primitives for a new vision of The Web that can be decentralized.",
         "avatar": "/speakers/mikeal.png",
-        "twitter": "mikeal"
+        "twitter": "mikeal",
+        "youtube": "83Gws-dPL8A"
     },
     {
         "name": "Yehuda Katz",
@@ -156,7 +157,8 @@
         "blurb": "Come and be fascinated by the world of audio visualisation in a browser. This isn’t just about creating stunning data vis to music! We see how we can pipe data realtime into custom properties to enhance our visuals. Ruth will re-address how we analyse sound via the Web Audio API and proposes a better way of processing the data to better suit music. And, to top it all off, we harness the Web MIDI API for full hardware control as well. You may not think it, but this really is a talk with a great deal of take-aways and new techniques for you to consider in your coding life.",
         "avatar": "/speakers/ruth.jpg",
         "twitter": "Rumyra",
-        "slides": "https://github.com/Rumyra/Talk-Be-AV-Artist"
+        "slides": "https://github.com/Rumyra/Talk-Be-AV-Artist",
+        "youtube": "Dt4I-96C-pg"
     },
     {
         "name": "Memo Döring",
