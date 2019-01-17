@@ -172,7 +172,7 @@
     {
         "name": "Patrick Woo",
         "talk": "SPA at Scale",
-        "blurb": "At AWS for Everyone, we’re building v1 of a single page app, a new product that will transform many industries and change how people work.  We recently went through re-architecture of 200k lines of Front-end code, with the goals to scale the application for millions of customers, increase developer velocity for feature development, and speed up new team member ramp up time.  In this talk we will share top 5 lessons learn from our experience - in hindsight, what would we do/don’t do when building a large scale SPA.",
+        "blurb": "Many modern web applications are built as single page apps (SPA), with the goals to scale the application for customers, increase developer velocity for feature development, and speed up new team member ramp up time. In this talk we will share top 5 lessons learn - in hindsight, what would we do/don’t do when building a large scale SPA.",
         "avatar": "/speakers/patrickwoo.jpg",
         "twitter": "patrickwoo",
         "youtube": "Zr51LyznkZI"
